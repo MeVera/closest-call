@@ -2,669 +2,897 @@
  {
   "title": "Cavern Club",
   "place": "Liverpool, England",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Opened on 16 January 1957 as a jazz club, it regularly hosted the Beatles in their early years.",
+  "factSource": "https://en.wikipedia.org/wiki/The_Cavern_Club"
  },
  {
   "title": "Royal Albert Hall",
   "place": "London, England",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Opened by Queen Victoria in 1871, it has hosted the BBC Proms every summer since 1941.",
+  "factSource": "https://en.wikipedia.org/wiki/Royal_Albert_Hall"
  },
  {
   "title": "Sydney Opera House",
   "place": "Sydney, Australia",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Designed by Danish architect Jørn Utzon, it was opened by Queen Elizabeth II on 20 October 1973.",
+  "factSource": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
  },
  {
   "title": "Carnegie Hall",
   "place": "New York, United States",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Built by industrialist Andrew Carnegie, it stands at 881 Seventh Avenue in Midtown Manhattan.",
+  "factSource": "https://en.wikipedia.org/wiki/Carnegie_Hall"
  },
  {
   "title": "Hollywood Bowl",
   "place": "Los Angeles, United States",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Its bandshell sits against the Hollywood Hills, with the Hollywood Sign to the northeast.",
+  "factSource": "https://en.wikipedia.org/wiki/Hollywood_Bowl"
  },
  {
   "title": "Red Rocks Amphitheatre",
   "place": "Morrison, United States",
-  "kind": "venue"
- },
- {
-  "title": "Grand Ole Opry House",
-  "place": "Nashville, United States",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Its seats are flanked by two huge sandstone monoliths, Ship Rock and Creation Rock.",
+  "factSource": "https://en.wikipedia.org/wiki/Red_Rocks_Amphitheatre"
  },
  {
   "title": "Apollo Theater",
   "place": "New York, United States",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Home of the TV show Showtime at the Apollo, it stands on West 125th Street in Harlem.",
+  "factSource": "https://en.wikipedia.org/wiki/Apollo_Theater"
  },
  {
   "title": "Hitsville U.S.A.",
   "place": "Detroit, United States",
   "kind": "studio",
-  "name": "Hitsville U.S.A. (Motown)"
+  "name": "Hitsville U.S.A. (Motown)",
+  "fact": "Motown founder Berry Gordy bought the house in 1959 and made it the label's headquarters and studio.",
+  "factSource": "https://en.wikipedia.org/wiki/Hitsville_U.S.A."
  },
  {
   "title": "Electric Lady Studios",
   "place": "New York, United States",
-  "kind": "studio"
+  "kind": "studio",
+  "fact": "Jimi Hendrix commissioned it in 1968 but recorded there for only ten weeks before his death.",
+  "factSource": "https://en.wikipedia.org/wiki/Electric_Lady_Studios"
  },
  {
   "title": "Capitol Records Building",
   "place": "Los Angeles, United States",
-  "kind": "studio"
+  "kind": "studio",
+  "fact": "Completed in April 1956, the 13-story tower stands just north of Hollywood and Vine.",
+  "factSource": "https://en.wikipedia.org/wiki/Capitol_Records_Building"
  },
  {
   "title": "Whisky a Go Go",
   "place": "Los Angeles, United States",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "On the Sunset Strip, it was central to the Los Angeles music scene from the 1960s to the 1990s.",
+  "factSource": "https://en.wikipedia.org/wiki/Whisky_a_Go_Go"
  },
  {
   "title": "CBGB",
   "place": "New York, United States",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "The letters stood for Country, Bluegrass, Blues, yet the club became famous for punk and new wave.",
+  "factSource": "https://en.wikipedia.org/wiki/CBGB"
  },
  {
-  "title": "Stax Records",
+  "title": "Stax Museum of American Soul Music",
   "place": "Memphis, United States",
   "kind": "studio",
-  "name": "Stax Records studio"
+  "name": "Stax Records studio (Soulsville)",
+  "fact": "The label's name joins its founders' surnames: Jim STewart and Estelle AXton.",
+  "factSource": "https://en.wikipedia.org/wiki/Stax_Records"
  },
  {
   "title": "Muscle Shoals Sound Studio",
   "place": "Sheffield, United States",
-  "kind": "studio"
+  "kind": "studio",
+  "fact": "Formed in 1969 by the Muscle Shoals Rhythm Section after they left nearby FAME Studios.",
+  "factSource": "https://en.wikipedia.org/wiki/Muscle_Shoals_Sound_Studio"
  },
  {
   "title": "Hansa Studios",
   "place": "Berlin, Germany",
-  "kind": "studio"
+  "kind": "studio",
+  "fact": "It stands about 150 metres from the former Berlin Wall, hence the nickname 'Hansa by the Wall'.",
+  "factSource": "https://en.wikipedia.org/wiki/Hansa_Tonstudio"
  },
  {
   "title": "Olympia (Paris)",
   "place": "Paris, France",
   "kind": "venue",
-  "name": "L'Olympia"
+  "name": "L'Olympia",
+  "fact": "Opened in 1893 by a co-creator of the Moulin Rouge, it is on the Boulevard des Capucines.",
+  "factSource": "https://en.wikipedia.org/wiki/Olympia_(Paris)"
  },
  {
   "title": "Wiener Musikverein",
   "place": "Vienna, Austria",
   "kind": "venue",
-  "name": "Musikverein"
+  "name": "Musikverein",
+  "fact": "Designed by Theophil Hansen, it has housed the Vienna Philharmonic since it opened in 1870.",
+  "factSource": "https://en.wikipedia.org/wiki/Musikverein"
  },
  {
   "title": "Vienna State Opera",
   "place": "Vienna, Austria",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Built from 1861 to 1869, it was the first major building on the Vienna Ring Road.",
+  "factSource": "https://en.wikipedia.org/wiki/Vienna_State_Opera"
  },
  {
   "title": "La Scala",
   "place": "Milan, Italy",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "It opened on 3 August 1778 with Antonio Salieri's opera Europa riconosciuta.",
+  "factSource": "https://en.wikipedia.org/wiki/La_Scala"
  },
  {
   "title": "Bayreuth Festspielhaus",
   "place": "Bayreuth, Germany",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Richard Wagner built it himself, and it is dedicated solely to his stage works.",
+  "factSource": "https://en.wikipedia.org/wiki/Bayreuth_Festspielhaus"
  },
  {
   "title": "Elbphilharmonie",
   "place": "Hamburg, Germany",
-  "kind": "venue"
- },
- {
-  "title": "Concertgebouw",
-  "place": "Amsterdam, Netherlands",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "The concert hall sits on top of an old brick warehouse, Kaispeicher A, in Hamburg's HafenCity.",
+  "factSource": "https://en.wikipedia.org/wiki/Elbphilharmonie"
  },
  {
   "title": "Paradiso (Amsterdam)",
   "place": "Amsterdam, Netherlands",
   "kind": "venue",
-  "name": "Paradiso"
+  "name": "Paradiso",
+  "fact": "Built in 1880 as a church for a free congregation, it became a music venue in 1968.",
+  "factSource": "https://en.wikipedia.org/wiki/Paradiso_(Amsterdam)"
  },
  {
   "title": "Roskilde Festival",
   "place": "Roskilde, Denmark",
-  "kind": "festival"
+  "kind": "festival",
+  "fact": "Created in 1971 by two high school students and a promoter, it is the largest festival in the Nordic countries.",
+  "factSource": "https://en.wikipedia.org/wiki/Roskilde_Festival"
  },
  {
   "title": "Wacken Open Air",
   "place": "Wacken, Germany",
-  "kind": "festival"
+  "kind": "festival",
+  "fact": "Held every August since 1990, it has been called the 'Mecca of heavy metal'.",
+  "factSource": "https://en.wikipedia.org/wiki/Wacken_Open_Air"
  },
  {
   "title": "Tomorrowland (festival)",
   "place": "Boom, Belgium",
   "kind": "festival",
-  "name": "Tomorrowland"
+  "name": "Tomorrowland",
+  "fact": "First held in 2005 in De Schorre park, it was conceived by brothers Manu and Michiel Beers.",
+  "factSource": "https://en.wikipedia.org/wiki/Tomorrowland_(festival)"
  },
  {
   "title": "Montreux Jazz Festival",
   "place": "Montreux, Switzerland",
-  "kind": "festival"
+  "kind": "festival",
+  "fact": "Held each July on the shore of Lake Geneva, it is the world's second-largest annual jazz festival.",
+  "factSource": "https://en.wikipedia.org/wiki/Montreux_Jazz_Festival"
  },
  {
   "title": "Coachella",
   "place": "Indio, United States",
   "kind": "festival",
-  "name": "Coachella"
+  "name": "Coachella",
+  "fact": "Held at the Empire Polo Club in Indio, it was co-founded in 1999 by Paul Tollett and Rick Van Santen.",
+  "factSource": "https://en.wikipedia.org/wiki/Coachella"
  },
  {
   "title": "Isle of Wight Festival",
   "place": "Newport, England",
-  "kind": "festival"
- },
- {
-  "title": "Reading and Leeds Festivals",
-  "place": "Reading, England",
   "kind": "festival",
-  "name": "Reading Festival"
+  "fact": "So many people came in 1970 that Parliament restricted large overnight gatherings on the island.",
+  "factSource": "https://en.wikipedia.org/wiki/Isle_of_Wight_Festival"
  },
  {
   "title": "Sziget Festival",
   "place": "Budapest, Hungary",
-  "kind": "festival"
+  "kind": "festival",
+  "fact": "Held on Óbuda Island in the Danube, it grew from a low-profile student event in 1993.",
+  "factSource": "https://en.wikipedia.org/wiki/Sziget_Festival"
  },
  {
   "title": "Exit (festival)",
   "place": "Novi Sad, Serbia",
   "kind": "festival",
-  "name": "Exit Festival"
+  "name": "Exit Festival",
+  "fact": "It was traditionally staged inside the Petrovaradin Fortress in Novi Sad.",
+  "factSource": "https://en.wikipedia.org/wiki/Exit_(festival)"
  },
  {
   "title": "Bolshoi Theatre",
   "place": "Moscow, Russia",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Its Bolshoi Ballet is by far the biggest ballet company in the world.",
+  "factSource": "https://en.wikipedia.org/wiki/Bolshoi_Theatre"
  },
  {
   "title": "Teatro Colón",
   "place": "Buenos Aires, Argentina",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "The present theatre opened on 25 May 1908 and is renowned for its acoustics.",
+  "factSource": "https://en.wikipedia.org/wiki/Teatro_Colón"
  },
  {
   "title": "Nippon Budokan",
   "place": "Tokyo, Japan",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "It was built for the first Olympic judo competition, at the 1964 Tokyo Games.",
+  "factSource": "https://en.wikipedia.org/wiki/Nippon_Budokan"
  },
  {
   "title": "Massey Hall",
   "place": "Toronto, Canada",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Opened in 1894, it was a gift to the people of Toronto from industrialist Hart Massey.",
+  "factSource": "https://en.wikipedia.org/wiki/Massey_Hall"
  },
  {
   "title": "Preservation Hall",
   "place": "New Orleans, United States",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "This jazz venue on St Peter Street in the French Quarter gets about 180,000 visitors a year.",
+  "factSource": "https://en.wikipedia.org/wiki/Preservation_Hall"
  },
  {
   "title": "The Fillmore",
   "place": "San Francisco, United States",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Built in 1912 as the Majestic Hall, it became the Fillmore Auditorium in 1954.",
+  "factSource": "https://en.wikipedia.org/wiki/The_Fillmore"
  },
  {
   "title": "Ronnie Scott's Jazz Club",
   "place": "London, England",
   "kind": "venue",
-  "name": "Ronnie Scott's"
+  "name": "Ronnie Scott's",
+  "fact": "This jazz club in Soho has been operating since 1959.",
+  "factSource": "https://en.wikipedia.org/wiki/Ronnie_Scott's_Jazz_Club"
  },
  {
   "title": "Palais Garnier",
   "place": "Paris, France",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "It was built for the Paris Opera from 1861 to 1875 at the behest of Emperor Napoleon III.",
+  "factSource": "https://en.wikipedia.org/wiki/Palais_Garnier"
  },
  {
   "title": "Gewandhaus",
   "place": "Leipzig, Germany",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Home of the Leipzig Gewandhaus Orchestra, today's hall is the third to bear the name.",
+  "factSource": "https://en.wikipedia.org/wiki/Gewandhaus"
  },
  {
   "title": "Rudolfinum",
   "place": "Prague, Czech Republic",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "Its Dvořák Hall is home to the Czech Philharmonic and a main venue of the Prague Spring festival.",
+  "factSource": "https://en.wikipedia.org/wiki/Rudolfinum"
  },
  {
   "title": "Rockfield Studios",
   "place": "Monmouth, Wales",
-  "kind": "studio"
+  "kind": "studio",
+  "fact": "This residential studio in the Wye Valley was founded in 1963 by brothers Kingsley and Charles Ward.",
+  "factSource": "https://en.wikipedia.org/wiki/Rockfield_Studios"
  },
  {
   "title": "Compass Point Studios",
   "place": "Nassau, Bahamas",
-  "kind": "studio"
- },
- {
-  "title": "Studio One (record label)",
-  "place": "Kingston, Jamaica",
   "kind": "studio",
-  "name": "Studio One"
+  "fact": "Island Records founder Chris Blackwell set it up in 1977, 16 km west of downtown Nassau.",
+  "factSource": "https://en.wikipedia.org/wiki/Compass_Point_Studios"
  },
  {
   "title": "Bob Marley Museum",
   "place": "Kingston, Jamaica",
   "kind": "studio",
-  "name": "Tuff Gong (Bob Marley Museum)"
+  "name": "Tuff Gong (Bob Marley Museum)",
+  "fact": "Marley's former home at 56 Hope Road was also home to his Tuff Gong record label.",
+  "factSource": "https://en.wikipedia.org/wiki/Bob_Marley_Museum"
  },
  {
   "title": "New Afrika Shrine",
   "place": "Lagos, Nigeria",
-  "kind": "venue"
+  "kind": "venue",
+  "fact": "It replaced Fela Kuti's original Afrika Shrine, which burned down in 1977.",
+  "factSource": "https://en.wikipedia.org/wiki/New_Afrika_Shrine"
  },
  {
   "title": "Fuji Rock Festival",
   "place": "Yuzawa, Japan",
-  "kind": "festival"
+  "kind": "festival",
+  "fact": "Named after its first event at the base of Mount Fuji in 1997, it moved to Naeba Ski Resort in 1999.",
+  "factSource": "https://en.wikipedia.org/wiki/Fuji_Rock_Festival"
  },
  {
   "title": "The Rolling Stones",
   "place": "London, England",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Their first stable line-up was Mick Jagger, Keith Richards, Brian Jones, Bill Wyman and Charlie Watts.",
+  "factSource": "https://en.wikipedia.org/wiki/The_Rolling_Stones"
  },
  {
   "title": "Queen (band)",
   "place": "London, England",
   "kind": "artist",
-  "name": "Queen"
+  "name": "Queen",
+  "fact": "Formed in London in 1970; Brian May and Roger Taylor had played together before in the band Smile.",
+  "factSource": "https://en.wikipedia.org/wiki/Queen_(band)"
  },
  {
   "title": "U2",
   "place": "Dublin, Ireland",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Dublin in 1976 by Bono, the Edge, Adam Clayton and Larry Mullen Jr.",
+  "factSource": "https://en.wikipedia.org/wiki/U2"
  },
  {
   "title": "AC/DC",
   "place": "Sydney, Australia",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Sydney in 1973 by brothers Angus and Malcolm Young.",
+  "factSource": "https://en.wikipedia.org/wiki/AC/DC"
  },
  {
   "title": "INXS",
   "place": "Sydney, Australia",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Originally called the Farriss Brothers, their name is a play on 'in excess'.",
+  "factSource": "https://en.wikipedia.org/wiki/INXS"
  },
  {
   "title": "Nirvana (band)",
   "place": "Aberdeen, United States",
   "kind": "artist",
-  "name": "Nirvana"
+  "name": "Nirvana",
+  "fact": "Kurt Cobain and Krist Novoselic founded the band in Aberdeen, Washington, in 1987.",
+  "factSource": "https://en.wikipedia.org/wiki/Nirvana_(band)"
  },
  {
   "title": "Pearl Jam",
   "place": "Seattle, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Seattle in 1990, they were a key band of the early-1990s grunge movement.",
+  "factSource": "https://en.wikipedia.org/wiki/Pearl_Jam"
  },
  {
   "title": "Metallica",
   "place": "Los Angeles, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "James Hetfield and Lars Ulrich formed the band in Los Angeles in 1981.",
+  "factSource": "https://en.wikipedia.org/wiki/Metallica"
  },
  {
   "title": "The Beach Boys",
   "place": "Hawthorne, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in 1961 by brothers Brian, Dennis and Carl Wilson, cousin Mike Love and friend Al Jardine.",
+  "factSource": "https://en.wikipedia.org/wiki/The_Beach_Boys"
  },
  {
   "title": "Kraftwerk",
   "place": "Düsseldorf, Germany",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Ralf Hütter and Florian Schneider formed the band in Düsseldorf in 1970; the name means 'power plant'.",
+  "factSource": "https://en.wikipedia.org/wiki/Kraftwerk"
  },
  {
   "title": "Rammstein",
   "place": "Berlin, Germany",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Berlin in 1994, the band's six-man line-up has never changed.",
+  "factSource": "https://en.wikipedia.org/wiki/Rammstein"
  },
  {
   "title": "Daft Punk",
   "place": "Paris, France",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Thomas Bangalter and Guy-Manuel de Homem-Christo formed the duo in Paris in 1993.",
+  "factSource": "https://en.wikipedia.org/wiki/Daft_Punk"
  },
  {
   "title": "Radiohead",
   "place": "Abingdon, England",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Abingdon, Oxfordshire, in 1985; their debut single was 'Creep'.",
+  "factSource": "https://en.wikipedia.org/wiki/Radiohead"
  },
  {
   "title": "Arctic Monkeys",
   "place": "Sheffield, England",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Sheffield in 2002, they were among the first bands to find fame through the internet.",
+  "factSource": "https://en.wikipedia.org/wiki/Arctic_Monkeys"
  },
  {
   "title": "The Smiths",
   "place": "Manchester, England",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Manchester in 1982, with Morrissey and Johnny Marr writing the songs.",
+  "factSource": "https://en.wikipedia.org/wiki/The_Smiths"
  },
  {
   "title": "Black Sabbath",
   "place": "Birmingham, England",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Before taking their name in 1969 they were the Polka Tulk Blues Band, and then Earth.",
+  "factSource": "https://en.wikipedia.org/wiki/Black_Sabbath"
  },
  {
   "title": "Crowded House",
   "place": "Melbourne, Australia",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Neil Finn, Paul Hester and Nick Seymour formed the band in Melbourne in 1985.",
+  "factSource": "https://en.wikipedia.org/wiki/Crowded_House"
  },
  {
   "title": "BTS",
   "place": "Seoul, South Korea",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Their Korean name, Bangtan Sonyeondan, means 'Bulletproof Boy Scouts'.",
+  "factSource": "https://en.wikipedia.org/wiki/BTS"
  },
  {
   "title": "Sigur Rós",
   "place": "Reykjavík, Iceland",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Singer Jónsi often uses 'Vonlenska', the band's term for wordless vocals.",
+  "factSource": "https://en.wikipedia.org/wiki/Sigur_Rós"
  },
  {
   "title": "The Cranberries",
   "place": "Limerick, Ireland",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Limerick in 1989, they were first called The Cranberry Saw Us.",
+  "factSource": "https://en.wikipedia.org/wiki/The_Cranberries"
  },
  {
   "title": "Simple Minds",
   "place": "Glasgow, Scotland",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Glasgow in 1977 around Jim Kerr and Charlie Burchill.",
+  "factSource": "https://en.wikipedia.org/wiki/Simple_Minds"
  },
  {
   "title": "A-ha",
   "place": "Oslo, Norway",
   "kind": "artist",
-  "name": "a-ha"
+  "name": "a-ha",
+  "fact": "Formed in Oslo in 1982; their debut album was Hunting High and Low.",
+  "factSource": "https://en.wikipedia.org/wiki/A-ha"
  },
  {
   "title": "Roxette",
   "place": "Halmstad, Sweden",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Per Gessle already fronted Gyllene Tider before forming Roxette with Marie Fredriksson.",
+  "factSource": "https://en.wikipedia.org/wiki/Roxette"
  },
  {
   "title": "Scorpions (band)",
   "place": "Hanover, Germany",
   "kind": "artist",
-  "name": "Scorpions"
+  "name": "Scorpions",
+  "fact": "Guitarist Rudolf Schenker formed the band in Hanover in 1965.",
+  "factSource": "https://en.wikipedia.org/wiki/Scorpions_(band)"
  },
  {
   "title": "The Doors",
   "place": "Los Angeles, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Los Angeles in 1965, with Jim Morrison on vocals.",
+  "factSource": "https://en.wikipedia.org/wiki/The_Doors"
  },
  {
   "title": "Grateful Dead",
   "place": "Palo Alto, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Palo Alto in 1965; their devoted fans are known as 'Deadheads'.",
+  "factSource": "https://en.wikipedia.org/wiki/Grateful_Dead"
  },
  {
   "title": "Talking Heads",
   "place": "New York, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "David Byrne, Chris Frantz and Tina Weymouth met as students at the Rhode Island School of Design.",
+  "factSource": "https://en.wikipedia.org/wiki/Talking_Heads"
  },
  {
   "title": "Gipsy Kings",
   "place": "Arles, France",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Founded in Arles in 1979, the group was originally called Los Reyes.",
+  "factSource": "https://en.wikipedia.org/wiki/Gipsy_Kings"
  },
  {
   "title": "Ladysmith Black Mambazo",
   "place": "Ladysmith, South Africa",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "They became known worldwide after singing on Paul Simon's 1986 album Graceland.",
+  "factSource": "https://en.wikipedia.org/wiki/Ladysmith_Black_Mambazo"
  },
  {
   "title": "Soda Stereo",
   "place": "Buenos Aires, Argentina",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Buenos Aires in 1982, they are the best-selling Argentine band of all time.",
+  "factSource": "https://en.wikipedia.org/wiki/Soda_Stereo",
+  "coord": "enwiki:Buenos Aires"
  },
  {
   "title": "Midnight Oil",
   "place": "Sydney, Australia",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Formed in Sydney in 1972, with Peter Garrett as lead singer.",
+  "factSource": "https://en.wikipedia.org/wiki/Midnight_Oil"
  },
  {
   "title": "Led Zeppelin",
   "place": "London, England",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Robert Plant, Jimmy Page, John Paul Jones and John Bonham formed the band in London in 1968.",
+  "factSource": "https://en.wikipedia.org/wiki/Led_Zeppelin"
  },
  {
   "title": "Bob Marley",
   "place": "Nine Mile, Jamaica",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "A pioneer of reggae, he became a global symbol of Jamaican music and culture.",
+  "factSource": "https://en.wikipedia.org/wiki/Bob_Marley"
  },
  {
   "title": "Frank Sinatra",
   "place": "Hoboken, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born to Italian immigrants in Hoboken, he was nicknamed 'Ol' Blue Eyes'.",
+  "factSource": "https://en.wikipedia.org/wiki/Frank_Sinatra"
  },
  {
   "title": "Louis Armstrong",
   "place": "New Orleans, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Nicknamed 'Satchmo', he won a Grammy in 1965 for 'Hello, Dolly!'.",
+  "factSource": "https://en.wikipedia.org/wiki/Louis_Armstrong"
  },
  {
   "title": "Aretha Franklin",
   "place": "Memphis, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Rolling Stone twice named the 'Queen of Soul' the greatest singer of all time.",
+  "factSource": "https://en.wikipedia.org/wiki/Aretha_Franklin"
  },
  {
   "title": "Jimi Hendrix",
   "place": "Seattle, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born Johnny Allen Hendrix, he began playing guitar at 15.",
+  "factSource": "https://en.wikipedia.org/wiki/Jimi_Hendrix"
  },
  {
   "title": "Bob Dylan",
   "place": "Duluth, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "He was born Robert Allen Zimmerman in 1941.",
+  "factSource": "https://en.wikipedia.org/wiki/Bob_Dylan"
  },
  {
   "title": "Prince (musician)",
   "place": "Minneapolis, United States",
   "kind": "artist",
-  "name": "Prince"
+  "name": "Prince",
+  "fact": "Born and raised in Minneapolis, he pioneered the 'Minneapolis sound'.",
+  "factSource": "https://en.wikipedia.org/wiki/Prince_(musician)"
  },
  {
   "title": "Michael Jackson",
   "place": "Gary, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "The 'King of Pop' popularised dance moves such as the moonwalk.",
+  "factSource": "https://en.wikipedia.org/wiki/Michael_Jackson",
+  "coord": "enwiki:Gary, Indiana"
  },
  {
   "title": "Madonna",
   "place": "Bay City, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born Madonna Louise Ciccone, she is known as the 'Queen of Pop'.",
+  "factSource": "https://en.wikipedia.org/wiki/Madonna"
  },
  {
   "title": "Beyoncé",
   "place": "Houston, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "She rose to fame in the late 1990s as lead singer of Destiny's Child.",
+  "factSource": "https://en.wikipedia.org/wiki/Beyoncé"
  },
  {
   "title": "Kylie Minogue",
   "place": "Melbourne, Australia",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "She is the highest-selling Australian-born female artist of all time.",
+  "factSource": "https://en.wikipedia.org/wiki/Kylie_Minogue"
  },
  {
   "title": "Björk",
   "place": "Reykjavík, Iceland",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born and raised in Reykjavík, she began her music career at the age of 11.",
+  "factSource": "https://en.wikipedia.org/wiki/Björk"
  },
  {
   "title": "Édith Piaf",
   "place": "Paris, France",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born Édith Gassion, she was discovered in Paris in 1935 by nightclub owner Louis Leplée.",
+  "factSource": "https://en.wikipedia.org/wiki/Édith_Piaf"
  },
  {
   "title": "Wolfgang Amadeus Mozart",
   "place": "Salzburg, Austria",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born in Salzburg, he completed more than 800 works in his short life.",
+  "factSource": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
  },
  {
   "title": "Ludwig van Beethoven",
   "place": "Bonn, Germany",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born in Bonn, he was baptised on 17 December 1770.",
+  "factSource": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven"
  },
  {
   "title": "Frédéric Chopin",
   "place": "Żelazowa Wola, Poland",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born in Żelazowa Wola, he grew up in Warsaw and left Poland at 20.",
+  "factSource": "https://en.wikipedia.org/wiki/Frédéric_Chopin"
  },
  {
   "title": "Johann Sebastian Bach",
   "place": "Eisenach, Germany",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "His works include the Brandenburg Concertos and the Goldberg Variations.",
+  "factSource": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
  },
  {
   "title": "Pyotr Ilyich Tchaikovsky",
   "place": "Votkinsk, Russia",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "He was the first Russian composer whose music made a lasting impression internationally.",
+  "factSource": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
  },
  {
   "title": "Antonio Vivaldi",
   "place": "Venice, Italy",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "A virtuoso violinist, he made the solo concerto a widely followed form.",
+  "factSource": "https://en.wikipedia.org/wiki/Antonio_Vivaldi"
  },
  {
   "title": "Giuseppe Verdi",
   "place": "Busseto, Italy",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born near Busseto, he came to dominate Italian opera after Rossini, Bellini and Donizetti.",
+  "factSource": "https://en.wikipedia.org/wiki/Giuseppe_Verdi"
  },
  {
   "title": "Fela Kuti",
   "place": "Abeokuta, Nigeria",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "He is regarded as the principal innovator of Afrobeat.",
+  "factSource": "https://en.wikipedia.org/wiki/Fela_Kuti"
  },
  {
   "title": "Youssou N'Dour",
   "place": "Dakar, Senegal",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "He helped develop mbalax and was Senegal's Minister of Tourism from 2012 to 2013.",
+  "factSource": "https://en.wikipedia.org/wiki/Youssou_N'Dour"
  },
  {
   "title": "Umm Kulthum",
   "place": "Tamay ez-Zahayra, Egypt",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "She has been called 'The Voice of Egypt' and 'Egypt's Fourth Pyramid'.",
+  "factSource": "https://en.wikipedia.org/wiki/Umm_Kulthum"
  },
  {
   "title": "Shakira",
   "place": "Barranquilla, Colombia",
-  "kind": "artist"
- },
- {
-  "title": "Celia Cruz",
-  "place": "Havana, Cuba",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "She is known as the 'Queen of Latin Music'.",
+  "factSource": "https://en.wikipedia.org/wiki/Shakira"
  },
  {
   "title": "Antônio Carlos Jobim",
   "place": "Rio de Janeiro, Brazil",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Also known as Tom Jobim, he is considered one of the fathers of bossa nova.",
+  "factSource": "https://en.wikipedia.org/wiki/Antônio_Carlos_Jobim",
+  "coord": "enwiki:Rio de Janeiro"
  },
  {
   "title": "Freddie Mercury",
   "place": "Zanzibar City, Tanzania",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born Farrokh Bulsara in Zanzibar in 1946, he became the lead singer of Queen.",
+  "factSource": "https://en.wikipedia.org/wiki/Freddie_Mercury"
  },
  {
   "title": "Elton John",
   "place": "Pinner, England",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born Reginald Kenneth Dwight, he has written songs with lyricist Bernie Taupin for decades.",
+  "factSource": "https://en.wikipedia.org/wiki/Elton_John"
  },
  {
   "title": "Ed Sheeran",
   "place": "Halifax, England",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born in Halifax, West Yorkshire, he was raised in Framlingham, Suffolk.",
+  "factSource": "https://en.wikipedia.org/wiki/Ed_Sheeran",
+  "coord": "enwiki:Halifax, West Yorkshire"
  },
  {
   "title": "Celine Dion",
   "place": "Charlemagne, Canada",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born into a large family in Charlemagne, Quebec, she is the best-selling Canadian recording artist.",
+  "factSource": "https://en.wikipedia.org/wiki/Celine_Dion"
  },
  {
   "title": "Drake (musician)",
   "place": "Toronto, Canada",
   "kind": "artist",
-  "name": "Drake"
+  "name": "Drake",
+  "fact": "He first became known playing Jimmy Brooks in Degrassi: The Next Generation.",
+  "factSource": "https://en.wikipedia.org/wiki/Drake_(musician)"
  },
  {
   "title": "Rihanna",
   "place": "Saint Michael, Barbados",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born Robyn Rihanna Fenty, she debuted with Music of the Sun in 2005.",
+  "factSource": "https://en.wikipedia.org/wiki/Rihanna"
  },
  {
   "title": "Ravi Shankar",
   "place": "Varanasi, India",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "A sitar virtuoso, he helped bring Indian classical music to audiences worldwide.",
+  "factSource": "https://en.wikipedia.org/wiki/Ravi_Shankar"
  },
  {
   "title": "A. R. Rahman",
   "place": "Chennai, India",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born A. S. Dileep Kumar, he has won two Academy Awards.",
+  "factSource": "https://en.wikipedia.org/wiki/A._R._Rahman"
  },
  {
   "title": "Lata Mangeshkar",
   "place": "Indore, India",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "She recorded songs in over thirty-six Indian languages.",
+  "factSource": "https://en.wikipedia.org/wiki/Lata_Mangeshkar"
  },
  {
   "title": "Buddy Holly",
   "place": "Lubbock, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "He was born Charles Hardin Holley in Lubbock, Texas, in 1936.",
+  "factSource": "https://en.wikipedia.org/wiki/Buddy_Holly"
  },
  {
   "title": "Willie Nelson",
   "place": "Abbott, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "He was a main figure of outlaw country, known for Red Headed Stranger (1975).",
+  "factSource": "https://en.wikipedia.org/wiki/Willie_Nelson"
  },
  {
   "title": "Ray Charles",
   "place": "Albany, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "He pioneered soul music in the 1950s and was nicknamed 'The Genius'.",
+  "factSource": "https://en.wikipedia.org/wiki/Ray_Charles"
  },
  {
   "title": "Slim Dusty",
   "place": "Kempsey, Australia",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born David Gordon Kirkpatrick, he was known as Australia's King of Country Music.",
+  "factSource": "https://en.wikipedia.org/wiki/Slim_Dusty"
  },
  {
   "title": "Joni Mitchell",
   "place": "Fort Macleod, Canada",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born Roberta Joan Anderson, she has won eleven Grammy Awards.",
+  "factSource": "https://en.wikipedia.org/wiki/Joni_Mitchell"
  },
  {
   "title": "Leonard Cohen",
   "place": "Montreal, Canada",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "A poet and novelist as well as a songwriter, he is in the Rock and Roll Hall of Fame.",
+  "factSource": "https://en.wikipedia.org/wiki/Leonard_Cohen"
  },
  {
   "title": "Jacques Brel",
   "place": "Brussels, Belgium",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "A master of the modern chanson, he influenced David Bowie and Scott Walker.",
+  "factSource": "https://en.wikipedia.org/wiki/Jacques_Brel"
  },
  {
   "title": "Luciano Pavarotti",
   "place": "Modena, Italy",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Nicknamed the 'King of the High Cs', he was one of the Three Tenors.",
+  "factSource": "https://en.wikipedia.org/wiki/Luciano_Pavarotti"
  },
  {
   "title": "Andrea Bocelli",
   "place": "Lajatico, Italy",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "He rose to fame in 1994 by winning the newcomers' section of the Sanremo Music Festival.",
+  "factSource": "https://en.wikipedia.org/wiki/Andrea_Bocelli"
  },
  {
   "title": "Nana Mouskouri",
   "place": "Chania, Greece",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "She has released an estimated 450 albums in at least thirteen languages.",
+  "factSource": "https://en.wikipedia.org/wiki/Nana_Mouskouri"
  },
  {
   "title": "Taylor Swift",
   "place": "West Reading, United States",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "She is the highest-grossing live music artist of all time.",
+  "factSource": "https://en.wikipedia.org/wiki/Taylor_Swift",
+  "coord": "enwiki:West Reading, Pennsylvania"
  },
  {
   "title": "Johnny Hallyday",
   "place": "Paris, France",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Born Jean-Philippe Smet, he is credited with bringing rock and roll to France.",
+  "factSource": "https://en.wikipedia.org/wiki/Johnny_Hallyday"
  },
  {
   "title": "Miriam Makeba",
   "place": "Johannesburg, South Africa",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Nicknamed 'Mama Africa', she campaigned against apartheid.",
+  "factSource": "https://en.wikipedia.org/wiki/Miriam_Makeba"
  },
  {
   "title": "Cesária Évora",
   "place": "Mindelo, Cape Verde",
-  "kind": "artist"
+  "kind": "artist",
+  "fact": "Famous for singing morna barefoot, she won a Grammy Award in 2004.",
+  "factSource": "https://en.wikipedia.org/wiki/Cesária_Évora"
  }
 ]

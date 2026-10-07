@@ -3,6 +3,7 @@
 //
 //   npm run resolve -- music            # resolve data/candidates/music.json, append new items
 //   npm run resolve -- music --dry      # report only
+//   npm run resolve -- music --candidates extra.json   # use another candidate file
 //
 // Candidate fields: title (enwiki), place, kind, and optionally id, name, hint, coord, photoRef,
 // fact, factSource. `coord` chooses the canonical point:
@@ -34,7 +35,7 @@ interface Candidate {
 type Claims = Record<string, { rank: string; mainsnak: { datavalue?: { value: unknown } }; qualifiers?: Record<string, unknown[]> }[]>;
 interface Entity {
   id: string;
-  labels?: { en?: { value: string } };
+  labels?: { en?: { value: string }; mul?: { value: string } };
   descriptions?: { en?: { value: string } };
   claims?: Claims;
 }
@@ -68,7 +69,8 @@ const COUNTRY_DISPLAY: Record<string, string> = {
   'Kingdom of the Netherlands': 'Netherlands',
   'Kingdom of Denmark': 'Denmark',
 };
-const label = (e: Entity | undefined) => e?.labels?.en?.value ?? e?.id ?? '?';
+// Wikidata now stores many names once, as a language-neutral 'mul' label.
+const label = (e: Entity | undefined) => e?.labels?.en?.value ?? e?.labels?.mul?.value ?? e?.id ?? '?';
 const slug = (s: string) =>
   s
     .normalize('NFKD')
@@ -110,7 +112,7 @@ async function getEntities(qids: string[]): Promise<Map<string, Entity>> {
   for (let i = 0; i < unique.length; i += 8) {
     const url =
       'https://www.wikidata.org/w/api.php?' +
-      new URLSearchParams({ action: 'wbgetentities', ids: unique.slice(i, i + 8).join('|'), props: 'claims|labels|descriptions', languages: 'en', format: 'json' });
+      new URLSearchParams({ action: 'wbgetentities', ids: unique.slice(i, i + 8).join('|'), props: 'claims|labels|descriptions', languages: 'en|mul', format: 'json' });
     const json = await fetchJson<{ entities?: Record<string, Entity>; error?: { code: string; info: string; id?: string } }>(url);
     if (json.error) {
       // One bad id (e.g. a deleted item) fails the whole batch: fetch the batch one by one.
@@ -144,7 +146,9 @@ function cleanDescription(d: string | undefined): string {
 async function main() {
   const [theme, ...flags] = process.argv.slice(2) as [Theme, ...string[]];
   const dry = flags.includes('--dry');
-  const candidates: Candidate[] = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'candidates', `${theme}.json`), 'utf8'));
+  const ci = flags.indexOf('--candidates');
+  const candidatesFile = ci >= 0 ? path.resolve(flags[ci + 1]) : path.join(DATA_DIR, 'candidates', `${theme}.json`);
+  const candidates: Candidate[] = JSON.parse(fs.readFileSync(candidatesFile, 'utf8'));
   const existing = loadTheme(theme);
   const existingQ = new Map(existing.map((i) => [i.wikidataId, i.id]));
   const existingIds = new Set(existing.map((i) => i.id));
