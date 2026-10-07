@@ -13,7 +13,8 @@
     "validate:data": "tsx scripts/validate-data.ts",
     "sync:coords": "tsx scripts/sync-coords.ts",
     "fetch:photos": "tsx scripts/fetch-photos.ts",
-    "contact-sheet": "tsx scripts/contact-sheet.ts"
+    "contact-sheet": "tsx scripts/contact-sheet.ts",
+    "screenshots": "playwright test"
   },
   "dependencies": {
     "d3-geo": "^3.1.1",

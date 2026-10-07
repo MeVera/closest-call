@@ -8,7 +8,7 @@ export function Photo({ item, className = '' }: { item: Item; className?: string
   return (
     <div className={`photo ${className}`}>
       {src ? (
-        <img src={src} alt={`Photo of ${subject}`} loading="lazy" decoding="async" />
+        <img src={src} alt={`Photo of ${subject}`} decoding="async" />
       ) : (
         <div className="photo-missing" role="img" aria-label={`${item.name}: no photo (demo item)`}>
           <span>demo</span>

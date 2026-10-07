@@ -18,6 +18,7 @@ Static site: Vite + React + TypeScript, no backend. The name and every tunable n
 | `npm run sync:coords` | Fill `lat`, `lon` and `coordSource` for every item from its `coordRef` (Wikidata P625 or OpenStreetMap). `-- --check` reports drift without writing; `-- --theme music` limits it to one theme |
 | `npm run fetch:photos` | Fetch, licence-check and convert photos from Wikimedia Commons, write credits and the contact sheet |
 | `npm run contact-sheet` | Rebuild `photo-review/contact-sheet.html` only |
+| `npm run screenshots` | Playwright: plays through every screen at 390×844 and 1280×800, in light and dark mode. It checks for console errors and horizontal scroll, and writes `screenshots/<project>/*.png` (git-ignored). The first time, run `npx playwright install chromium` |
 
 ### Playing before the data is complete
 
@@ -34,6 +35,10 @@ Set `CLOSEST_CALL_CONTACT` (an email address or URL) before running the network 
 ```bash
 CLOSEST_CALL_CONTACT="you@yourdomain" npm run fetch:photos
 ```
+
+## Deploying
+
+Run `npm run build`, then upload `dist/` to any static host: Netlify, Vercel or GitHub Pages. No rewrites or server are needed, because routes use the URL hash and asset paths are relative (`base: './'`).
 
 ## Data
 
