@@ -111,8 +111,17 @@ async function getEntities(qids: string[]): Promise<Map<string, Entity>> {
     const url =
       'https://www.wikidata.org/w/api.php?' +
       new URLSearchParams({ action: 'wbgetentities', ids: unique.slice(i, i + 8).join('|'), props: 'claims|labels|descriptions', languages: 'en', format: 'json' });
-    const json = await fetchJson<{ entities: Record<string, Entity> }>(url);
-    for (const [k, v] of Object.entries(json.entities)) out.set(k, v);
+    const json = await fetchJson<{ entities?: Record<string, Entity>; error?: { code: string; info: string; id?: string } }>(url);
+    if (json.error) {
+      // One bad id (e.g. a deleted item) fails the whole batch: fetch the batch one by one.
+      console.warn(`  Wikidata error ${json.error.code}: ${json.error.info}; retrying batch item by item`);
+      for (const q of unique.slice(i, i + 8)) {
+        const one = await fetchJson<{ entities?: Record<string, Entity> }>(url.replace(/ids=[^&]*/, `ids=${q}`));
+        for (const [k, v] of Object.entries(one.entities ?? {})) if (!('missing' in v)) out.set(k, v);
+      }
+      continue;
+    }
+    for (const [k, v] of Object.entries(json.entities ?? {})) out.set(k, v);
   }
   return out;
 }
