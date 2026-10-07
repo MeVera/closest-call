@@ -1,1 +1,302 @@
-{}
+{
+  "abba": {
+    "file": "File:Stockholm August 2020 - Kastellet, Vasa Museum, and Nordic Museum.jpg",
+    "author": "Martin Falbisoner",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Stockholm_August_2020_-_Kastellet,_Vasa_Museum,_and_Nordic_Museum.jpg",
+    "via": "search",
+    "width": 5264,
+    "height": 2859
+  },
+  "abbey-road-studios": {
+    "file": "File:Abbey road studios.jpg",
+    "author": "portum",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Abbey_road_studios.jpg",
+    "via": "p18",
+    "width": 1512,
+    "height": 1134
+  },
+  "anfield": {
+    "file": "File:Liverpool anfield road stadium.jpg",
+    "author": "Arne Müseler",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Liverpool_anfield_road_stadium.jpg",
+    "via": "p18",
+    "width": 4595,
+    "height": 3441
+  },
+  "battle-of-hastings": {
+    "file": "File:Battleabbey-wyrdlight-0190.jpg",
+    "author": "Antony McCallum",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Battleabbey-wyrdlight-0190.jpg",
+    "via": "p18",
+    "width": 1000,
+    "height": 667
+  },
+  "battle-of-waterloo": {
+    "file": "File:Belgique Butte du Lion dit de Waterloo.jpg",
+    "author": "Myrabella",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Belgique_Butte_du_Lion_dit_de_Waterloo.jpg",
+    "via": "p18",
+    "width": 3968,
+    "height": 2367
+  },
+  "big-ben": {
+    "file": "File:Big Ben at sunset - 2014-10-27 17-30.jpg",
+    "author": "Colin",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Big_Ben_at_sunset_-_2014-10-27_17-30.jpg",
+    "via": "search",
+    "width": 5575,
+    "height": 3774
+  },
+  "christ-the-redeemer": {
+    "file": "File:Unique Moment with the Moon and Christ the Redeemer 3.jpg",
+    "author": "Donatas Dabravolskas",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Unique_Moment_with_the_Moon_and_Christ_the_Redeemer_3.jpg",
+    "via": "search",
+    "width": 3450,
+    "height": 2300
+  },
+  "dolly-parton": {
+    "file": "File:Emertscovebridge1.jpg",
+    "author": "Brian Stansberry",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Emertscovebridge1.jpg",
+    "via": "override",
+    "width": 1071,
+    "height": 841
+  },
+  "dublin": {
+    "file": "File:Dublin - aerial - 2025-07-07 01.jpg",
+    "author": "瑞丽江的河水",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-07_01.jpg",
+    "via": "p18",
+    "width": 4032,
+    "height": 2268
+  },
+  "eden-park": {
+    "file": "File:Eden Park at Dusk, 2013.jpg",
+    "author": "Kiwi Flickr",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Eden_Park_at_Dusk,_2013.jpg",
+    "via": "p18",
+    "width": 7347,
+    "height": 1918
+  },
+  "eiffel-tower": {
+    "file": "File:Paris - The Eiffel Tower in spring - 2307.jpg",
+    "author": "Jorge Royan",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg",
+    "via": "search",
+    "width": 4368,
+    "height": 2912
+  },
+  "elvis-presley": {
+    "file": "File:Downtown Tupelo 1.JPG",
+    "author": "Fredlyfish4",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Downtown_Tupelo_1.JPG",
+    "via": "override",
+    "width": 3264,
+    "height": 1590
+  },
+  "fall-of-the-berlin-wall": {
+    "file": "File:Brandenburger Tor morgens.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_morgens.jpg",
+    "via": "p18",
+    "width": 5009,
+    "height": 3347
+  },
+  "fame-studios": {
+    "file": "File:FAME Recording Studios sign, Muscle Shoals, Alabama.jpg",
+    "author": "Ralph Daily",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:FAME_Recording_Studios_sign,_Muscle_Shoals,_Alabama.jpg",
+    "via": "search",
+    "width": 4287,
+    "height": 2750
+  },
+  "glastonbury-festival": {
+    "file": "File:Glastonbury Tribute.jpg",
+    "author": "Czampal",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Glastonbury_Tribute.jpg",
+    "via": "p18",
+    "width": 6000,
+    "height": 4000
+  },
+  "headingley": {
+    "file": "File:Headingley Stadium seen from Headingley Mount (21st August 2020).jpg",
+    "author": "Mtaylor848",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Headingley_Stadium_seen_from_Headingley_Mount_(21st_August_2020).jpg",
+    "via": "override",
+    "width": 5152,
+    "height": 3864
+  },
+  "johnny-cash": {
+    "file": "File:Old US 79, Kingsland Segment.jpg",
+    "author": "Valis55",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Old_US_79,_Kingsland_Segment.jpg",
+    "via": "override",
+    "width": 3264,
+    "height": 4928
+  },
+  "melbourne-cricket-ground": {
+    "file": "File:2017 AFL Grand Final panorama during national anthem.jpg",
+    "author": "Flickerd",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2017_AFL_Grand_Final_panorama_during_national_anthem.jpg",
+    "via": "p18",
+    "width": 7386,
+    "height": 3918
+  },
+  "oasis": {
+    "file": "File:Manchester from the Sky, 2008.jpg",
+    "author": "Daniel Nisbet from Manchester, United Kingdom",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Manchester_from_the_Sky,_2008.jpg",
+    "via": "p18",
+    "width": 5616,
+    "height": 3744
+  },
+  "old-trafford": {
+    "file": "File:Manchester United Old Trafford.jpg",
+    "author": "Arne Müseler",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Manchester_United_Old_Trafford.jpg",
+    "via": "p18",
+    "width": 4995,
+    "height": 3741
+  },
+  "potsdam-conference": {
+    "file": "File:Schloss Cecilienhof 2013.jpg",
+    "author": "ernstol",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Schloss_Cecilienhof_2013.jpg",
+    "via": "p18",
+    "width": 2464,
+    "height": 1632
+  },
+  "ryman-auditorium": {
+    "file": "File:Ryman Auditorium.jpg",
+    "author": "Daniel Schwen",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ryman_Auditorium.jpg",
+    "via": "search",
+    "width": 3300,
+    "height": 2200
+  },
+  "statue-of-liberty": {
+    "file": "File:Statue of Liberty and a sightseeing boat, Liberty Island, New York.jpg",
+    "author": "Christian David",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_and_a_sightseeing_boat,_Liberty_Island,_New_York.jpg",
+    "via": "p18",
+    "width": 7728,
+    "height": 5152
+  },
+  "storming-of-the-bastille": {
+    "file": "File:Place de la Bastille, avril 2021.jpg",
+    "author": "Guillaume Flament",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Place_de_la_Bastille,_avril_2021.jpg",
+    "via": "p18",
+    "width": 5869,
+    "height": 3913
+  },
+  "sun-studio": {
+    "file": "File:Facade of Sun Studio - Memphis - Tennessee - USA.jpg",
+    "author": "Adam Jones, Ph.D.",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Facade_of_Sun_Studio_-_Memphis_-_Tennessee_-_USA.jpg",
+    "via": "override",
+    "width": 3648,
+    "height": 2736
+  },
+  "sydney-cricket-ground": {
+    "file": "File:Sydney Cricket Ground (24509044622).jpg",
+    "author": "Marc Dalmulder from Hamlyn Terrace, Australia",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Cricket_Ground_(24509044622).jpg",
+    "via": "p18",
+    "width": 1600,
+    "height": 1067
+  },
+  "the-beatles": {
+    "file": "File:Liverpool Metropolitan Cathedral at dusk (reduced grain), corrected perspective.jpg",
+    "author": "Chowells",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Liverpool_Metropolitan_Cathedral_at_dusk_(reduced_grain),_corrected_perspective.jpg",
+    "via": "search",
+    "width": 5141,
+    "height": 3215
+  },
+  "washington-dc": {
+    "file": "File:Aerial view of White House and downtown, Washington, D.C LCCN2010630891.jpg",
+    "author": "Carol M. Highsmith",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_White_House_and_downtown,_Washington,_D.C_LCCN2010630891.jpg",
+    "via": "p18",
+    "width": 6147,
+    "height": 3248
+  },
+  "woodstock-1969": {
+    "file": "File:BethelWoods.jpg",
+    "author": "JMerc27",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:BethelWoods.jpg",
+    "via": "p18",
+    "width": 8987,
+    "height": 1757
+  },
+  "yalta-conference": {
+    "file": "File:Livadia - Palace 180798b.jpg",
+    "author": "Віктор Полянко",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Livadia_-_Palace_180798b.jpg",
+    "via": "override",
+    "width": 3505,
+    "height": 2353
+  }
+}

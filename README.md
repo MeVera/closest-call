@@ -64,3 +64,29 @@ Where the brief left a choice open, these are the defaults:
   - Bastille: Waterloo 250 km vs Hastings 266 km. This one is excluded even in Endless round 15 or later, where its 1.06 ratio alone would pass.
 
   The tests assert both.
+
+## Photos
+
+`npm run fetch:photos` uses only openly licensed Wikimedia Commons images, all hosted on this site and never hotlinked.
+
+- **Where photos come from.** The fetcher checks three sources in order:
+  1. A pinned file in `data/photo-overrides.json`.
+  2. The Wikidata image (P18) of the photo entity. That entity is `photoRef`, then the `coordRef` entity, then `wikidataId`, so a band shows its city and an event shows its site.
+  3. A Commons search for the site's name.
+- **Licences.** CC0, public domain, CC BY and CC BY-SA are accepted. NonCommercial, NoDerivatives, non-free, and files with no author under an attribution licence are rejected.
+- **Image choice.** A landscape image at least 1200 px wide is preferred. Filenames that look like logos, maps, posters, portraits, paintings or archive photos are skipped automatically.
+- **Output.** The fetcher downloads an image about 900 px wide and converts it to `public/photos/<id>.webp` (800 px wide, quality 75). It writes `data/photo-credits.json` (file, author, licence, licence URL, Commons page) and rebuilds `photo-review/contact-sheet.html`.
+- **Re-running.** Items that already have a photo and credit are skipped. Use `-- --only id1,id2` to refetch specific items, `-- --force` to refetch all of them, and `-- --verbose` to see why each candidate was rejected.
+- **Rate limits.** Requests are throttled to about 1 per second and retried after HTTP 429.
+- **Fixing a bad pick.** Add `"item-id": "File:Exact name.jpg"` to `data/photo-overrides.json`, then run `npm run fetch:photos -- --only item-id`. A pinned file still has to pass the licence policy, and a rejected override is an error rather than a silent fallback.
+
+Seed items pinned after manual review:
+
+| Item | Pinned photo | Reason |
+| --- | --- | --- |
+| Headingley | Headingley Stadium | The P18 has no author, and the search found a cinema |
+| Yalta Conference | Livadia Palace exterior | The P18 has no author, and the search found a photo of the leaders |
+| Elvis Presley | Downtown Tupelo | The P18 was Tupelo's airport |
+| Johnny Cash | Old US 79, Kingsland | The only real photo in Commons' Kingsland, Arkansas category; it's portrait |
+| Dolly Parton | Emert's Cove covered bridge, Pittman Center | The P18 is too small |
+| Sun Studio | Sun Studio facade | The search found an interior with tourists |

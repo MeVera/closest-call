@@ -41,7 +41,7 @@ export const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 let lastRequest = 0;
 /** fetch with the project User-Agent, a minimum gap between requests, and retries on 429/5xx. */
-export async function politeFetch(url: string, minGapMs = 600): Promise<Response> {
+export async function politeFetch(url: string, minGapMs = 1000): Promise<Response> {
   for (let attempt = 0; attempt < 4; attempt++) {
     const wait = lastRequest + minGapMs - Date.now();
     if (wait > 0) await sleep(wait);
