@@ -19,6 +19,76 @@
     "width": 1512,
     "height": 1134
   },
+  "abu-simbel-temples": {
+    "file": "File:Großer Tempel (Abu Simbel) 31.jpg",
+    "author": "Olaf Tausch",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_31.jpg",
+    "via": "p18",
+    "width": 4685,
+    "height": 3513
+  },
+  "abuja": {
+    "file": "File:The National Assembly Globe.jpg",
+    "author": "Ovinuchi Prince Ejiohuo",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:The_National_Assembly_Globe.jpg",
+    "via": "p18",
+    "width": 6108,
+    "height": 3976
+  },
+  "accra": {
+    "file": "File:Accra town.jpg",
+    "author": "Goldenwabbit",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Accra_town.jpg",
+    "via": "p18",
+    "width": 5302,
+    "height": 2979
+  },
+  "acropolis-of-athens": {
+    "file": "File:Attica 06-13 Athens 50 View from Philopappos - Acropolis Hill.jpg",
+    "author": "A.Savin",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+    "via": "p18",
+    "width": 5000,
+    "height": 3125
+  },
+  "addis-ababa": {
+    "file": "File:AddisView.jpg",
+    "author": "DaneyWiki",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:AddisView.jpg",
+    "via": "p18",
+    "width": 2048,
+    "height": 1366
+  },
+  "alhambra": {
+    "file": "File:Alhambra detail.jpg",
+    "author": "Jebulon",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Alhambra_detail.jpg",
+    "via": "p18",
+    "width": 3007,
+    "height": 2038
+  },
+  "amsterdam": {
+    "file": "File:Imagen de los canales concéntricos en Ámsterdam.png",
+    "author": "Andrés Barrios",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png",
+    "via": "p18",
+    "width": 2480,
+    "height": 1654
+  },
   "anfield": {
     "file": "File:Liverpool anfield road stadium.jpg",
     "author": "Arne Müseler",
@@ -28,6 +98,56 @@
     "via": "p18",
     "width": 4595,
     "height": 3441
+  },
+  "angkor-wat": {
+    "file": "File:Ankor Wat temple.jpg",
+    "author": "Kheng Vungvuthy",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ankor_Wat_temple.jpg",
+    "via": "p18",
+    "width": 1280,
+    "height": 720
+  },
+  "ankara": {
+    "file": "File:Ankara (16290014657).jpg",
+    "author": "Jorge Franganillo from Barcelona, Spain",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ankara_(16290014657).jpg",
+    "via": "p18",
+    "width": 2798,
+    "height": 1574
+  },
+  "arc-de-triomphe": {
+    "file": "File:Arc de Triomphe - Août 2026.jpg",
+    "author": "ZeusUpsistos",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg",
+    "via": "p18",
+    "width": 4802,
+    "height": 3203
+  },
+  "athens": {
+    "file": "File:Akropolis 2015.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Akropolis_2015.jpg",
+    "via": "p18",
+    "width": 9648,
+    "height": 5587
+  },
+  "atomium": {
+    "file": "File:Laeken Atomium 06.jpg",
+    "author": "Zairon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Laeken_Atomium_06.jpg",
+    "via": "p18",
+    "width": 3350,
+    "height": 3235
   },
   "battle-of-hastings": {
     "file": "File:Battleabbey-wyrdlight-0190.jpg",
@@ -49,6 +169,46 @@
     "width": 3968,
     "height": 2367
   },
+  "beijing": {
+    "file": "File:Skyline of Beijing CBD with B-5906 approaching (20211016171955).jpg",
+    "author": "N509FZ",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Skyline_of_Beijing_CBD_with_B-5906_approaching_(20211016171955).jpg",
+    "via": "p18",
+    "width": 6787,
+    "height": 4525
+  },
+  "berlin": {
+    "file": "File:Cityscape Berlin.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cityscape_Berlin.jpg",
+    "via": "p18",
+    "width": 4496,
+    "height": 2300
+  },
+  "berlin-wall-east-side-gallery": {
+    "file": "File:Berlin Wall6270.JPG",
+    "author": "Freepenguin",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Wall6270.JPG",
+    "via": "p18",
+    "width": 4320,
+    "height": 3240
+  },
+  "bern": {
+    "file": "File:Bern Panorama von Rosengarten 20211007.jpg",
+    "author": "Daniel Kraft",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Bern_Panorama_von_Rosengarten_20211007.jpg",
+    "via": "search",
+    "width": 22160,
+    "height": 8620
+  },
   "big-ben": {
     "file": "File:Big Ben at sunset - 2014-10-27 17-30.jpg",
     "author": "Colin",
@@ -59,6 +219,116 @@
     "width": 5575,
     "height": 3774
   },
+  "blue-mosque": {
+    "file": "File:Exterior of Sultan Ahmed I Mosque in Istanbul, Turkey 002.jpg",
+    "author": "Moonik",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg",
+    "via": "p18",
+    "width": 4238,
+    "height": 2766
+  },
+  "borobudur": {
+    "file": "File:Borobudur-Nothwest-view.jpg",
+    "author": "Gunawan Kartapranata",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Borobudur-Nothwest-view.jpg",
+    "via": "p18",
+    "width": 2816,
+    "height": 1108
+  },
+  "brandenburg-gate": {
+    "file": "File:Brandenburger Tor morgens.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_morgens.jpg",
+    "via": "p18",
+    "width": 5009,
+    "height": 3347
+  },
+  "brussels": {
+    "file": "File:Brussels view from Mont des Arts, Brussels, Belgium (cropped).jpg",
+    "author": "Ank Kumar",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Brussels_view_from_Mont_des_Arts,_Brussels,_Belgium_(cropped).jpg",
+    "via": "p18",
+    "width": 3788,
+    "height": 2274
+  },
+  "budapest": {
+    "file": "File:Budapest, Hungary (explored) (14995308504).jpg",
+    "author": "Thomas Depenbusch (Depi) from Cologne, Germany",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Budapest,_Hungary_(explored)_(14995308504).jpg",
+    "via": "p18",
+    "width": 5223,
+    "height": 3481
+  },
+  "burj-khalifa": {
+    "file": "File:Dubai skyline 2015 (crop).jpg",
+    "author": "Tim.Reckmann",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Dubai_skyline_2015_(crop).jpg",
+    "via": "p18",
+    "width": 1558,
+    "height": 1179
+  },
+  "cairo": {
+    "file": "File:Cairo Skyline (2020).jpg",
+    "author": "Faris El-Gwely",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cairo_Skyline_(2020).jpg",
+    "via": "p18",
+    "width": 1150,
+    "height": 678
+  },
+  "canberra": {
+    "file": "File:Canberra from Mt Ainslie (5642431515).jpg",
+    "author": "Tim J Keegan from Lake Macquarie, Australia",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Canberra_from_Mt_Ainslie_(5642431515).jpg",
+    "via": "p18",
+    "width": 4272,
+    "height": 2848
+  },
+  "charles-bridge": {
+    "file": "File:North view of Charles Bridge from Mánesův most, Prague 20160808 1.jpg",
+    "author": "DXR",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:North_view_of_Charles_Bridge_from_M%C3%A1nes%C5%AFv_most,_Prague_20160808_1.jpg",
+    "via": "search",
+    "width": 7164,
+    "height": 4030
+  },
+  "chateau-frontenac": {
+    "file": "File:Château Frontenac01.jpg",
+    "author": "Bernard Gagnon",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac01.jpg",
+    "via": "p18",
+    "width": 2334,
+    "height": 1690
+  },
+  "chichen-itza": {
+    "file": "File:Chichen Itza 3.jpg",
+    "author": "Daniel Schwen",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+    "via": "p18",
+    "width": 9771,
+    "height": 5197
+  },
   "christ-the-redeemer": {
     "file": "File:Unique Moment with the Moon and Christ the Redeemer 3.jpg",
     "author": "Donatas Dabravolskas",
@@ -68,6 +338,56 @@
     "via": "search",
     "width": 3450,
     "height": 2300
+  },
+  "cn-tower": {
+    "file": "File:CN Tower, Toronto, Canada (Unsplash DJ kOgH5u0o).jpg",
+    "author": "Scott Webb scottwebb",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower,_Toronto,_Canada_(Unsplash_DJ_kOgH5u0o).jpg",
+    "via": "search",
+    "width": 5582,
+    "height": 3721
+  },
+  "cologne-cathedral": {
+    "file": "File:Kranhäuser Cologne, April 2018 -01.jpg",
+    "author": "Martin Falbisoner",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Kranh%C3%A4user_Cologne,_April_2018_-01.jpg",
+    "via": "search",
+    "width": 5078,
+    "height": 2804
+  },
+  "colosseum": {
+    "file": "File:Colosseo 2020.jpg",
+    "author": "FeaturedPics",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "via": "p18",
+    "width": 12051,
+    "height": 8442
+  },
+  "copenhagen": {
+    "file": "File:Copenhagen - view from Christiansborg castle.jpg",
+    "author": "Pudelek",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Copenhagen_-_view_from_Christiansborg_castle.jpg",
+    "via": "p18",
+    "width": 4677,
+    "height": 2838
+  },
+  "dakar": {
+    "file": "File:Pointe des Almadies - Senegal.jpg",
+    "author": "Jeff Attaway",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Pointe_des_Almadies_-_Senegal.jpg",
+    "via": "p18",
+    "width": 3543,
+    "height": 2648
   },
   "dolly-parton": {
     "file": "File:Emertscovebridge1.jpg",
@@ -99,6 +419,16 @@
     "width": 7347,
     "height": 1918
   },
+  "edinburgh-castle": {
+    "file": "File:Edinburgh Castle from the Grassmarket.jpg",
+    "author": "Stephencdickson",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_the_Grassmarket.jpg",
+    "via": "p18",
+    "width": 3088,
+    "height": 2056
+  },
   "eiffel-tower": {
     "file": "File:Paris - The Eiffel Tower in spring - 2307.jpg",
     "author": "Jorge Royan",
@@ -118,6 +448,16 @@
     "via": "override",
     "width": 3264,
     "height": 1590
+  },
+  "empire-state-building": {
+    "file": "File:View of Empire State Building from Rockefeller Center New York City dllu.jpg",
+    "author": "Dllu",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg",
+    "via": "search",
+    "width": 8207,
+    "height": 6167
   },
   "fall-of-the-berlin-wall": {
     "file": "File:Brandenburger Tor morgens.jpg",
@@ -139,6 +479,56 @@
     "width": 4287,
     "height": 2750
   },
+  "forbidden-city": {
+    "file": "File:Hall of Supreme Harmony (20241127120000).jpg",
+    "author": "N509FZ",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony_(20241127120000).jpg",
+    "via": "p18",
+    "width": 7190,
+    "height": 4793
+  },
+  "fushimi-inari-taisha": {
+    "file": "File:Fushimiinari-taisha, naihaiden-1.jpg",
+    "author": "Saigen Jiro",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Fushimiinari-taisha,_naihaiden-1.jpg",
+    "via": "p18",
+    "width": 6002,
+    "height": 3978
+  },
+  "gateway-arch": {
+    "file": "File:St Louis Gateway Arch.jpg",
+    "author": "[https://www.flickr.com/photos/11399912@N00 B0iwehijro2i0- ] `1l]] from Davis, CA, USA",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:St_Louis_Gateway_Arch.jpg",
+    "via": "p18",
+    "width": 1921,
+    "height": 1489
+  },
+  "gateway-of-india": {
+    "file": "File:Panoramic view of Taj Palace Hotel and Taj Tower with the iconic Gateway of India in the background.jpg",
+    "author": "iMahesh",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg",
+    "via": "search",
+    "width": 5515,
+    "height": 3102
+  },
+  "giant-s-causeway": {
+    "file": "File:Giant's Causeway (36834542085).jpg",
+    "author": "Lindy Buckley from Nanjing, China",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Giant%27s_Causeway_(36834542085).jpg",
+    "via": "p18",
+    "width": 3374,
+    "height": 2276
+  },
   "glastonbury-festival": {
     "file": "File:Glastonbury Tribute.jpg",
     "author": "Czampal",
@@ -148,6 +538,96 @@
     "via": "p18",
     "width": 6000,
     "height": 4000
+  },
+  "golden-gate-bridge": {
+    "file": "File:GoldenGateBridge-001.jpg",
+    "author": "Rich Niewiroski Jr.",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:GoldenGateBridge-001.jpg",
+    "via": "p18",
+    "width": 3264,
+    "height": 2448
+  },
+  "golden-temple": {
+    "file": "File:Hamandir Sahib (Golden Temple).jpg",
+    "author": "This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with t…",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hamandir_Sahib_(Golden_Temple).jpg",
+    "via": "p18",
+    "width": 5184,
+    "height": 3456
+  },
+  "great-barrier-reef": {
+    "file": "File:Acanthurus lineatus Flynn Reef.jpg",
+    "author": "Toby Hudson",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Acanthurus_lineatus_Flynn_Reef.jpg",
+    "via": "search",
+    "width": 2093,
+    "height": 1259
+  },
+  "great-pyramid-of-giza": {
+    "file": "File:Kheops-Pyramid.jpg",
+    "author": "Nina",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Kheops-Pyramid.jpg",
+    "via": "p18",
+    "width": 1581,
+    "height": 971
+  },
+  "great-wall-of-china-badaling": {
+    "file": "File:The Great Wall of China at Jinshanling-edit.jpg",
+    "author": "Severin.stalder",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "via": "p18",
+    "width": 4288,
+    "height": 2848
+  },
+  "gyeongbokgung": {
+    "file": "File:Gyeonghoeru (Royal Banquet Hall) at Gyeongbokgung Palace, Seoul.jpg",
+    "author": "Frank Schulenburg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg",
+    "via": "search",
+    "width": 6425,
+    "height": 4283
+  },
+  "hagia-sophia": {
+    "file": "File:Hagia Sophia Mars 2013.jpg",
+    "author": "Arild Vågen",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg",
+    "via": "p18",
+    "width": 5514,
+    "height": 3681
+  },
+  "hallgrimskirkja": {
+    "file": "File:Hallgrimskirkja mai 2026.jpg",
+    "author": "Steinninn",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hallgrimskirkja_mai_2026.jpg",
+    "via": "p18",
+    "width": 1318,
+    "height": 1157
+  },
+  "hassan-ii-mosque": {
+    "file": "File:Sunshine on mosque Hassan II in Casablanca, Morocco - Flickr - Milamber's portfolio.jpg",
+    "author": "Milamber's portfolio",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sunshine_on_mosque_Hassan_II_in_Casablanca,_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg",
+    "via": "p18",
+    "width": 3008,
+    "height": 2000
   },
   "headingley": {
     "file": "File:Headingley Stadium seen from Headingley Mount (21st August 2020).jpg",
@@ -159,6 +639,36 @@
     "width": 5152,
     "height": 3864
   },
+  "helsinki": {
+    "file": "File:Helsinki Lutheran Cathedral (panoraamanäköala)-2 (säätö).jpg",
+    "author": "Old Pionear",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Helsinki_Lutheran_Cathedral_(panoraaman%C3%A4k%C3%B6ala)-2_(s%C3%A4%C3%A4t%C3%B6).jpg",
+    "via": "p18",
+    "width": 2373,
+    "height": 1557
+  },
+  "hollywood-sign": {
+    "file": "File:Hollywood Sign (Zuschnitt).jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg",
+    "via": "p18",
+    "width": 11065,
+    "height": 6916
+  },
+  "itsukushima-shrine": {
+    "file": "File:Itsukushima Gate.jpg",
+    "author": "JordyMeow",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Itsukushima_Gate.jpg",
+    "via": "p18",
+    "width": 4200,
+    "height": 2803
+  },
   "johnny-cash": {
     "file": "File:Old US 79, Kingsland Segment.jpg",
     "author": "Valis55",
@@ -168,6 +678,106 @@
     "via": "override",
     "width": 3264,
     "height": 4928
+  },
+  "leaning-tower-of-pisa": {
+    "file": "File:The Duomo and Tower of Pisa at sunrise.jpg",
+    "author": "MHoser",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg",
+    "via": "search",
+    "width": 4600,
+    "height": 2878
+  },
+  "lincoln-memorial": {
+    "file": "File:Aerial view of Lincoln Memorial - east side EDIT.jpeg",
+    "author": "Aerial_view_of_Lincoln_Memorial_-_east_side.jpg: Carol M. Highsmith derivative work: upstateNYer",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lincoln_Memorial_-_east_side_EDIT.jpeg",
+    "via": "p18",
+    "width": 3222,
+    "height": 2158
+  },
+  "lisbon": {
+    "file": "File:Lisboa837.png",
+    "author": "Lacobrigo",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lisboa837.png",
+    "via": "p18",
+    "width": 1021,
+    "height": 627
+  },
+  "london": {
+    "file": "File:London Skyline (125508655).jpeg",
+    "author": "Ilya Grigorik",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
+    "via": "p18",
+    "width": 2048,
+    "height": 1152
+  },
+  "louvre": {
+    "file": "File:Cour Napoléon at night - Louvre.jpg",
+    "author": "Benh LIEU SONG",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cour_Napol%C3%A9on_at_night_-_Louvre.jpg",
+    "via": "p18",
+    "width": 3048,
+    "height": 1209
+  },
+  "machu-picchu": {
+    "file": "File:Machu Picchu, 2023 (012).jpg",
+    "author": "Draceane",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+    "via": "p18",
+    "width": 6960,
+    "height": 4640
+  },
+  "madrid": {
+    "file": "File:Madrid (38624991251).jpg",
+    "author": "Dmitry Dzhus from London",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Madrid_(38624991251).jpg",
+    "via": "p18",
+    "width": 4608,
+    "height": 3456
+  },
+  "marina-bay-sands": {
+    "file": "File:Marina Bay Sands Hotel 3 (31345110894).jpg",
+    "author": "Tony Hisgett from Birmingham, UK",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_Hotel_3_(31345110894).jpg",
+    "via": "p18",
+    "width": 4536,
+    "height": 2816
+  },
+  "masjid-al-haram": {
+    "file": "File:Khalili Collection Hajj and Arts of Pilgrimage arc.pp 0211.04 CROP.jpg",
+    "author": "Khalili Collections",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_arc.pp_0211.04_CROP.jpg",
+    "via": "p18",
+    "width": 2151,
+    "height": 1650
+  },
+  "matterhorn": {
+    "file": "File:CH.VS.Zermatt 2021-10-17 Matterhorn 8726.jpg",
+    "author": "Roy Egloff",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:CH.VS.Zermatt_2021-10-17_Matterhorn_8726.jpg",
+    "via": "search",
+    "width": 10800,
+    "height": 7200
   },
   "melbourne-cricket-ground": {
     "file": "File:2017 AFL Grand Final panorama during national anthem.jpg",
@@ -179,6 +789,116 @@
     "width": 7386,
     "height": 3918
   },
+  "milan-cathedral": {
+    "file": "File:20110724 Milan Cathedral 5260.jpg",
+    "author": "Jakub Hałun",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:20110724_Milan_Cathedral_5260.jpg",
+    "via": "p18",
+    "width": 3140,
+    "height": 2728
+  },
+  "moai-at-ahu-tongariki": {
+    "file": "File:Easter Island Ahu (2006).jpg",
+    "author": "The original uploader was Hhooper1 at English Wikipedia.",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Easter_Island_Ahu_(2006).jpg",
+    "via": "p18",
+    "width": 3072,
+    "height": 2304
+  },
+  "mont-saint-michel": {
+    "file": "File:Mont St Michel 3, Brittany, France - July 2011.jpg",
+    "author": "Diliff",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_3,_Brittany,_France_-_July_2011.jpg",
+    "via": "p18",
+    "width": 2811,
+    "height": 1993
+  },
+  "moscow": {
+    "file": "File:Saint Basil's Cathedral and the Red Square.jpg",
+    "author": "U.S. Department of State",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
+    "via": "p18",
+    "width": 2499,
+    "height": 1406
+  },
+  "mount-fuji": {
+    "file": "File:Kodaki fuji frm shojinko refurb.jpg",
+    "author": "名古屋太郎, (edited by Hannes_24)",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Kodaki_fuji_frm_shojinko_refurb.jpg",
+    "via": "p18",
+    "width": 4000,
+    "height": 2677
+  },
+  "mount-kilimanjaro": {
+    "file": "File:Kilimanjaro, Tanzania, 2024-05-22, DD 109.jpg",
+    "author": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Kilimanjaro,_Tanzania,_2024-05-22,_DD_109.jpg",
+    "via": "search",
+    "width": 6884,
+    "height": 4589
+  },
+  "mount-rushmore": {
+    "file": "File:Mount Rushmore detail view (100MP).jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Mount_Rushmore_detail_view_(100MP).jpg",
+    "via": "p18",
+    "width": 12128,
+    "height": 8246
+  },
+  "nairobi": {
+    "file": "File:Nairobi, view from KICC.JPG",
+    "author": "Daryona",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Nairobi,_view_from_KICC.JPG",
+    "via": "p18",
+    "width": 2800,
+    "height": 2100
+  },
+  "neuschwanstein-castle": {
+    "file": "File:Neuschwanstein Castle 2024-02.jpg",
+    "author": "Wilfredor",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2024-02.jpg",
+    "via": "p18",
+    "width": 15083,
+    "height": 10270
+  },
+  "niagara-falls-horseshoe-falls": {
+    "file": "File:Niagara Falls 6 db.jpg",
+    "author": "Unknown author",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Niagara_Falls_6_db.jpg",
+    "via": "p18",
+    "width": 2272,
+    "height": 1704
+  },
+  "notre-dame-de-paris": {
+    "file": "File:Paris, Notre Dame -- 2014 -- 1458-65.jpg",
+    "author": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Paris,_Notre_Dame_--_2014_--_1458-65.jpg",
+    "via": "search",
+    "width": 19300,
+    "height": 3252
+  },
   "oasis": {
     "file": "File:Manchester from the Sky, 2008.jpg",
     "author": "Daniel Nisbet from Manchester, United Kingdom",
@@ -188,6 +908,16 @@
     "via": "p18",
     "width": 5616,
     "height": 3744
+  },
+  "obelisco-de-buenos-aires": {
+    "file": "File:ObeliscoBA2015.jpg",
+    "author": "Sebastianalmaraz",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:ObeliscoBA2015.jpg",
+    "via": "p18",
+    "width": 3264,
+    "height": 2448
   },
   "old-trafford": {
     "file": "File:Manchester United Old Trafford.jpg",
@@ -199,6 +929,56 @@
     "width": 4995,
     "height": 3741
   },
+  "oslo": {
+    "file": "File:View from siloen.jpg",
+    "author": "Sean Hayford O'Leary",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:View_from_siloen.jpg",
+    "via": "p18",
+    "width": 2816,
+    "height": 2112
+  },
+  "paris": {
+    "file": "File:La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg",
+    "author": "Yann Caradec from Paris, France",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
+    "via": "p18",
+    "width": 4592,
+    "height": 2870
+  },
+  "petra-al-khazneh": {
+    "file": "File:Al-Kazneh - panoramio.jpg",
+    "author": "Pedro Krtička",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Al-Kazneh_-_panoramio.jpg",
+    "via": "search",
+    "width": 2048,
+    "height": 1536
+  },
+  "petronas-towers": {
+    "file": "File:The Twins SE Asia 2019 (49171985716).jpg",
+    "author": "James Kerwin from Tbilisi",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg",
+    "via": "search",
+    "width": 8472,
+    "height": 5648
+  },
+  "potala-palace": {
+    "file": "File:Potala.jpg",
+    "author": "Ondřej Žváček",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Potala.jpg",
+    "via": "p18",
+    "width": 2592,
+    "height": 1728
+  },
   "potsdam-conference": {
     "file": "File:Schloss Cecilienhof 2013.jpg",
     "author": "ernstol",
@@ -208,6 +988,66 @@
     "via": "p18",
     "width": 2464,
     "height": 1632
+  },
+  "prague": {
+    "file": "File:Petřín Tower View IMG 3020.JPG",
+    "author": "Deror_avi",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Pet%C5%99%C3%ADn_Tower_View_IMG_3020.JPG",
+    "via": "p18",
+    "width": 3456,
+    "height": 2304
+  },
+  "qutb-minar": {
+    "file": "File:A Potrait view of Qutub Minar.jpg",
+    "author": "IM3847",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:A_Potrait_view_of_Qutub_Minar.jpg",
+    "via": "p18",
+    "width": 3264,
+    "height": 2448
+  },
+  "rabat": {
+    "file": "File:Kasbah des Oudaias P1060356.JPG",
+    "author": "Pline",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Kasbah_des_Oudaias_P1060356.JPG",
+    "via": "p18",
+    "width": 3328,
+    "height": 1872
+  },
+  "reykjavik": {
+    "file": "File:Reykjavík 5545 (cropped).JPG",
+    "author": "Hedwig Storch",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Reykjav%C3%ADk_5545_(cropped).JPG",
+    "via": "p18",
+    "width": 3888,
+    "height": 1936
+  },
+  "rialto-bridge": {
+    "file": "File:Rialto 2025 4.jpg",
+    "author": "kallerna",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Rialto_2025_4.jpg",
+    "via": "p18",
+    "width": 5100,
+    "height": 3400
+  },
+  "rome": {
+    "file": "File:Rome Skyline (8012016319).jpg",
+    "author": "Bert Kaufmann from Roermond, Netherlands",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Rome_Skyline_(8012016319).jpg",
+    "via": "p18",
+    "width": 5982,
+    "height": 3988
   },
   "ryman-auditorium": {
     "file": "File:Ryman Auditorium.jpg",
@@ -219,6 +1059,106 @@
     "width": 3300,
     "height": 2200
   },
+  "sagrada-familia": {
+    "file": "File:SF maig 2026.jpg",
+    "author": "Canaan",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:SF_maig_2026.jpg",
+    "via": "p18",
+    "width": 2588,
+    "height": 1786
+  },
+  "schonbrunn-palace": {
+    "file": "File:Wien - Schloss Schönbrunn.JPG",
+    "author": "C.Stadler/Bwag",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Schloss_Sch%C3%B6nbrunn.JPG",
+    "via": "p18",
+    "width": 5650,
+    "height": 3860
+  },
+  "seoul": {
+    "file": "File:덕수궁의 가을.jpg",
+    "author": "라성민",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:%EB%8D%95%EC%88%98%EA%B6%81%EC%9D%98_%EA%B0%80%EC%9D%84.jpg",
+    "via": "p18",
+    "width": 7360,
+    "height": 4912
+  },
+  "sheikh-zayed-grand-mosque": {
+    "file": "File:Sheikh Zayed Mosque Silhouette.jpg",
+    "author": "PotatoWitch",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sheikh_Zayed_Mosque_Silhouette.jpg",
+    "via": "p18",
+    "width": 4032,
+    "height": 2268
+  },
+  "shwedagon-pagoda": {
+    "file": "File:Yangon - Shwedagon Pagoda 03.jpg",
+    "author": "Stefan Fussan",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Yangon_-_Shwedagon_Pagoda_03.jpg",
+    "via": "p18",
+    "width": 4623,
+    "height": 3000
+  },
+  "sigiriya": {
+    "file": "File:Sigiriya lion gate 04.JPG",
+    "author": "Cherubino",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sigiriya_lion_gate_04.JPG",
+    "via": "p18",
+    "width": 2592,
+    "height": 1944
+  },
+  "sky-tower": {
+    "file": "File:View from Sky Tower Akl.jpg",
+    "author": "Antilived",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:View_from_Sky_Tower_Akl.jpg",
+    "via": "search",
+    "width": 4996,
+    "height": 1300
+  },
+  "space-needle": {
+    "file": "File:Seattle from Space Needle June 2018 003.jpg",
+    "author": "King of Hearts",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Seattle_from_Space_Needle_June_2018_003.jpg",
+    "via": "search",
+    "width": 5760,
+    "height": 3840
+  },
+  "st-basil-s-cathedral": {
+    "file": "File:Moscow - 2025 - Daytime view of St. Basil's Cathedral from Vasilyevsky Spusk.jpg",
+    "author": "Юрий Д.К.",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Moscow_-_2025_-_Daytime_view_of_St._Basil%27s_Cathedral_from_Vasilyevsky_Spusk.jpg",
+    "via": "search",
+    "width": 6266,
+    "height": 5504
+  },
+  "st-peter-s-basilica": {
+    "file": "File:Basilica di San Pietro in Vaticano September 2015-1a.jpg",
+    "author": "Alvesgaspar",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+    "via": "p18",
+    "width": 13066,
+    "height": 6823
+  },
   "statue-of-liberty": {
     "file": "File:Statue of Liberty and a sightseeing boat, Liberty Island, New York.jpg",
     "author": "Christian David",
@@ -229,6 +1169,26 @@
     "width": 7728,
     "height": 5152
   },
+  "stockholm": {
+    "file": "File:Stockholm August 2020 - Kastellet, Vasa Museum, and Nordic Museum.jpg",
+    "author": "Martin Falbisoner",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Stockholm_August_2020_-_Kastellet,_Vasa_Museum,_and_Nordic_Museum.jpg",
+    "via": "search",
+    "width": 5264,
+    "height": 2859
+  },
+  "stonehenge": {
+    "file": "File:Stonehenge Total.jpg",
+    "author": "Stefan Kühn",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Stonehenge_Total.jpg",
+    "via": "p18",
+    "width": 2048,
+    "height": 1536
+  },
   "storming-of-the-bastille": {
     "file": "File:Place de la Bastille, avril 2021.jpg",
     "author": "Guillaume Flament",
@@ -238,6 +1198,16 @@
     "via": "p18",
     "width": 5869,
     "height": 3913
+  },
+  "sugarloaf-mountain": {
+    "file": "File:Vista do Morro Dona Marta.jpg",
+    "author": "Ccarelo",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Vista_do_Morro_Dona_Marta.jpg",
+    "via": "p18",
+    "width": 5357,
+    "height": 3571
   },
   "sun-studio": {
     "file": "File:Facade of Sun Studio - Memphis - Tennessee - USA.jpg",
@@ -279,6 +1249,56 @@
     "width": 2125,
     "height": 1405
   },
+  "table-mountain": {
+    "file": "File:Table Mountain DanieVDM.jpg",
+    "author": "Danie van der Merwe from Cape Town, South Africa",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg",
+    "via": "p18",
+    "width": 2048,
+    "height": 1340
+  },
+  "taj-mahal": {
+    "file": "File:Taj Mahal, Agra, India edit3.jpg",
+    "author": "Taj_Mahal,_Agra,_India_edit2.jpg: Yann; edited by King of Hearts derivative work: Jbarta (talk)",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit3.jpg",
+    "via": "p18",
+    "width": 3144,
+    "height": 2173
+  },
+  "teotihuacan": {
+    "file": "File:ZA77 Teotihuacán edo de mex Herberto de la rosa.jpg",
+    "author": "Hdlrosa",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg",
+    "via": "p18",
+    "width": 3008,
+    "height": 2000
+  },
+  "terracotta-army": {
+    "file": "File:51714-Terracota-Army.jpg",
+    "author": "xiquinhosilva",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg",
+    "via": "p18",
+    "width": 3000,
+    "height": 1987
+  },
+  "the-alamo": {
+    "file": "File:FalloftheAlamo.jpg",
+    "author": "Robert Jenkins Onderdonk",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:FalloftheAlamo.jpg",
+    "via": "p18",
+    "width": 2400,
+    "height": 1600
+  },
   "the-beatles": {
     "file": "File:Liverpool Metropolitan Cathedral at dusk (reduced grain), corrected perspective.jpg",
     "author": "Chowells",
@@ -289,6 +1309,106 @@
     "width": 5141,
     "height": 3215
   },
+  "the-bund": {
+    "file": "File:Promenade du Bund.jpg",
+    "author": "Georgio",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Promenade_du_Bund.jpg",
+    "via": "p18",
+    "width": 1748,
+    "height": 1162
+  },
+  "the-little-mermaid": {
+    "file": "File:Petite sirène de Copenhague (conforme à la loi danoise).JPG",
+    "author": "Benoît Prieur",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Petite_sir%C3%A8ne_de_Copenhague_(conforme_%C3%A0_la_loi_danoise).JPG",
+    "via": "p18",
+    "width": 2625,
+    "height": 2253
+  },
+  "tokyo": {
+    "file": "File:Skyscrapers of Shinjuku 2009 January (revised).jpg",
+    "author": "Morio",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January_(revised).jpg",
+    "via": "p18",
+    "width": 3400,
+    "height": 1858
+  },
+  "tokyo-tower": {
+    "file": "File:Tokyo Tower, Minato City.jpg",
+    "author": "David Kernan",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower,_Minato_City.jpg",
+    "via": "search",
+    "width": 5991,
+    "height": 3370
+  },
+  "tower-bridge": {
+    "file": "File:London - London Tower Bridge - 140806 171049.jpg",
+    "author": "Barcex",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:London_-_London_Tower_Bridge_-_140806_171049.jpg",
+    "via": "p18",
+    "width": 4828,
+    "height": 2716
+  },
+  "trevi-fountain": {
+    "file": "File:Trevi Fountain - Roma.jpg",
+    "author": "NikonZ7II",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg",
+    "via": "p18",
+    "width": 8734,
+    "height": 4738
+  },
+  "uluru": {
+    "file": "File:Sunset at Uluru on July 30, 2005.jpg",
+    "author": "Thomas Schoch",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sunset_at_Uluru_on_July_30,_2005.jpg",
+    "via": "p18",
+    "width": 1561,
+    "height": 1171
+  },
+  "victoria-falls": {
+    "file": "File:Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 05.jpg",
+    "author": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_05.jpg",
+    "via": "p18",
+    "width": 6819,
+    "height": 3891
+  },
+  "vienna": {
+    "file": "File:Wien katedra sw Szczepana widok z wiezy 6.jpg",
+    "author": "Andrzej Otrębski",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Wien_katedra_sw_Szczepana_widok_z_wiezy_6.jpg",
+    "via": "p18",
+    "width": 5184,
+    "height": 3456
+  },
+  "warsaw": {
+    "file": "File:Castle Square (22346p).jpg",
+    "author": "Rhododendrites",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Castle_Square_(22346p).jpg",
+    "via": "p18",
+    "width": 4885,
+    "height": 3846
+  },
   "washington-dc": {
     "file": "File:Aerial view of White House and downtown, Washington, D.C LCCN2010630891.jpg",
     "author": "Carol M. Highsmith",
@@ -298,6 +1418,26 @@
     "via": "p18",
     "width": 6147,
     "height": 3248
+  },
+  "wat-arun": {
+    "file": "File:Wat Arun from Chao Phraya River.jpg",
+    "author": "Diliff",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Wat_Arun_from_Chao_Phraya_River.jpg",
+    "via": "p18",
+    "width": 1000,
+    "height": 667
+  },
+  "wellington": {
+    "file": "File:Wellington City Night.jpg",
+    "author": "Donovan Govan.",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Wellington_City_Night.jpg",
+    "via": "search",
+    "width": 13939,
+    "height": 1788
   },
   "woodstock-1969": {
     "file": "File:BethelWoods.jpg",
