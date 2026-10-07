@@ -1,0 +1,80 @@
+[
+  {
+    "id": "statue-of-liberty",
+    "theme": "geography",
+    "name": "Statue of Liberty",
+    "place": "New York, United States",
+    "kind": "landmark",
+    "lat": 40.68921,
+    "lon": -74.04443,
+    "wikidataId": "Q9202",
+    "coordRef": "wikidata:Q9202",
+    "coordSource": "https://www.wikidata.org/wiki/Q9202#P625",
+    "hint": "United States"
+  },
+  {
+    "id": "washington-dc",
+    "theme": "geography",
+    "name": "Washington, D.C.",
+    "place": "United States",
+    "kind": "capital",
+    "lat": 38.895,
+    "lon": -77.03667,
+    "wikidataId": "Q61",
+    "coordRef": "wikidata:Q61",
+    "coordSource": "https://www.wikidata.org/wiki/Q61#P625",
+    "hint": "United States"
+  },
+  {
+    "id": "christ-the-redeemer",
+    "theme": "geography",
+    "name": "Christ the Redeemer",
+    "place": "Rio de Janeiro, Brazil",
+    "kind": "landmark",
+    "lat": -22.95192,
+    "lon": -43.21046,
+    "wikidataId": "Q79961",
+    "coordRef": "wikidata:Q79961",
+    "coordSource": "https://www.wikidata.org/wiki/Q79961#P625",
+    "hint": "Brazil"
+  },
+  {
+    "id": "big-ben",
+    "theme": "geography",
+    "name": "Big Ben",
+    "place": "London, United Kingdom",
+    "kind": "landmark",
+    "lat": 51.50067,
+    "lon": -0.12457,
+    "wikidataId": "Q41225",
+    "coordRef": "wikidata:Q41225",
+    "coordSource": "https://www.wikidata.org/wiki/Q41225#P625",
+    "hint": "United Kingdom"
+  },
+  {
+    "id": "eiffel-tower",
+    "theme": "geography",
+    "name": "Eiffel Tower",
+    "place": "Paris, France",
+    "kind": "landmark",
+    "lat": 48.8583,
+    "lon": 2.29448,
+    "wikidataId": "Q243",
+    "coordRef": "wikidata:Q243",
+    "coordSource": "https://www.wikidata.org/wiki/Q243#P625",
+    "hint": "France"
+  },
+  {
+    "id": "dublin",
+    "theme": "geography",
+    "name": "Dublin",
+    "place": "Ireland",
+    "kind": "capital",
+    "lat": 53.34972,
+    "lon": -6.26028,
+    "wikidataId": "Q1761",
+    "coordRef": "wikidata:Q1761",
+    "coordSource": "https://www.wikidata.org/wiki/Q1761#P625",
+    "hint": "Ireland"
+  }
+]

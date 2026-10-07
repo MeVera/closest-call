@@ -1,0 +1,80 @@
+[
+  {
+    "id": "melbourne-cricket-ground",
+    "theme": "sport",
+    "name": "Melbourne Cricket Ground",
+    "place": "Melbourne, Australia",
+    "kind": "stadium",
+    "lat": -37.81994,
+    "lon": 144.98345,
+    "wikidataId": "Q330136",
+    "coordRef": "wikidata:Q330136",
+    "coordSource": "https://www.wikidata.org/wiki/Q330136#P625",
+    "hint": "Cricket and Australian rules football stadium in Yarra Park"
+  },
+  {
+    "id": "sydney-cricket-ground",
+    "theme": "sport",
+    "name": "Sydney Cricket Ground",
+    "place": "Sydney, Australia",
+    "kind": "stadium",
+    "lat": -33.89167,
+    "lon": 151.22472,
+    "wikidataId": "Q856393",
+    "coordRef": "wikidata:Q856393",
+    "coordSource": "https://www.wikidata.org/wiki/Q856393#P625",
+    "hint": "Cricket ground in Moore Park"
+  },
+  {
+    "id": "eden-park",
+    "theme": "sport",
+    "name": "Eden Park",
+    "place": "Auckland, New Zealand",
+    "kind": "stadium",
+    "lat": -36.87528,
+    "lon": 174.745,
+    "wikidataId": "Q312411",
+    "coordRef": "wikidata:Q312411",
+    "coordSource": "https://www.wikidata.org/wiki/Q312411#P625",
+    "hint": "Rugby and cricket stadium in Kingsland, Auckland"
+  },
+  {
+    "id": "old-trafford",
+    "theme": "sport",
+    "name": "Old Trafford",
+    "place": "Manchester, England",
+    "kind": "stadium",
+    "lat": 53.46306,
+    "lon": -2.29139,
+    "wikidataId": "Q83457",
+    "coordRef": "wikidata:Q83457",
+    "coordSource": "https://www.wikidata.org/wiki/Q83457#P625",
+    "hint": "Home ground of Manchester United"
+  },
+  {
+    "id": "anfield",
+    "theme": "sport",
+    "name": "Anfield",
+    "place": "Liverpool, England",
+    "kind": "stadium",
+    "lat": 53.43083,
+    "lon": -2.96083,
+    "wikidataId": "Q45671",
+    "coordRef": "wikidata:Q45671",
+    "coordSource": "https://www.wikidata.org/wiki/Q45671#P625",
+    "hint": "Home ground of Liverpool FC"
+  },
+  {
+    "id": "headingley",
+    "theme": "sport",
+    "name": "Headingley",
+    "place": "Leeds, England",
+    "kind": "stadium",
+    "lat": 53.81766,
+    "lon": -1.58198,
+    "wikidataId": "Q1187032",
+    "coordRef": "wikidata:Q1187032",
+    "coordSource": "https://www.wikidata.org/wiki/Q1187032#P625",
+    "hint": "Cricket and rugby league ground in Leeds"
+  }
+]
