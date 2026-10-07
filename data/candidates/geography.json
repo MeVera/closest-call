@@ -1,0 +1,697 @@
+[
+ {
+  "title": "Great Barrier Reef",
+  "place": "Queensland, Australia",
+  "kind": "landmark"
+ },
+ {
+  "title": "Sydney Opera House",
+  "place": "Sydney, Australia",
+  "kind": "landmark"
+ },
+ {
+  "title": "Sydney Harbour Bridge",
+  "place": "Sydney, Australia",
+  "kind": "landmark"
+ },
+ {
+  "title": "Uluru",
+  "place": "Northern Territory, Australia",
+  "kind": "landmark"
+ },
+ {
+  "title": "Sky Tower (Auckland)",
+  "place": "Auckland, New Zealand",
+  "kind": "landmark",
+  "name": "Sky Tower"
+ },
+ {
+  "title": "Ahu Tongariki",
+  "place": "Easter Island, Chile",
+  "kind": "landmark",
+  "name": "Moai at Ahu Tongariki"
+ },
+ {
+  "title": "Taj Mahal",
+  "place": "Agra, India",
+  "kind": "landmark"
+ },
+ {
+  "title": "Gateway of India",
+  "place": "Mumbai, India",
+  "kind": "landmark"
+ },
+ {
+  "title": "Golden Temple",
+  "place": "Amritsar, India",
+  "kind": "landmark",
+  "name": "Golden Temple"
+ },
+ {
+  "title": "Qutb Minar",
+  "place": "Delhi, India",
+  "kind": "landmark"
+ },
+ {
+  "title": "Great Wall of China",
+  "place": "Badaling, China",
+  "kind": "landmark",
+  "name": "Great Wall of China (Badaling)"
+ },
+ {
+  "title": "Forbidden City",
+  "place": "Beijing, China",
+  "kind": "landmark"
+ },
+ {
+  "title": "Terracotta Army",
+  "place": "Xi'an, China",
+  "kind": "landmark"
+ },
+ {
+  "title": "Potala Palace",
+  "place": "Lhasa, China",
+  "kind": "landmark",
+  "hint": "China"
+ },
+ {
+  "title": "The Bund",
+  "place": "Shanghai, China",
+  "kind": "landmark"
+ },
+ {
+  "title": "Mount Fuji",
+  "place": "Honshu, Japan",
+  "kind": "landmark"
+ },
+ {
+  "title": "Tokyo Tower",
+  "place": "Tokyo, Japan",
+  "kind": "landmark"
+ },
+ {
+  "title": "Fushimi Inari-taisha",
+  "place": "Kyoto, Japan",
+  "kind": "landmark"
+ },
+ {
+  "title": "Itsukushima Shrine",
+  "place": "Hatsukaichi, Japan",
+  "kind": "landmark"
+ },
+ {
+  "title": "Gyeongbokgung",
+  "place": "Seoul, South Korea",
+  "kind": "landmark"
+ },
+ {
+  "title": "Angkor Wat",
+  "place": "Siem Reap, Cambodia",
+  "kind": "landmark"
+ },
+ {
+  "title": "Borobudur",
+  "place": "Magelang, Indonesia",
+  "kind": "landmark",
+  "name": "Borobudur"
+ },
+ {
+  "title": "Petronas Towers",
+  "place": "Kuala Lumpur, Malaysia",
+  "kind": "landmark"
+ },
+ {
+  "title": "Marina Bay Sands",
+  "place": "Singapore",
+  "kind": "landmark"
+ },
+ {
+  "title": "Wat Arun",
+  "place": "Bangkok, Thailand",
+  "kind": "landmark"
+ },
+ {
+  "title": "Shwedagon Pagoda",
+  "place": "Yangon, Myanmar",
+  "kind": "landmark"
+ },
+ {
+  "title": "Sigiriya",
+  "place": "Sigiriya, Sri Lanka",
+  "kind": "landmark"
+ },
+ {
+  "title": "Burj Khalifa",
+  "place": "Dubai, United Arab Emirates",
+  "kind": "landmark"
+ },
+ {
+  "title": "Sheikh Zayed Grand Mosque",
+  "place": "Abu Dhabi, United Arab Emirates",
+  "kind": "landmark",
+  "name": "Sheikh Zayed Grand Mosque"
+ },
+ {
+  "title": "Petra",
+  "place": "Ma'an, Jordan",
+  "kind": "landmark",
+  "name": "Petra (Al-Khazneh)"
+ },
+ {
+  "title": "Hagia Sophia",
+  "place": "Istanbul, Turkey",
+  "kind": "landmark"
+ },
+ {
+  "title": "Sultan Ahmed Mosque",
+  "place": "Istanbul, Turkey",
+  "kind": "landmark",
+  "name": "Blue Mosque"
+ },
+ {
+  "title": "Masjid al-Haram",
+  "place": "Mecca, Saudi Arabia",
+  "kind": "landmark",
+  "name": "Masjid al-Haram"
+ },
+ {
+  "title": "Great Pyramid of Giza",
+  "place": "Giza, Egypt",
+  "kind": "landmark"
+ },
+ {
+  "title": "Abu Simbel",
+  "place": "Aswan, Egypt",
+  "kind": "landmark",
+  "name": "Abu Simbel temples"
+ },
+ {
+  "title": "Victoria Falls",
+  "place": "Victoria Falls, Zimbabwe",
+  "kind": "landmark",
+  "hint": "Zambia and Zimbabwe"
+ },
+ {
+  "title": "Table Mountain",
+  "place": "Cape Town, South Africa",
+  "kind": "landmark"
+ },
+ {
+  "title": "Mount Kilimanjaro",
+  "place": "Kilimanjaro, Tanzania",
+  "kind": "landmark"
+ },
+ {
+  "title": "Hassan II Mosque",
+  "place": "Casablanca, Morocco",
+  "kind": "landmark"
+ },
+ {
+  "title": "Colosseum",
+  "place": "Rome, Italy",
+  "kind": "landmark"
+ },
+ {
+  "title": "Trevi Fountain",
+  "place": "Rome, Italy",
+  "kind": "landmark"
+ },
+ {
+  "title": "Leaning Tower of Pisa",
+  "place": "Pisa, Italy",
+  "kind": "landmark"
+ },
+ {
+  "title": "Milan Cathedral",
+  "place": "Milan, Italy",
+  "kind": "landmark"
+ },
+ {
+  "title": "Rialto Bridge",
+  "place": "Venice, Italy",
+  "kind": "landmark"
+ },
+ {
+  "title": "St. Peter's Basilica",
+  "place": "Vatican City",
+  "kind": "landmark",
+  "name": "St Peter's Basilica"
+ },
+ {
+  "title": "Sagrada Família",
+  "place": "Barcelona, Spain",
+  "kind": "landmark",
+  "name": "Sagrada Família"
+ },
+ {
+  "title": "Alhambra",
+  "place": "Granada, Spain",
+  "kind": "landmark"
+ },
+ {
+  "title": "Acropolis of Athens",
+  "place": "Athens, Greece",
+  "kind": "landmark"
+ },
+ {
+  "title": "Stonehenge",
+  "place": "Wiltshire, England",
+  "kind": "landmark"
+ },
+ {
+  "title": "Tower Bridge",
+  "place": "London, England",
+  "kind": "landmark"
+ },
+ {
+  "title": "Edinburgh Castle",
+  "place": "Edinburgh, Scotland",
+  "kind": "landmark"
+ },
+ {
+  "title": "Giant's Causeway",
+  "place": "County Antrim, Northern Ireland",
+  "kind": "landmark",
+  "name": "Giant's Causeway"
+ },
+ {
+  "title": "Arc de Triomphe",
+  "place": "Paris, France",
+  "kind": "landmark"
+ },
+ {
+  "title": "Notre-Dame de Paris",
+  "place": "Paris, France",
+  "kind": "landmark"
+ },
+ {
+  "title": "Louvre",
+  "place": "Paris, France",
+  "kind": "landmark",
+  "name": "Louvre"
+ },
+ {
+  "title": "Mont-Saint-Michel",
+  "place": "Normandy, France",
+  "kind": "landmark",
+  "name": "Mont-Saint-Michel"
+ },
+ {
+  "title": "Brandenburg Gate",
+  "place": "Berlin, Germany",
+  "kind": "landmark"
+ },
+ {
+  "title": "East Side Gallery",
+  "place": "Berlin, Germany",
+  "kind": "landmark",
+  "name": "Berlin Wall (East Side Gallery)"
+ },
+ {
+  "title": "Neuschwanstein Castle",
+  "place": "Bavaria, Germany",
+  "kind": "landmark"
+ },
+ {
+  "title": "Cologne Cathedral",
+  "place": "Cologne, Germany",
+  "kind": "landmark"
+ },
+ {
+  "title": "Atomium",
+  "place": "Brussels, Belgium",
+  "kind": "landmark"
+ },
+ {
+  "title": "The Little Mermaid (statue)",
+  "place": "Copenhagen, Denmark",
+  "kind": "landmark",
+  "name": "The Little Mermaid"
+ },
+ {
+  "title": "Charles Bridge",
+  "place": "Prague, Czech Republic",
+  "kind": "landmark"
+ },
+ {
+  "title": "Schönbrunn Palace",
+  "place": "Vienna, Austria",
+  "kind": "landmark"
+ },
+ {
+  "title": "Matterhorn",
+  "place": "Zermatt, Switzerland",
+  "kind": "landmark"
+ },
+ {
+  "title": "Saint Basil's Cathedral",
+  "place": "Moscow, Russia",
+  "kind": "landmark",
+  "name": "St Basil's Cathedral"
+ },
+ {
+  "title": "Hallgrímskirkja",
+  "place": "Reykjavík, Iceland",
+  "kind": "landmark"
+ },
+ {
+  "title": "Golden Gate Bridge",
+  "place": "San Francisco, United States",
+  "kind": "landmark"
+ },
+ {
+  "title": "Empire State Building",
+  "place": "New York, United States",
+  "kind": "landmark"
+ },
+ {
+  "title": "Mount Rushmore",
+  "place": "South Dakota, United States",
+  "kind": "landmark"
+ },
+ {
+  "title": "Hollywood Sign",
+  "place": "Los Angeles, United States",
+  "kind": "landmark"
+ },
+ {
+  "title": "Space Needle",
+  "place": "Seattle, United States",
+  "kind": "landmark"
+ },
+ {
+  "title": "Gateway Arch",
+  "place": "St. Louis, United States",
+  "kind": "landmark"
+ },
+ {
+  "title": "Lincoln Memorial",
+  "place": "Washington, D.C., United States",
+  "kind": "landmark"
+ },
+ {
+  "title": "The Alamo",
+  "place": "San Antonio, United States",
+  "kind": "landmark",
+  "name": "The Alamo"
+ },
+ {
+  "title": "Horseshoe Falls",
+  "place": "Niagara Falls, Canada",
+  "kind": "landmark",
+  "name": "Niagara Falls (Horseshoe Falls)"
+ },
+ {
+  "title": "CN Tower",
+  "place": "Toronto, Canada",
+  "kind": "landmark"
+ },
+ {
+  "title": "Château Frontenac",
+  "place": "Quebec City, Canada",
+  "kind": "landmark"
+ },
+ {
+  "title": "Chichen Itza",
+  "place": "Yucatán, Mexico",
+  "kind": "landmark",
+  "name": "Chichén Itzá"
+ },
+ {
+  "title": "Teotihuacan",
+  "place": "State of Mexico, Mexico",
+  "kind": "landmark"
+ },
+ {
+  "title": "Machu Picchu",
+  "place": "Cusco Region, Peru",
+  "kind": "landmark"
+ },
+ {
+  "title": "Sugarloaf Mountain",
+  "place": "Rio de Janeiro, Brazil",
+  "kind": "landmark"
+ },
+ {
+  "title": "Obelisco de Buenos Aires",
+  "place": "Buenos Aires, Argentina",
+  "kind": "landmark"
+ },
+ {
+  "title": "Christ the Redeemer (statue)",
+  "place": "Rio de Janeiro, Brazil",
+  "kind": "landmark",
+  "name": "Christ the Redeemer"
+ },
+ {
+  "title": "London",
+  "place": "United Kingdom",
+  "kind": "capital"
+ },
+ {
+  "title": "Paris",
+  "place": "France",
+  "kind": "capital"
+ },
+ {
+  "title": "Berlin",
+  "place": "Germany",
+  "kind": "capital"
+ },
+ {
+  "title": "Madrid",
+  "place": "Spain",
+  "kind": "capital"
+ },
+ {
+  "title": "Rome",
+  "place": "Italy",
+  "kind": "capital"
+ },
+ {
+  "title": "Lisbon",
+  "place": "Portugal",
+  "kind": "capital"
+ },
+ {
+  "title": "Amsterdam",
+  "place": "Netherlands",
+  "kind": "capital"
+ },
+ {
+  "title": "City of Brussels",
+  "place": "Belgium",
+  "kind": "capital",
+  "name": "Brussels"
+ },
+ {
+  "title": "Vienna",
+  "place": "Austria",
+  "kind": "capital"
+ },
+ {
+  "title": "Prague",
+  "place": "Czech Republic",
+  "kind": "capital"
+ },
+ {
+  "title": "Warsaw",
+  "place": "Poland",
+  "kind": "capital"
+ },
+ {
+  "title": "Budapest",
+  "place": "Hungary",
+  "kind": "capital"
+ },
+ {
+  "title": "Athens",
+  "place": "Greece",
+  "kind": "capital"
+ },
+ {
+  "title": "Stockholm",
+  "place": "Sweden",
+  "kind": "capital"
+ },
+ {
+  "title": "Oslo",
+  "place": "Norway",
+  "kind": "capital"
+ },
+ {
+  "title": "Copenhagen",
+  "place": "Denmark",
+  "kind": "capital"
+ },
+ {
+  "title": "Helsinki",
+  "place": "Finland",
+  "kind": "capital"
+ },
+ {
+  "title": "Reykjavík",
+  "place": "Iceland",
+  "kind": "capital"
+ },
+ {
+  "title": "Bern",
+  "place": "Switzerland",
+  "kind": "capital"
+ },
+ {
+  "title": "Moscow",
+  "place": "Russia",
+  "kind": "capital"
+ },
+ {
+  "title": "Ankara",
+  "place": "Turkey",
+  "kind": "capital"
+ },
+ {
+  "title": "Cairo",
+  "place": "Egypt",
+  "kind": "capital"
+ },
+ {
+  "title": "Nairobi",
+  "place": "Kenya",
+  "kind": "capital"
+ },
+ {
+  "title": "Addis Ababa",
+  "place": "Ethiopia",
+  "kind": "capital"
+ },
+ {
+  "title": "Abuja",
+  "place": "Nigeria",
+  "kind": "capital"
+ },
+ {
+  "title": "Accra",
+  "place": "Ghana",
+  "kind": "capital"
+ },
+ {
+  "title": "Dakar",
+  "place": "Senegal",
+  "kind": "capital"
+ },
+ {
+  "title": "Rabat",
+  "place": "Morocco",
+  "kind": "capital"
+ },
+ {
+  "title": "Canberra",
+  "place": "Australia",
+  "kind": "capital"
+ },
+ {
+  "title": "Wellington",
+  "place": "New Zealand",
+  "kind": "capital"
+ },
+ {
+  "title": "Tokyo",
+  "place": "Japan",
+  "kind": "capital"
+ },
+ {
+  "title": "Beijing",
+  "place": "China",
+  "kind": "capital"
+ },
+ {
+  "title": "Seoul",
+  "place": "South Korea",
+  "kind": "capital"
+ },
+ {
+  "title": "New Delhi",
+  "place": "India",
+  "kind": "capital"
+ },
+ {
+  "title": "Bangkok",
+  "place": "Thailand",
+  "kind": "capital"
+ },
+ {
+  "title": "Hanoi",
+  "place": "Vietnam",
+  "kind": "capital"
+ },
+ {
+  "title": "Jakarta",
+  "place": "Indonesia",
+  "kind": "capital"
+ },
+ {
+  "title": "Manila",
+  "place": "Philippines",
+  "kind": "capital"
+ },
+ {
+  "title": "Kuala Lumpur",
+  "place": "Malaysia",
+  "kind": "capital"
+ },
+ {
+  "title": "Ottawa",
+  "place": "Canada",
+  "kind": "capital"
+ },
+ {
+  "title": "Mexico City",
+  "place": "Mexico",
+  "kind": "capital"
+ },
+ {
+  "title": "Havana",
+  "place": "Cuba",
+  "kind": "capital"
+ },
+ {
+  "title": "Bogotá",
+  "place": "Colombia",
+  "kind": "capital"
+ },
+ {
+  "title": "Lima",
+  "place": "Peru",
+  "kind": "capital"
+ },
+ {
+  "title": "Santiago",
+  "place": "Chile",
+  "kind": "capital"
+ },
+ {
+  "title": "Buenos Aires",
+  "place": "Argentina",
+  "kind": "capital"
+ },
+ {
+  "title": "Brasília",
+  "place": "Brazil",
+  "kind": "capital"
+ },
+ {
+  "title": "Riyadh",
+  "place": "Saudi Arabia",
+  "kind": "capital"
+ },
+ {
+  "title": "Kathmandu",
+  "place": "Nepal",
+  "kind": "capital"
+ },
+ {
+  "title": "Ulaanbaatar",
+  "place": "Mongolia",
+  "kind": "capital"
+ }
+]

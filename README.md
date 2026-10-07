@@ -15,6 +15,7 @@ Static site: Vite + React + TypeScript, no backend. The name and every tunable n
 | `npm test` | Run the Vitest unit tests |
 | `npm run typecheck` | TypeScript only |
 | `npm run validate:data` | Validate all data, photos and credits, and simulate 400 days plus 500 Endless runs per theme. Exits 1 on any problem. Dev-only flags: `-- --skip-photos`, `-- --skip-generation` |
+| `npm run resolve -- <theme>` | Turn `data/candidates/<theme>.json` (English Wikipedia titles plus place and kind) into data items. Everything checkable comes from Wikidata: the item, its canonical point (its own coordinates, a named site, an artist's birthplace or a band's formation city), the country, whether a capital really is a national capital, and the History year. It rejects disputed origins and points that don't exist, appends new items, and skips ones already present. `-- --dry` reports only |
 | `npm run sync:coords` | Fill `lat`, `lon` and `coordSource` for every item from its `coordRef` (Wikidata P625 or OpenStreetMap). `-- --check` reports drift without writing; `-- --theme music` limits it to one theme |
 | `npm run fetch:photos` | Fetch, licence-check and convert photos from Wikimedia Commons, write credits and the contact sheet |
 | `npm run contact-sheet` | Rebuild `photo-review/contact-sheet.html` only |
@@ -86,7 +87,25 @@ The app uses hash routes, so it works on any static host with no rewrite rules:
   Every access is wrapped in try/catch, so the game still works without storage.
 - **Midnight.** A daily keeps the date it started with, so a run that crosses midnight finishes the same puzzle.
 
+## Adding places
+
+1. Add entries to `data/candidates/<theme>.json`, for example `{"title": "Eiffel Tower", "place": "Paris, France", "kind": "landmark"}`. Optional fields:
+   - `name`, for a friendlier display name.
+   - `hint`.
+   - `coord`: `"enwiki:<site title>"` pins an event to a specific site.
+   - `photoRef`: the entity whose photo to use.
+   - `fact` and `factSource`, both required for Music.
+2. Run `npm run resolve -- <theme>`, then `npm run sync:coords -- --theme <theme>`.
+3. Run `npm run fetch:photos -- --theme <theme>`, review `photo-review/contact-sheet.html`, and pin any bad picks in `data/photo-overrides.json`.
+4. Run `npm run validate:data`.
+
+Run these network scripts **one at a time**. Running several in parallel makes Wikimedia throttle the connection.
+
 ## Decisions and defaults
+
+- **Endless length.** Endless is capped at 10 rounds (`ENDLESS_MAX_ROUNDS`), so it uses the same ratio bands as the daily. The band rule for round 11 and later is still in place for the day the cap is raised.
+- **Great Barrier Reef.** It is included at your request, using Wikidata's single cited point (-16.4, 145.8, off Cairns). The reef is about 2,300 km long, so distances to it are approximate. Remove it from `data/geography.json` if rounds near it feel unfair.
+- **The Berlin Wall.** It appears twice. In History it is "Fall of the Berlin Wall" at the Brandenburg Gate. In Geography it is "Berlin Wall (East Side Gallery)", the longest surviving section.
 
 Where the brief left a choice open, these are the defaults:
 

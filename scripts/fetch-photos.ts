@@ -3,6 +3,7 @@
 //   npm run fetch:photos                 # every item without a photo
 //   npm run fetch:photos -- --only abba  # one item (refetches it)
 //   npm run fetch:photos -- --force      # refetch everything
+//   npm run fetch:photos -- --theme music # one theme
 //
 // Order of preference: data/photo-overrides.json, then Wikidata P18 of the photo entity
 // (photoRef, else the coordRef entity, else wikidataId), then a Commons search.
@@ -241,6 +242,8 @@ async function main() {
   verbose = args.includes('--verbose');
   const oi = args.indexOf('--only');
   const only = oi >= 0 ? new Set(args[oi + 1].split(',')) : null;
+  const ti = args.indexOf('--theme');
+  const themes = ti >= 0 ? THEMES.filter((t) => args[ti + 1].split(',').includes(t)) : THEMES;
 
   fs.mkdirSync(PHOTOS_DIR, { recursive: true });
   const overridesFile = path.join(DATA_DIR, 'photo-overrides.json');
@@ -251,7 +254,7 @@ async function main() {
   let fetched = 0;
   let skipped = 0;
 
-  for (const theme of THEMES) {
+  for (const theme of themes) {
     for (const item of loadTheme(theme)) {
       if (only && !only.has(item.id)) continue;
       const dest = path.join(PHOTOS_DIR, `${item.id}.webp`);

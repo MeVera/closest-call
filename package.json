@@ -14,7 +14,8 @@
     "sync:coords": "tsx scripts/sync-coords.ts",
     "fetch:photos": "tsx scripts/fetch-photos.ts",
     "contact-sheet": "tsx scripts/contact-sheet.ts",
-    "screenshots": "playwright test"
+    "screenshots": "playwright test",
+    "resolve": "tsx scripts/resolve-candidates.ts"
   },
   "dependencies": {
     "d3-geo": "^3.1.1",

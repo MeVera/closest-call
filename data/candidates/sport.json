@@ -1,0 +1,601 @@
+[
+ {
+  "title": "Wembley Stadium",
+  "place": "London, England",
+  "kind": "stadium"
+ },
+ {
+  "title": "Lord's",
+  "place": "London, England",
+  "kind": "stadium",
+  "name": "Lord's Cricket Ground"
+ },
+ {
+  "title": "All England Lawn Tennis and Croquet Club",
+  "place": "London, England",
+  "kind": "venue",
+  "name": "Wimbledon (All England Club)"
+ },
+ {
+  "title": "Twickenham Stadium",
+  "place": "London, England",
+  "kind": "stadium"
+ },
+ {
+  "title": "Etihad Stadium (Manchester)",
+  "place": "Manchester, England",
+  "kind": "stadium",
+  "name": "Etihad Stadium"
+ },
+ {
+  "title": "Murrayfield Stadium",
+  "place": "Edinburgh, Scotland",
+  "kind": "stadium"
+ },
+ {
+  "title": "Millennium Stadium",
+  "place": "Cardiff, Wales",
+  "kind": "stadium",
+  "name": "Principality Stadium"
+ },
+ {
+  "title": "Croke Park",
+  "place": "Dublin, Ireland",
+  "kind": "stadium"
+ },
+ {
+  "title": "Old Course at St Andrews",
+  "place": "St Andrews, Scotland",
+  "kind": "venue",
+  "name": "Old Course, St Andrews"
+ },
+ {
+  "title": "Silverstone Circuit",
+  "place": "Silverstone, England",
+  "kind": "circuit"
+ },
+ {
+  "title": "Aintree Racecourse",
+  "place": "Aintree, England",
+  "kind": "venue"
+ },
+ {
+  "title": "Ascot Racecourse",
+  "place": "Ascot, England",
+  "kind": "venue"
+ },
+ {
+  "title": "Epsom Downs Racecourse",
+  "place": "Epsom, England",
+  "kind": "venue"
+ },
+ {
+  "title": "Celtic Park",
+  "place": "Glasgow, Scotland",
+  "kind": "stadium"
+ },
+ {
+  "title": "Edgbaston Cricket Ground",
+  "place": "Birmingham, England",
+  "kind": "stadium",
+  "name": "Edgbaston"
+ },
+ {
+  "title": "Trent Bridge",
+  "place": "Nottingham, England",
+  "kind": "stadium"
+ },
+ {
+  "title": "Cheltenham Racecourse",
+  "place": "Cheltenham, England",
+  "kind": "venue"
+ },
+ {
+  "title": "Royal Portrush Golf Club",
+  "place": "Portrush, Northern Ireland",
+  "kind": "venue"
+ },
+ {
+  "title": "St James' Park",
+  "place": "Newcastle upon Tyne, England",
+  "kind": "stadium"
+ },
+ {
+  "title": "Villa Park",
+  "place": "Birmingham, England",
+  "kind": "stadium"
+ },
+ {
+  "title": "Camp Nou",
+  "place": "Barcelona, Spain",
+  "kind": "stadium"
+ },
+ {
+  "title": "Santiago Bernabéu Stadium",
+  "place": "Madrid, Spain",
+  "kind": "stadium"
+ },
+ {
+  "title": "Stade de France",
+  "place": "Saint-Denis, France",
+  "kind": "stadium"
+ },
+ {
+  "title": "Stade Roland Garros",
+  "place": "Paris, France",
+  "kind": "venue"
+ },
+ {
+  "title": "San Siro",
+  "place": "Milan, Italy",
+  "kind": "stadium"
+ },
+ {
+  "title": "Stadio Olimpico",
+  "place": "Rome, Italy",
+  "kind": "stadium"
+ },
+ {
+  "title": "Allianz Arena",
+  "place": "Munich, Germany",
+  "kind": "stadium"
+ },
+ {
+  "title": "Westfalenstadion",
+  "place": "Dortmund, Germany",
+  "kind": "stadium",
+  "name": "Signal Iduna Park"
+ },
+ {
+  "title": "Olympiastadion (Berlin)",
+  "place": "Berlin, Germany",
+  "kind": "stadium",
+  "name": "Olympiastadion Berlin"
+ },
+ {
+  "title": "Johan Cruyff Arena",
+  "place": "Amsterdam, Netherlands",
+  "kind": "stadium"
+ },
+ {
+  "title": "Estádio da Luz",
+  "place": "Lisbon, Portugal",
+  "kind": "stadium"
+ },
+ {
+  "title": "Circuit de Monaco",
+  "place": "Monaco",
+  "kind": "circuit"
+ },
+ {
+  "title": "Circuit de Spa-Francorchamps",
+  "place": "Stavelot, Belgium",
+  "kind": "circuit"
+ },
+ {
+  "title": "Monza Circuit",
+  "place": "Monza, Italy",
+  "kind": "circuit",
+  "name": "Monza"
+ },
+ {
+  "title": "Nürburgring",
+  "place": "Nürburg, Germany",
+  "kind": "circuit"
+ },
+ {
+  "title": "Circuit de la Sarthe",
+  "place": "Le Mans, France",
+  "kind": "circuit"
+ },
+ {
+  "title": "Red Bull Ring",
+  "place": "Spielberg, Austria",
+  "kind": "circuit"
+ },
+ {
+  "title": "Circuit Zandvoort",
+  "place": "Zandvoort, Netherlands",
+  "kind": "circuit"
+ },
+ {
+  "title": "Circuit de Barcelona-Catalunya",
+  "place": "Montmeló, Spain",
+  "kind": "circuit"
+ },
+ {
+  "title": "Hungaroring",
+  "place": "Mogyoród, Hungary",
+  "kind": "circuit"
+ },
+ {
+  "title": "Holmenkollbakken",
+  "place": "Oslo, Norway",
+  "kind": "venue"
+ },
+ {
+  "title": "Panathenaic Stadium",
+  "place": "Athens, Greece",
+  "kind": "stadium"
+ },
+ {
+  "title": "Luzhniki Stadium",
+  "place": "Moscow, Russia",
+  "kind": "stadium"
+ },
+ {
+  "title": "Atatürk Olympic Stadium",
+  "place": "Istanbul, Turkey",
+  "kind": "stadium"
+ },
+ {
+  "title": "Stade Vélodrome",
+  "place": "Marseille, France",
+  "kind": "stadium"
+ },
+ {
+  "title": "Imola Circuit",
+  "place": "Imola, Italy",
+  "kind": "circuit",
+  "name": "Imola"
+ },
+ {
+  "title": "Stadion Wankdorf",
+  "place": "Bern, Switzerland",
+  "kind": "stadium",
+  "name": "Wankdorf Stadium"
+ },
+ {
+  "title": "Ernst-Happel-Stadion",
+  "place": "Vienna, Austria",
+  "kind": "stadium"
+ },
+ {
+  "title": "Parken Stadium",
+  "place": "Copenhagen, Denmark",
+  "kind": "stadium"
+ },
+ {
+  "title": "Madison Square Garden",
+  "place": "New York, United States",
+  "kind": "venue"
+ },
+ {
+  "title": "Yankee Stadium",
+  "place": "New York, United States",
+  "kind": "stadium"
+ },
+ {
+  "title": "Fenway Park",
+  "place": "Boston, United States",
+  "kind": "stadium"
+ },
+ {
+  "title": "Wrigley Field",
+  "place": "Chicago, United States",
+  "kind": "stadium"
+ },
+ {
+  "title": "Augusta National Golf Club",
+  "place": "Augusta, United States",
+  "kind": "venue"
+ },
+ {
+  "title": "Indianapolis Motor Speedway",
+  "place": "Speedway, United States",
+  "kind": "circuit"
+ },
+ {
+  "title": "Daytona International Speedway",
+  "place": "Daytona Beach, United States",
+  "kind": "circuit"
+ },
+ {
+  "title": "Churchill Downs",
+  "place": "Louisville, United States",
+  "kind": "venue"
+ },
+ {
+  "title": "Rose Bowl (stadium)",
+  "place": "Pasadena, United States",
+  "kind": "stadium",
+  "name": "Rose Bowl"
+ },
+ {
+  "title": "Dodger Stadium",
+  "place": "Los Angeles, United States",
+  "kind": "stadium"
+ },
+ {
+  "title": "Lambeau Field",
+  "place": "Green Bay, United States",
+  "kind": "stadium"
+ },
+ {
+  "title": "Pebble Beach Golf Links",
+  "place": "Pebble Beach, United States",
+  "kind": "venue"
+ },
+ {
+  "title": "Circuit of the Americas",
+  "place": "Austin, United States",
+  "kind": "circuit"
+ },
+ {
+  "title": "Arrowhead Stadium",
+  "place": "Kansas City, United States",
+  "kind": "stadium"
+ },
+ {
+  "title": "Lincoln Financial Field",
+  "place": "Philadelphia, United States",
+  "kind": "stadium"
+ },
+ {
+  "title": "Bell Centre",
+  "place": "Montreal, Canada",
+  "kind": "venue"
+ },
+ {
+  "title": "Rogers Centre",
+  "place": "Toronto, Canada",
+  "kind": "stadium"
+ },
+ {
+  "title": "Maracanã Stadium",
+  "place": "Rio de Janeiro, Brazil",
+  "kind": "stadium"
+ },
+ {
+  "title": "Estadio Azteca",
+  "place": "Mexico City, Mexico",
+  "kind": "stadium"
+ },
+ {
+  "title": "La Bombonera",
+  "place": "Buenos Aires, Argentina",
+  "kind": "stadium"
+ },
+ {
+  "title": "Interlagos Circuit",
+  "place": "São Paulo, Brazil",
+  "kind": "circuit",
+  "name": "Interlagos"
+ },
+ {
+  "title": "Estadio Centenario",
+  "place": "Montevideo, Uruguay",
+  "kind": "stadium"
+ },
+ {
+  "title": "Kensington Oval",
+  "place": "Bridgetown, Barbados",
+  "kind": "stadium"
+ },
+ {
+  "title": "Sabina Park",
+  "place": "Kingston, Jamaica",
+  "kind": "stadium"
+ },
+ {
+  "title": "Estadio Nacional (Chile)",
+  "place": "Santiago, Chile",
+  "kind": "stadium",
+  "name": "Estadio Nacional"
+ },
+ {
+  "title": "Estadio Nacional (Lima)",
+  "place": "Lima, Peru",
+  "kind": "stadium",
+  "name": "Estadio Nacional del Perú"
+ },
+ {
+  "title": "FNB Stadium",
+  "place": "Johannesburg, South Africa",
+  "kind": "stadium"
+ },
+ {
+  "title": "Newlands Cricket Ground",
+  "place": "Cape Town, South Africa",
+  "kind": "stadium"
+ },
+ {
+  "title": "Moses Mabhida Stadium",
+  "place": "Durban, South Africa",
+  "kind": "stadium"
+ },
+ {
+  "title": "Cairo International Stadium",
+  "place": "Cairo, Egypt",
+  "kind": "stadium"
+ },
+ {
+  "title": "Stade Mohammed V",
+  "place": "Casablanca, Morocco",
+  "kind": "stadium"
+ },
+ {
+  "title": "Kings Park Stadium",
+  "place": "Durban, South Africa",
+  "kind": "stadium",
+  "name": "Kings Park"
+ },
+ {
+  "title": "Moi International Sports Centre",
+  "place": "Nairobi, Kenya",
+  "kind": "stadium",
+  "name": "Kasarani Stadium"
+ },
+ {
+  "title": "Rod Laver Arena",
+  "place": "Melbourne, Australia",
+  "kind": "venue"
+ },
+ {
+  "title": "Albert Park Circuit",
+  "place": "Melbourne, Australia",
+  "kind": "circuit"
+ },
+ {
+  "title": "Flemington Racecourse",
+  "place": "Melbourne, Australia",
+  "kind": "venue"
+ },
+ {
+  "title": "Adelaide Oval",
+  "place": "Adelaide, Australia",
+  "kind": "stadium"
+ },
+ {
+  "title": "The Gabba",
+  "place": "Brisbane, Australia",
+  "kind": "stadium"
+ },
+ {
+  "title": "Perth Stadium",
+  "place": "Perth, Australia",
+  "kind": "stadium"
+ },
+ {
+  "title": "Mount Panorama Circuit",
+  "place": "Bathurst, Australia",
+  "kind": "circuit"
+ },
+ {
+  "title": "Stadium Australia",
+  "place": "Sydney, Australia",
+  "kind": "stadium"
+ },
+ {
+  "title": "Wellington Regional Stadium",
+  "place": "Wellington, New Zealand",
+  "kind": "stadium",
+  "name": "Sky Stadium"
+ },
+ {
+  "title": "Bellerive Oval",
+  "place": "Hobart, Australia",
+  "kind": "stadium"
+ },
+ {
+  "title": "Royal Melbourne Golf Club",
+  "place": "Melbourne, Australia",
+  "kind": "venue"
+ },
+ {
+  "title": "Hagley Oval",
+  "place": "Christchurch, New Zealand",
+  "kind": "stadium"
+ },
+ {
+  "title": "Eden Gardens",
+  "place": "Kolkata, India",
+  "kind": "stadium"
+ },
+ {
+  "title": "Wankhede Stadium",
+  "place": "Mumbai, India",
+  "kind": "stadium"
+ },
+ {
+  "title": "Narendra Modi Stadium",
+  "place": "Ahmedabad, India",
+  "kind": "stadium"
+ },
+ {
+  "title": "Gaddafi Stadium",
+  "place": "Lahore, Pakistan",
+  "kind": "stadium"
+ },
+ {
+  "title": "Galle International Stadium",
+  "place": "Galle, Sri Lanka",
+  "kind": "stadium"
+ },
+ {
+  "title": "Suzuka International Racing Course",
+  "place": "Suzuka, Japan",
+  "kind": "circuit",
+  "name": "Suzuka Circuit"
+ },
+ {
+  "title": "Tokyo Dome",
+  "place": "Tokyo, Japan",
+  "kind": "stadium"
+ },
+ {
+  "title": "Ryōgoku Kokugikan",
+  "place": "Tokyo, Japan",
+  "kind": "venue"
+ },
+ {
+  "title": "Beijing National Stadium",
+  "place": "Beijing, China",
+  "kind": "stadium"
+ },
+ {
+  "title": "Marina Bay Street Circuit",
+  "place": "Singapore",
+  "kind": "circuit"
+ },
+ {
+  "title": "Sepang International Circuit",
+  "place": "Sepang, Malaysia",
+  "kind": "circuit"
+ },
+ {
+  "title": "Shanghai International Circuit",
+  "place": "Shanghai, China",
+  "kind": "circuit"
+ },
+ {
+  "title": "Lusail Stadium",
+  "place": "Lusail, Qatar",
+  "kind": "stadium"
+ },
+ {
+  "title": "Yas Marina Circuit",
+  "place": "Abu Dhabi, United Arab Emirates",
+  "kind": "circuit"
+ },
+ {
+  "title": "Bahrain International Circuit",
+  "place": "Sakhir, Bahrain",
+  "kind": "circuit"
+ },
+ {
+  "title": "Seoul Olympic Stadium",
+  "place": "Seoul, South Korea",
+  "kind": "stadium"
+ },
+ {
+  "title": "Gelora Bung Karno Stadium",
+  "place": "Jakarta, Indonesia",
+  "kind": "stadium"
+ },
+ {
+  "title": "Koshien Stadium",
+  "place": "Nishinomiya, Japan",
+  "kind": "stadium"
+ },
+ {
+  "title": "Rajiv Gandhi International Cricket Stadium",
+  "place": "Hyderabad, India",
+  "kind": "stadium"
+ },
+ {
+  "title": "M. Chinnaswamy Stadium",
+  "place": "Bengaluru, India",
+  "kind": "stadium"
+ },
+ {
+  "title": "Sharjah Cricket Stadium",
+  "place": "Sharjah, United Arab Emirates",
+  "kind": "stadium"
+ },
+ {
+  "title": "Jeddah Corniche Circuit",
+  "place": "Jeddah, Saudi Arabia",
+  "kind": "circuit"
+ }
+]
