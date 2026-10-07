@@ -19,6 +19,16 @@ Static site: Vite + React + TypeScript, no backend. The name and every tunable n
 | `npm run fetch:photos` | Fetch, licence-check and convert photos from Wikimedia Commons, write credits and the contact sheet |
 | `npm run contact-sheet` | Rebuild `photo-review/contact-sheet.html` only |
 
+### Playing before the data is complete
+
+A daily needs at least 21 places per theme, and an Endless run needs 41. Until the pools are expanded, production builds show a "not ready yet" message for each theme. On the dev server, add `?demo` to pad every theme with synthetic filler points, so the whole game can be played and tested:
+
+```
+http://localhost:5173/?demo#/daily/music
+```
+
+Demo mode is compiled out of production builds (`import.meta.env.DEV`), and a striped banner marks it on screen.
+
 Set `CLOSEST_CALL_CONTACT` (an email address or URL) before running the network scripts, so Wikimedia and OSM can reach you, as their User-Agent policies ask:
 
 ```bash
@@ -45,6 +55,31 @@ The point an item resolves to:
 - A band uses its formation city (Wikidata P740).
 - A solo artist uses their birthplace (P19).
 - A historical event uses the site where it happened (for example, the Potsdam Conference resolves to Cecilienhof).
+
+## Interface
+
+The app uses hash routes, so it works on any static host with no rewrite rules:
+
+| Route | Page |
+| --- | --- |
+| `#/` | Home: themes, today's status, daily streak, countdown |
+| `#/daily/<theme>` | Today's daily (`sport`, `music`, `geography`, `history`) |
+| `#/endless/<theme>` | An Endless run |
+| `#/archive` | Past days, from `LAUNCH_DATE` up to yesterday |
+| `#/archive/<YYYY-MM-DD>/<theme>` | Replay a past day. It never counts toward the daily streak |
+| `#/credits` | Every photo credit, plus Natural Earth, Wikidata and OpenStreetMap |
+
+- **Keyboard.** Press `1` or `←` for the left option and `2` or `→` for the right. After a reveal, focus moves to Next, so `Enter` continues. Everything else is reachable with `Tab`, and focus rings are visible.
+- **Map.** The map is drawn with d3-geo in an azimuthal-equidistant projection centred on the anchor, so both great-circle lines are straight and their lengths are true to scale. It uses Natural Earth 1:50m land and borders (via `world-atlas`), loaded once on the first reveal. There are no tile servers and no API keys.
+- **Saved data.** localStorage (key prefix `cc:v1:`) holds:
+  - Daily progress per date and theme, so a refresh resumes where you were.
+  - Archive results.
+  - The days with a completed daily, which drive the daily streak.
+  - Best daily score and best Endless streak per theme.
+  - The km/mi setting.
+
+  Every access is wrapped in try/catch, so the game still works without storage.
+- **Midnight.** A daily keeps the date it started with, so a run that crosses midnight finishes the same puzzle.
 
 ## Decisions and defaults
 
