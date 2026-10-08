@@ -42,8 +42,7 @@ type Side = 'above' | 'below' | 'left' | 'right';
 
 /** Place a label block next to (px, py), trying sides in order, avoiding boxes already placed. */
 function placeLabel(px: number, py: number, w: number, h: number, sides: Side[], taken: Box[], W: number, H: number): Box {
-  const gap = 12;
-  const at = (s: Side): Box => {
+  const at = (s: Side, gap: number): Box => {
     const b =
       s === 'above' ? { x: px - w / 2, y: py - gap - h, w, h }
       : s === 'below' ? { x: px - w / 2, y: py + gap, w, h }
@@ -53,11 +52,14 @@ function placeLabel(px: number, py: number, w: number, h: number, sides: Side[],
     b.y = Math.min(H - h - 4, Math.max(4, b.y));
     return b;
   };
-  for (const s of sides) {
-    const b = at(s);
-    if (!taken.some((t) => overlaps(t, b))) return b;
+  // Try each side close to the dot first, then step further out before accepting an overlap.
+  for (const gap of [12, 28, 46]) {
+    for (const s of sides) {
+      const b = at(s, gap);
+      if (!taken.some((t) => overlaps(t, b))) return b;
+    }
   }
-  return at(sides[0]);
+  return at(sides[0], 12);
 }
 
 /** Preferred sides for a label: away from `from`. */

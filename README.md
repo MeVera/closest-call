@@ -39,6 +39,12 @@ CLOSEST_CALL_CONTACT="you@yourdomain" npm run fetch:photos
 
 ## Deploying
 
+**Live site:** https://mevera.github.io/closest-call/ (repo: https://github.com/MeVera/closest-call)
+
+Every push to `main` runs `.github/workflows/deploy.yml`: install, tests, data validation, build, then publish to GitHub Pages. A failing test or data check blocks the deploy.
+
+To host somewhere else instead:
+
 Run `npm run build`, then upload `dist/` to any static host: Netlify, Vercel or GitHub Pages. No rewrites or server are needed, because routes use the URL hash and asset paths are relative (`base: './'`).
 
 ## Data
