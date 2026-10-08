@@ -556,21 +556,6 @@
     "factSource": "https://en.wikipedia.org/wiki/Montreux_Jazz_Festival"
   },
   {
-    "id": "coachella",
-    "theme": "music",
-    "name": "Coachella",
-    "place": "Indio, United States",
-    "kind": "festival",
-    "lat": 33.67839,
-    "lon": -116.23402,
-    "wikidataId": "Q889872",
-    "coordRef": "wikidata:Q889872",
-    "coordSource": "https://www.wikidata.org/wiki/Q889872#P625",
-    "hint": "Annual music and arts festival held in April in Indio, California, United States",
-    "fact": "Held at the Empire Polo Club in Indio, it was co-founded in 1999 by Paul Tollett and Rick Van Santen.",
-    "factSource": "https://en.wikipedia.org/wiki/Coachella"
-  },
-  {
     "id": "isle-of-wight-festival",
     "theme": "music",
     "name": "Isle of Wight Festival",
@@ -794,21 +779,6 @@
     "hint": "Recording studio in Nassau, Bahamas",
     "fact": "Island Records founder Chris Blackwell set it up in 1977, 16 km west of downtown Nassau.",
     "factSource": "https://en.wikipedia.org/wiki/Compass_Point_Studios"
-  },
-  {
-    "id": "tuff-gong-bob-marley-museum",
-    "theme": "music",
-    "name": "Tuff Gong (Bob Marley Museum)",
-    "place": "Kingston, Jamaica",
-    "kind": "studio",
-    "lat": 18.01962,
-    "lon": -76.77983,
-    "wikidataId": "Q650517",
-    "coordRef": "wikidata:Q650517",
-    "coordSource": "https://www.wikidata.org/wiki/Q650517#P625",
-    "hint": "Biographical museum",
-    "fact": "Marley's former home at 56 Hope Road was also home to his Tuff Gong record label.",
-    "factSource": "https://en.wikipedia.org/wiki/Bob_Marley_Museum"
   },
   {
     "id": "new-afrika-shrine",
@@ -1619,21 +1589,6 @@
     "hint": "Senegalese singer, composer and politician",
     "fact": "He helped develop mbalax and was Senegal's Minister of Tourism from 2012 to 2013.",
     "factSource": "https://en.wikipedia.org/wiki/Youssou_N'Dour"
-  },
-  {
-    "id": "umm-kulthum",
-    "theme": "music",
-    "name": "Umm Kulthum",
-    "place": "Tamay ez-Zahayra, Egypt",
-    "kind": "artist",
-    "lat": 30.90998,
-    "lon": 31.47059,
-    "wikidataId": "Q1110560",
-    "coordRef": "wikidata:Q12221870",
-    "coordSource": "https://www.wikidata.org/wiki/Q12221870#P625",
-    "hint": "Egyptian singer and actress",
-    "fact": "She has been called 'The Voice of Egypt' and 'Egypt's Fourth Pyramid'.",
-    "factSource": "https://en.wikipedia.org/wiki/Umm_Kulthum"
   },
   {
     "id": "shakira",

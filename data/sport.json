@@ -286,19 +286,6 @@
     "hint": "Cricket ground located in West Bridgford, Nottinghamshire, England"
   },
   {
-    "id": "cheltenham-racecourse",
-    "theme": "sport",
-    "name": "Cheltenham Racecourse",
-    "place": "Cheltenham, England",
-    "kind": "venue",
-    "lat": 51.9203,
-    "lon": -2.05778,
-    "wikidataId": "Q5090224",
-    "coordRef": "wikidata:Q5090224",
-    "coordSource": "https://www.wikidata.org/wiki/Q5090224#P625",
-    "hint": "Horse racing venue in England"
-  },
-  {
     "id": "royal-portrush-golf-club",
     "theme": "sport",
     "name": "Royal Portrush Golf Club",
@@ -1272,19 +1259,6 @@
     "coordRef": "wikidata:Q1134044",
     "coordSource": "https://www.wikidata.org/wiki/Q1134044#P625",
     "hint": "Stadium in Hobart, Tasmania, Australia"
-  },
-  {
-    "id": "royal-melbourne-golf-club",
-    "theme": "sport",
-    "name": "Royal Melbourne Golf Club",
-    "place": "Melbourne, Australia",
-    "kind": "venue",
-    "lat": -37.9695,
-    "lon": 145.031,
-    "wikidataId": "Q607620",
-    "coordRef": "wikidata:Q607620",
-    "coordSource": "https://www.wikidata.org/wiki/Q607620#P625",
-    "hint": "Golf club in Black Rock, Melbourne"
   },
   {
     "id": "hagley-oval",

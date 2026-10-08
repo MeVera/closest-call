@@ -28,6 +28,9 @@ const ABSOLUTE_MIN_WIDTH = 800;
 /** Filenames that suggest the image is not a photo of the place. */
 const DENY_FILENAME =
   /logo|poster|album|cover|portrait|signature|\bmap\b|locator|flag|coat[_ ]of[_ ]arms|\bseal\b|diagram|plan\b|ticket|stamp|banknote|tapestry|painting|engraving|lithograph|drawing|\bNARA\b|\.svg$|\.gif$/i;
+/** Commons categories (pipe-separated) that mark a file as artwork, a map or a picture of people. */
+const DENY_CATEGORY =
+  /paintings|engravings|lithographs|drawings|illustrations|prints\b|maps\b|portraits|people of|logos|badges|posters|diagrams|dioramas|panoramas \(art|battle scenes|in art\b|byobu|tapestr/i;
 let verbose = false;
 const ALLOWED_MIME = new Set(['image/jpeg', 'image/png', 'image/webp', 'image/tiff']);
 
@@ -74,7 +77,7 @@ async function imageInfos(titles: string[]): Promise<Map<string, ImageInfo>> {
       prop: 'imageinfo',
       iiprop: 'url|size|mime|extmetadata',
       iiurlwidth: String(THUMB_WIDTH),
-      iiextmetadatafilter: 'LicenseShortName|License|LicenseUrl|Artist|Credit|UsageTerms|NonFree|Copyrighted',
+      iiextmetadatafilter: 'LicenseShortName|License|LicenseUrl|Artist|Credit|UsageTerms|NonFree|Copyrighted|Categories',
     });
   const json = await fetchJson<{ query?: { normalized?: { from: string; to: string }[]; pages: { title: string; missing?: boolean; imageinfo?: ImageInfo[] }[] } }>(url);
   for (const p of json.query?.pages ?? []) if (!p.missing && p.imageinfo?.[0]) out.set(p.title, p.imageinfo[0]);
@@ -141,6 +144,8 @@ function judge(c: Candidate, ignoreFilenameRules = false): Judged {
   const m = (k: string) => meta[k]?.value ?? '';
   if (!ALLOWED_MIME.has(info.mime)) return { ok: false, reason: `mime ${info.mime}` };
   if (!ignoreFilenameRules && DENY_FILENAME.test(c.title)) return { ok: false, reason: 'filename suggests not a place photo' };
+  // Commons categories reveal artwork, maps and portraits that filenames do not.
+  if (!ignoreFilenameRules && DENY_CATEGORY.test(m('Categories'))) return { ok: false, reason: 'categories suggest artwork, map or people' };
   if (m('NonFree').toLowerCase() === 'true') return { ok: false, reason: 'marked non-free' };
   const licence = classifyLicence(m('LicenseShortName'), m('License'));
   if (!licence) return { ok: false, reason: `licence not accepted ("${m('LicenseShortName') || 'none'}")` };

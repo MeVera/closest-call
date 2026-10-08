@@ -86,11 +86,6 @@
   "kind": "stadium"
  },
  {
-  "title": "Cheltenham Racecourse",
-  "place": "Cheltenham, England",
-  "kind": "venue"
- },
- {
   "title": "Royal Portrush Golf Club",
   "place": "Portrush, Northern Ireland",
   "kind": "venue"
@@ -476,11 +471,6 @@
   "title": "Bellerive Oval",
   "place": "Hobart, Australia",
   "kind": "stadium"
- },
- {
-  "title": "Royal Melbourne Golf Club",
-  "place": "Melbourne, Australia",
-  "kind": "venue"
  },
  {
   "title": "Hagley Oval",

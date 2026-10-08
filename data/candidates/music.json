@@ -188,14 +188,6 @@
   "factSource": "https://en.wikipedia.org/wiki/Montreux_Jazz_Festival"
  },
  {
-  "title": "Coachella",
-  "place": "Indio, United States",
-  "kind": "festival",
-  "name": "Coachella",
-  "fact": "Held at the Empire Polo Club in Indio, it was co-founded in 1999 by Paul Tollett and Rick Van Santen.",
-  "factSource": "https://en.wikipedia.org/wiki/Coachella"
- },
- {
   "title": "Isle of Wight Festival",
   "place": "Newport, England",
   "kind": "festival",
@@ -301,14 +293,6 @@
   "kind": "studio",
   "fact": "Island Records founder Chris Blackwell set it up in 1977, 16 km west of downtown Nassau.",
   "factSource": "https://en.wikipedia.org/wiki/Compass_Point_Studios"
- },
- {
-  "title": "Bob Marley Museum",
-  "place": "Kingston, Jamaica",
-  "kind": "studio",
-  "name": "Tuff Gong (Bob Marley Museum)",
-  "fact": "Marley's former home at 56 Hope Road was also home to his Tuff Gong record label.",
-  "factSource": "https://en.wikipedia.org/wiki/Bob_Marley_Museum"
  },
  {
   "title": "New Afrika Shrine",
@@ -708,13 +692,6 @@
   "kind": "artist",
   "fact": "He helped develop mbalax and was Senegal's Minister of Tourism from 2012 to 2013.",
   "factSource": "https://en.wikipedia.org/wiki/Youssou_N'Dour"
- },
- {
-  "title": "Umm Kulthum",
-  "place": "Tamay ez-Zahayra, Egypt",
-  "kind": "artist",
-  "fact": "She has been called 'The Voice of Egypt' and 'Egypt's Fourth Pyramid'.",
-  "factSource": "https://en.wikipedia.org/wiki/Umm_Kulthum"
  },
  {
   "title": "Shakira",
