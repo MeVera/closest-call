@@ -39,6 +39,16 @@
     "width": 6108,
     "height": 3976
   },
+  "accor-stadium": {
+    "file": "File:Australia Stadium.jpg",
+    "author": "Adam.J.W.C.",
+    "licence": "CC BY-SA 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Australia_Stadium.jpg",
+    "via": "p18",
+    "width": 2092,
+    "height": 1106
+  },
   "accra": {
     "file": "File:Accra town.jpg",
     "author": "Goldenwabbit",
@@ -69,6 +79,36 @@
     "width": 2048,
     "height": 1366
   },
+  "adelaide-oval": {
+    "file": "File:Adelaide Oval - panoramio (cropped).jpg",
+    "author": "Trentino Priori",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Adelaide_Oval_-_panoramio_(cropped).jpg",
+    "via": "p18",
+    "width": 1251,
+    "height": 782
+  },
+  "aintree-racecourse": {
+    "file": "File:Princess Royal Stand, Aintree Racecourse 2020.jpg",
+    "author": "Rodhullandemu",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Princess_Royal_Stand,_Aintree_Racecourse_2020.jpg",
+    "via": "p18",
+    "width": 5177,
+    "height": 3431
+  },
+  "albert-park-circuit": {
+    "file": "File:Melbourne Grand Prix Circuit pit building.jpg",
+    "author": "Ozzmosis",
+    "licence": "CC BY-SA 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_Grand_Prix_Circuit_pit_building.jpg",
+    "via": "p18",
+    "width": 2592,
+    "height": 1944
+  },
   "alhambra": {
     "file": "File:Alhambra detail.jpg",
     "author": "Jebulon",
@@ -78,6 +118,16 @@
     "via": "p18",
     "width": 3007,
     "height": 2038
+  },
+  "allianz-arena": {
+    "file": "File:München - Allianz-Arena (Luftbild).jpg",
+    "author": "Maximilian Dörrbecker (Chumwa)",
+    "licence": "CC BY-SA 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen_-_Allianz-Arena_(Luftbild).jpg",
+    "via": "p18",
+    "width": 1484,
+    "height": 840
   },
   "amsterdam": {
     "file": "File:Imagen de los canales concéntricos en Ámsterdam.png",
@@ -119,6 +169,16 @@
     "width": 2798,
     "height": 1574
   },
+  "apollo-11-launch": {
+    "file": "File:Kennedy Space Center (49944982388).jpg",
+    "author": "The White House from Washington, DC",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Kennedy_Space_Center_(49944982388).jpg",
+    "via": "p18",
+    "width": 1200,
+    "height": 800
+  },
   "arc-de-triomphe": {
     "file": "File:Arc de Triomphe - Août 2026.jpg",
     "author": "ZeusUpsistos",
@@ -128,6 +188,86 @@
     "via": "p18",
     "width": 4802,
     "height": 3203
+  },
+  "arrowhead-stadium": {
+    "file": "File:Aerial view of Arrowhead Stadium 08-31-2013.jpg",
+    "author": "Ichabod",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg",
+    "via": "p18",
+    "width": 4928,
+    "height": 3264
+  },
+  "ascot-racecourse": {
+    "file": "File:Ascotnewstand.jpg",
+    "author": "Antony McCallum",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ascotnewstand.jpg",
+    "via": "p18",
+    "width": 2400,
+    "height": 979
+  },
+  "assassination-of-abraham-lincoln": {
+    "file": "File:USA-Ford Theatre0.jpg",
+    "author": "Ingfbruno",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:USA-Ford_Theatre0.jpg",
+    "via": "p18",
+    "width": 5106,
+    "height": 3354
+  },
+  "assassination-of-archduke-franz-ferdinand": {
+    "file": "File:Latin Bridge 02 (22757259615).jpg",
+    "author": "sundeviljeff",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Latin_Bridge_02_(22757259615).jpg",
+    "via": "p18",
+    "width": 2400,
+    "height": 1676
+  },
+  "assassination-of-john-f-kennedy": {
+    "file": "File:View of Dealey Plaza from Reunion Tower August 2015 01.jpg",
+    "author": "Michael Barera",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:View_of_Dealey_Plaza_from_Reunion_Tower_August_2015_01.jpg",
+    "via": "p18",
+    "width": 6000,
+    "height": 4000
+  },
+  "assassination-of-julius-caesar": {
+    "file": "File:Largo di Torre Argentina 4.jpg",
+    "author": "Wknight94",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Largo_di_Torre_Argentina_4.jpg",
+    "via": "p18",
+    "width": 3072,
+    "height": 2304
+  },
+  "assassination-of-martin-luther-king-jr": {
+    "file": "File:National Civil Rights Museum 5.jpg",
+    "author": "Thomas R Machnitzki",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:National_Civil_Rights_Museum_5.jpg",
+    "via": "p18",
+    "width": 1024,
+    "height": 768
+  },
+  "ataturk-olympic-stadium": {
+    "file": "File:Trabzonspor vs Altay, 15.05.2022, Istanbul.jpg",
+    "author": "Myrat",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Trabzonspor_vs_Altay,_15.05.2022,_Istanbul.jpg",
+    "via": "p18",
+    "width": 6016,
+    "height": 4512
   },
   "athens": {
     "file": "File:Akropolis 2015.jpg",
@@ -139,6 +279,16 @@
     "width": 9648,
     "height": 5587
   },
+  "atomic-bombing-of-hiroshima": {
+    "file": "File:Genbaku Dome04-r.JPG",
+    "author": "Oilstreet",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Genbaku_Dome04-r.JPG",
+    "via": "p18",
+    "width": 5040,
+    "height": 3360
+  },
   "atomium": {
     "file": "File:Laeken Atomium 06.jpg",
     "author": "Zairon",
@@ -148,6 +298,126 @@
     "via": "p18",
     "width": 3350,
     "height": 3235
+  },
+  "attack-on-pearl-harbor": {
+    "file": "File:USS Arizona Memorial (aerial view).jpg",
+    "author": "DoD photo by: PH3(AW/SW) JAYME PASTORIC, USN",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:USS_Arizona_Memorial_(aerial_view).jpg",
+    "via": "p18",
+    "width": 3008,
+    "height": 1960
+  },
+  "augusta-national-golf-club": {
+    "file": "File:AGNC-11.jpg",
+    "author": "Florian Fritsch, assisted by Mark Anderson",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:AGNC-11.jpg",
+    "via": "p18",
+    "width": 2592,
+    "height": 1944
+  },
+  "bahrain-international-circuit": {
+    "file": "File:2012 Bahrain Grand Prix 2.jpg",
+    "author": "Ryan Bayona",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2012_Bahrain_Grand_Prix_2.jpg",
+    "via": "p18",
+    "width": 1000,
+    "height": 665
+  },
+  "bangkok": {
+    "file": "File:Temple of the Emerald of buddha or Wat Phra Kaew (cropped).jpg",
+    "author": "Preecha.MJ",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_the_Emerald_of_buddha_or_Wat_Phra_Kaew_(cropped).jpg",
+    "via": "p18",
+    "width": 1800,
+    "height": 1200
+  },
+  "battle-of-adwa": {
+    "file": "File:Detail, Battle of Adwa (2872663780).jpg",
+    "author": "A. Davey from Where I Live Now: Pacific Northwest",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Detail,_Battle_of_Adwa_(2872663780).jpg",
+    "via": "search",
+    "width": 1776,
+    "height": 1224
+  },
+  "battle-of-agincourt": {
+    "file": "File:Battle of Agincourt, St. Alban's Chronicle by Thomas Walsingham.jpg",
+    "author": "Unknown - Ms 6 f.243 Battle of Agincourt, 1415, English with Flemish illuminations, from the 'St. Alban's Chronicle' …",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Agincourt,_St._Alban%27s_Chronicle_by_Thomas_Walsingham.jpg",
+    "via": "p18",
+    "width": 1500,
+    "height": 1249
+  },
+  "battle-of-austerlitz": {
+    "file": "File:La bataille d'Austerlitz. 2 decembre 1805 (François Gérard).jpg",
+    "author": "François Gérard",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:La_bataille_d%27Austerlitz._2_decembre_1805_(Fran%C3%A7ois_G%C3%A9rard).jpg",
+    "via": "p18",
+    "width": 4000,
+    "height": 1983
+  },
+  "battle-of-bannockburn": {
+    "file": "File:Battle of Bannockburn - Bruce addresses troops.jpg",
+    "author": "Edmund Blair Leighton",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Bannockburn_-_Bruce_addresses_troops.jpg",
+    "via": "p18",
+    "width": 2352,
+    "height": 1720
+  },
+  "battle-of-bosworth-field": {
+    "file": "File:Battle of Bosworth by Philip James de Loutherbourg.jpg",
+    "author": "Philip James de Loutherbourg",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Bosworth_by_Philip_James_de_Loutherbourg.jpg",
+    "via": "p18",
+    "width": 1172,
+    "height": 884
+  },
+  "battle-of-culloden": {
+    "file": "File:The Battle of Culloden.jpg",
+    "author": "David Morier",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Battle_of_Culloden.jpg",
+    "via": "p18",
+    "width": 2000,
+    "height": 1207
+  },
+  "battle-of-dien-bien-phu": {
+    "file": "File:Victory in Battle of Dien Bien Phu.jpg",
+    "author": "Vietnam People's Army",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Victory_in_Battle_of_Dien_Bien_Phu.jpg",
+    "via": "p18",
+    "width": 1600,
+    "height": 972
+  },
+  "battle-of-gettysburg": {
+    "file": "File:15-23-0291, artillery on seminary ridge - panoramio.jpg",
+    "author": "David Dugan",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:15-23-0291,_artillery_on_seminary_ridge_-_panoramio.jpg",
+    "via": "p18",
+    "width": 2048,
+    "height": 1367
   },
   "battle-of-hastings": {
     "file": "File:Battleabbey-wyrdlight-0190.jpg",
@@ -159,6 +429,66 @@
     "width": 1000,
     "height": 667
   },
+  "battle-of-isandlwana": {
+    "file": "File:LL1882 pg260 BATTLE OF ISANDHLWANA 1879.jpg",
+    "author": "Unknown author",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:LL1882_pg260_BATTLE_OF_ISANDHLWANA_1879.jpg",
+    "via": "search",
+    "width": 2997,
+    "height": 2281
+  },
+  "battle-of-marathon": {
+    "file": "File:Scene of the Battle of Marathon.jpg",
+    "author": "John Steeple Davis",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Scene_of_the_Battle_of_Marathon.jpg",
+    "via": "p18",
+    "width": 1452,
+    "height": 952
+  },
+  "battle-of-the-alamo": {
+    "file": "File:FalloftheAlamo.jpg",
+    "author": "Robert Jenkins Onderdonk",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:FalloftheAlamo.jpg",
+    "via": "p18",
+    "width": 2400,
+    "height": 1600
+  },
+  "battle-of-the-boyne": {
+    "file": "File:De slag aan de Boyne (Ierland) tussen Jacobus II en Willem III, 12 juli 1690 Rijksmuseum SK-A-605.jpeg",
+    "author": "Jan van Huchtenburgh",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:De_slag_aan_de_Boyne_(Ierland)_tussen_Jacobus_II_en_Willem_III,_12_juli_1690_Rijksmuseum_SK-A-605.jpeg",
+    "via": "p18",
+    "width": 2952,
+    "height": 2004
+  },
+  "battle-of-the-little-bighorn": {
+    "file": "File:Little Bighorn Battlefield National Monument.JPG",
+    "author": "1025wil",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Little_Bighorn_Battlefield_National_Monument.JPG",
+    "via": "p18",
+    "width": 2272,
+    "height": 1712
+  },
+  "battle-of-thermopylae": {
+    "file": "File:Thermopylae 04.jpg",
+    "author": "Ronny Siegel",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Thermopylae_04.jpg",
+    "via": "p18",
+    "width": 1332,
+    "height": 800
+  },
   "battle-of-waterloo": {
     "file": "File:Belgique Butte du Lion dit de Waterloo.jpg",
     "author": "Myrabella",
@@ -169,6 +499,16 @@
     "width": 3968,
     "height": 2367
   },
+  "bay-of-pigs-invasion": {
+    "file": "File:Playa Girón (10).jpg",
+    "author": "Ji-Elle",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Playa_Gir%C3%B3n_(10).jpg",
+    "via": "search",
+    "width": 4320,
+    "height": 3240
+  },
   "beijing": {
     "file": "File:Skyline of Beijing CBD with B-5906 approaching (20211016171955).jpg",
     "author": "N509FZ",
@@ -178,6 +518,36 @@
     "via": "p18",
     "width": 6787,
     "height": 4525
+  },
+  "beijing-national-stadium": {
+    "file": "File:Beijing National Stadium from the Central Axis (20220905140702).jpg",
+    "author": "N509FZ",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Beijing_National_Stadium_from_the_Central_Axis_(20220905140702).jpg",
+    "via": "p18",
+    "width": 6800,
+    "height": 4533
+  },
+  "bell-centre": {
+    "file": "File:Centre Bell @ Montréal (30423749922).jpg",
+    "author": "Guilhem Vellut from Annecy, France",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Centre_Bell_@_Montr%C3%A9al_(30423749922).jpg",
+    "via": "search",
+    "width": 5472,
+    "height": 3648
+  },
+  "bellerive-oval": {
+    "file": "File:One-day Cricket Australia vs England, Bellerive Oval, January 2011 (2).jpg",
+    "author": "Christopher Neugebauer from Hobart, Australia",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:One-day_Cricket_Australia_vs_England,_Bellerive_Oval,_January_2011_(2).jpg",
+    "via": "search",
+    "width": 4008,
+    "height": 2672
   },
   "berlin": {
     "file": "File:Cityscape Berlin.jpg",
@@ -209,6 +579,16 @@
     "width": 22160,
     "height": 8620
   },
+  "bernabeu": {
+    "file": "File:Estadio Santiago Bernabéu Madrid.jpg",
+    "author": "Zoser",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_Madrid.jpg",
+    "via": "p18",
+    "width": 1920,
+    "height": 1080
+  },
   "big-ben": {
     "file": "File:Big Ben at sunset - 2014-10-27 17-30.jpg",
     "author": "Colin",
@@ -229,6 +609,16 @@
     "width": 4238,
     "height": 2766
   },
+  "bogota": {
+    "file": "File:Centro internacional.JPG",
+    "author": "Felipe Restrepo Acosta",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Centro_internacional.JPG",
+    "via": "p18",
+    "width": 1920,
+    "height": 1080
+  },
   "borobudur": {
     "file": "File:Borobudur-Nothwest-view.jpg",
     "author": "Gunawan Kartapranata",
@@ -239,6 +629,16 @@
     "width": 2816,
     "height": 1108
   },
+  "boston-tea-party": {
+    "file": "File:Boston Tea Party Currier colored.jpg",
+    "author": "Nathaniel Currier",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Boston_Tea_Party_Currier_colored.jpg",
+    "via": "p18",
+    "width": 1789,
+    "height": 1091
+  },
   "brandenburg-gate": {
     "file": "File:Brandenburger Tor morgens.jpg",
     "author": "Thomas Wolf, www.foto-tw.de",
@@ -248,6 +648,26 @@
     "via": "p18",
     "width": 5009,
     "height": 3347
+  },
+  "brasilia": {
+    "file": "File:Planalto Central (cropped).jpg",
+    "author": "Arturdiasr",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Planalto_Central_(cropped).jpg",
+    "via": "p18",
+    "width": 2733,
+    "height": 1308
+  },
+  "brisbane-cricket-ground": {
+    "file": "File:The Gabba Panorama.jpg",
+    "author": "Rae Allen",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Gabba_Panorama.jpg",
+    "via": "p18",
+    "width": 2592,
+    "height": 1944
   },
   "brussels": {
     "file": "File:Brussels view from Mont des Arts, Brussels, Belgium (cropped).jpg",
@@ -269,6 +689,16 @@
     "width": 5223,
     "height": 3481
   },
+  "buenos-aires": {
+    "file": "File:Vista aérea de la Plaza del Congreso 10.jpg",
+    "author": "ProtoplasmaKid",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_la_Plaza_del_Congreso_10.jpg",
+    "via": "p18",
+    "width": 4024,
+    "height": 3018
+  },
   "burj-khalifa": {
     "file": "File:Dubai skyline 2015 (crop).jpg",
     "author": "Tim.Reckmann",
@@ -289,6 +719,36 @@
     "width": 1150,
     "height": 678
   },
+  "cairo-international-stadium": {
+    "file": "File:Cairo stadium Egypt vs Senegal.jpg",
+    "author": "Crosskimo",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cairo_stadium_Egypt_vs_Senegal.jpg",
+    "via": "p18",
+    "width": 3616,
+    "height": 1536
+  },
+  "california-gold-rush-begins": {
+    "file": "File:Sutters Mill.jpg",
+    "author": "R. H. Vance",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sutters_Mill.jpg",
+    "via": "p18",
+    "width": 1614,
+    "height": 1291
+  },
+  "camp-nou": {
+    "file": "File:Camp Nou aerial (cropped).jpg",
+    "author": "Oh-Barcelona.com from Barcelona, Spain",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Camp_Nou_aerial_(cropped).jpg",
+    "via": "p18",
+    "width": 1826,
+    "height": 1186
+  },
   "canberra": {
     "file": "File:Canberra from Mt Ainslie (5642431515).jpg",
     "author": "Tim J Keegan from Lake Macquarie, Australia",
@@ -298,6 +758,16 @@
     "via": "p18",
     "width": 4272,
     "height": 2848
+  },
+  "celtic-park": {
+    "file": "File:Celtic park 2.jpg",
+    "author": "Zhi Yong Lee from Glasgow, UK",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Celtic_park_2.jpg",
+    "via": "p18",
+    "width": 1024,
+    "height": 355
   },
   "charles-bridge": {
     "file": "File:North view of Charles Bridge from Mánesův most, Prague 20160808 1.jpg",
@@ -319,6 +789,26 @@
     "width": 2334,
     "height": 1690
   },
+  "cheltenham-racecourse": {
+    "file": "File:Cheltenham Racecourse railway station MMB 04.jpg",
+    "author": "mattbuck (category)",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cheltenham_Racecourse_railway_station_MMB_04.jpg",
+    "via": "search",
+    "width": 2400,
+    "height": 1600
+  },
+  "chernobyl-disaster": {
+    "file": "File:Chernobyl NPP Site Panorama with NSC Construction - June 2013.jpg",
+    "author": "Ingmar Runge",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg",
+    "via": "p18",
+    "width": 6300,
+    "height": 2408
+  },
   "chichen-itza": {
     "file": "File:Chichen Itza 3.jpg",
     "author": "Daniel Schwen",
@@ -338,6 +828,66 @@
     "via": "search",
     "width": 3450,
     "height": 2300
+  },
+  "churchill-downs": {
+    "file": "File:2017 Kentucky Derby IMG 20170506 113051 (34113844740).jpg",
+    "author": "squirrel83 from Astoria, NY , USA",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2017_Kentucky_Derby_IMG_20170506_113051_(34113844740).jpg",
+    "via": "p18",
+    "width": 4640,
+    "height": 2610
+  },
+  "circuit-de-barcelona-catalunya": {
+    "file": "File:F1 Circuit de Catalunya - Tribuna.jpg",
+    "author": "Mutari 10:51, 21 September 2007 (UTC)",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:F1_Circuit_de_Catalunya_-_Tribuna.jpg",
+    "via": "p18",
+    "width": 1500,
+    "height": 982
+  },
+  "circuit-de-la-sarthe": {
+    "file": "File:Circuit de la Sarthe Ford Chicanes.jpg",
+    "author": "Mike Roberts from London, United Kingdom",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Circuit_de_la_Sarthe_Ford_Chicanes.jpg",
+    "via": "p18",
+    "width": 2930,
+    "height": 1518
+  },
+  "circuit-de-monaco": {
+    "file": "File:MONACO FORMULA 1 TURN 1 - panoramio.jpg",
+    "author": "otterboris",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:MONACO_FORMULA_1_TURN_1_-_panoramio.jpg",
+    "via": "p18",
+    "width": 2048,
+    "height": 1536
+  },
+  "circuit-of-the-americas": {
+    "file": "File:Circuit of the americas cota (52781066233).jpg",
+    "author": "Zach Catanzareti Photo",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Circuit_of_the_americas_cota_(52781066233).jpg",
+    "via": "p18",
+    "width": 5184,
+    "height": 3456
+  },
+  "circuit-zandvoort": {
+    "file": "File:Circuit Zandvoort aangepast aan internationale normen. NL-HlmNHA 54036948.JPG",
+    "author": "Boer, Poppe de",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Circuit_Zandvoort_aangepast_aan_internationale_normen._NL-HlmNHA_54036948.JPG",
+    "via": "p18",
+    "width": 3047,
+    "height": 2517
   },
   "cn-tower": {
     "file": "File:CN Tower, Toronto, Canada (Unsplash DJ kOgH5u0o).jpg",
@@ -379,6 +929,16 @@
     "width": 4677,
     "height": 2838
   },
+  "croke-park": {
+    "file": "File:Croke Park from the Hill - 2004 All-Ireland Football Championship Final.jpg",
+    "author": "Photograph by John H. Nolan; original uploader was Hetch at en.wikipedia",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Croke_Park_from_the_Hill_-_2004_All-Ireland_Football_Championship_Final.jpg",
+    "via": "p18",
+    "width": 1024,
+    "height": 337
+  },
   "dakar": {
     "file": "File:Pointe des Almadies - Senegal.jpg",
     "author": "Jeff Attaway",
@@ -388,6 +948,46 @@
     "via": "p18",
     "width": 3543,
     "height": 2648
+  },
+  "daytona-international-speedway": {
+    "file": "File:Tony Stewart leads (2273713559).jpg",
+    "author": "tequilamike",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Tony_Stewart_leads_(2273713559).jpg",
+    "via": "p18",
+    "width": 3008,
+    "height": 2000
+  },
+  "destruction-of-pompeii": {
+    "file": "File:Pompeii (4873744179).jpg",
+    "author": "Glen Scarborough from The Central Coast, Australia",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Pompeii_(4873744179).jpg",
+    "via": "p18",
+    "width": 3888,
+    "height": 2592
+  },
+  "discovery-of-tutankhamun-s-tomb": {
+    "file": "File:Inside Pharaoh Tutankhamun's tomb, 18th dynasty.jpg",
+    "author": "EditorfromMars",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Inside_Pharaoh_Tutankhamun%27s_tomb,_18th_dynasty.jpg",
+    "via": "p18",
+    "width": 3264,
+    "height": 2448
+  },
+  "dodger-stadium": {
+    "file": "File:Dodger Stadium.jpg",
+    "author": "Frederick Dennstedt from los angeles, usa",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Dodger_Stadium.jpg",
+    "via": "p18",
+    "width": 2288,
+    "height": 1712
   },
   "dolly-parton": {
     "file": "File:Emertscovebridge1.jpg",
@@ -409,6 +1009,16 @@
     "width": 4032,
     "height": 2268
   },
+  "eden-gardens": {
+    "file": "File:Eden Garden Stadium Kolkata MB01.jpg",
+    "author": "Marajozkee",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Eden_Garden_Stadium_Kolkata_MB01.jpg",
+    "via": "p18",
+    "width": 1440,
+    "height": 896
+  },
   "eden-park": {
     "file": "File:Eden Park at Dusk, 2013.jpg",
     "author": "Kiwi Flickr",
@@ -418,6 +1028,16 @@
     "via": "p18",
     "width": 7347,
     "height": 1918
+  },
+  "edgbaston": {
+    "file": "File:Edgbaston day-night.jpg",
+    "author": "Will Noakes",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Edgbaston_day-night.jpg",
+    "via": "p18",
+    "width": 3648,
+    "height": 2736
   },
   "edinburgh-castle": {
     "file": "File:Edinburgh Castle from the Grassmarket.jpg",
@@ -459,6 +1079,126 @@
     "width": 8207,
     "height": 6167
   },
+  "end-of-the-salt-march": {
+    "file": "File:Dandi Beach.jpg",
+    "author": "Snehrashmi",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Dandi_Beach.jpg",
+    "via": "search",
+    "width": 4000,
+    "height": 3000
+  },
+  "epsom-downs-racecourse": {
+    "file": "File:036175 5 furlong.jpg",
+    "author": "User:RHaworth",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:036175_5_furlong.jpg",
+    "via": "p18",
+    "width": 1024,
+    "height": 768
+  },
+  "ernst-happel-stadion": {
+    "file": "File:Euro 2008 ernst happel stadium vienna 2.jpg",
+    "author": "Arne Müseler",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euro_2008_ernst_happel_stadium_vienna_2.jpg",
+    "via": "p18",
+    "width": 3638,
+    "height": 1262
+  },
+  "estadio-azteca": {
+    "file": "File:Vista aérea del Estadio Azteca - 2026 - 02.jpg",
+    "author": "ProtoplasmaKid",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Azteca_-_2026_-_02.jpg",
+    "via": "p18",
+    "width": 8064,
+    "height": 4536
+  },
+  "estadio-centenario": {
+    "file": "File:Estadio Centenario (vista aérea).jpg",
+    "author": "Marcelo Campi from Costa de Oro, Uruguay",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Estadio_Centenario_(vista_a%C3%A9rea).jpg",
+    "via": "p18",
+    "width": 2560,
+    "height": 1438
+  },
+  "estadio-da-luz": {
+    "file": "File:LuzLissabon.jpg",
+    "author": "Massimo Catarinella",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:LuzLissabon.jpg",
+    "via": "p18",
+    "width": 9000,
+    "height": 3279
+  },
+  "estadio-nacional": {
+    "file": "File:Estadio Nacional - A741105.jpg",
+    "author": "Rjcastillo",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Estadio_Nacional_-_A741105.jpg",
+    "via": "p18",
+    "width": 6167,
+    "height": 3619
+  },
+  "estadio-nacional-del-peru": {
+    "file": "File:Vista aérea del estadio nacional del Perú (2021).jpg",
+    "author": "Ministerio de Defensa del Perú",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_estadio_nacional_del_Per%C3%BA_(2021).jpg",
+    "via": "p18",
+    "width": 5163,
+    "height": 3442
+  },
+  "etihad-stadium": {
+    "file": "File:City of Manchester Stadium 2023 cropped.jpg",
+    "author": "Arne Müseler, cropped by Blackcat",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:City_of_Manchester_Stadium_2023_cropped.jpg",
+    "via": "p18",
+    "width": 4500,
+    "height": 3000
+  },
+  "eureka-stockade": {
+    "file": "File:Doudiet Swearing allegiance to the Southern Cross.jpg",
+    "author": "Charles Doudiet",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Doudiet_Swearing_allegiance_to_the_Southern_Cross.jpg",
+    "via": "p18",
+    "width": 1978,
+    "height": 1426
+  },
+  "execution-of-charles-i": {
+    "file": "File:Banqueting House from Whitehall north.jpg",
+    "author": "VirtuallyLondonBecky",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Banqueting_House_from_Whitehall_north.jpg",
+    "via": "search",
+    "width": 3264,
+    "height": 1840
+  },
+  "fall-of-saigon": {
+    "file": "File:20190923 Independence Palace-10.jpg",
+    "author": "Balon Greyjoy",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:20190923_Independence_Palace-10.jpg",
+    "via": "p18",
+    "width": 5619,
+    "height": 3746
+  },
   "fall-of-the-berlin-wall": {
     "file": "File:Brandenburger Tor morgens.jpg",
     "author": "Thomas Wolf, www.foto-tw.de",
@@ -478,6 +1218,66 @@
     "via": "search",
     "width": 4287,
     "height": 2750
+  },
+  "fenway-park": {
+    "file": "File:View of Fenway Park from the press box in July 2022.jpg",
+    "author": "Gatorfan252525",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:View_of_Fenway_Park_from_the_press_box_in_July_2022.jpg",
+    "via": "p18",
+    "width": 4032,
+    "height": 3024
+  },
+  "first-council-of-nicaea": {
+    "file": "File:Iznik 989a.jpg",
+    "author": "QuartierLatin1968",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_989a.jpg",
+    "via": "p18",
+    "width": 2560,
+    "height": 976
+  },
+  "first-fleet-arrives-at-sydney-cove": {
+    "file": "File:Circularkey.jpg",
+    "author": "Adam.J.W.C.",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Circularkey.jpg",
+    "via": "p18",
+    "width": 1979,
+    "height": 1118
+  },
+  "first-transatlantic-radio-signal-received": {
+    "file": "File:Signal Hill St John's NF 2.jpg",
+    "author": "No machine-readable author provided. Tolivero~commonswiki assumed (based on copyright claims).",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Signal_Hill_St_John%27s_NF_2.jpg",
+    "via": "p18",
+    "width": 2160,
+    "height": 1279
+  },
+  "flemington-racecourse": {
+    "file": "File:Flemington-race-course-180-degree.jpg",
+    "author": "Synyan",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Flemington-race-course-180-degree.jpg",
+    "via": "p18",
+    "width": 1930,
+    "height": 424
+  },
+  "fnb-stadium": {
+    "file": "File:FIFA World Cup 2010 Argentina South Korea.jpg",
+    "author": "Dundas Football Club",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Argentina_South_Korea.jpg",
+    "via": "p18",
+    "width": 1280,
+    "height": 853
   },
   "forbidden-city": {
     "file": "File:Hall of Supreme Harmony (20241127120000).jpg",
@@ -499,6 +1299,26 @@
     "width": 6002,
     "height": 3978
   },
+  "gaddafi-stadium": {
+    "file": "File:Gaddafi Stadium at Night.jpg",
+    "author": "Younisjunejo",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Gaddafi_Stadium_at_Night.jpg",
+    "via": "p18",
+    "width": 6796,
+    "height": 2386
+  },
+  "galle-international-stadium": {
+    "file": "File:Galle International Stadium (2).jpg",
+    "author": "Ji-Elle",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Galle_International_Stadium_(2).jpg",
+    "via": "p18",
+    "width": 4320,
+    "height": 3240
+  },
   "gateway-arch": {
     "file": "File:St Louis Gateway Arch.jpg",
     "author": "[https://www.flickr.com/photos/11399912@N00 B0iwehijro2i0- ] `1l]] from Davis, CA, USA",
@@ -519,6 +1339,16 @@
     "width": 5515,
     "height": 3102
   },
+  "gelora-bung-karno-stadium": {
+    "file": "File:Gelora Bung Karno Main Stadium interior.jpg",
+    "author": "RasyaAbhirama13",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Gelora_Bung_Karno_Main_Stadium_interior.jpg",
+    "via": "search",
+    "width": 5760,
+    "height": 1376
+  },
   "giant-s-causeway": {
     "file": "File:Giant's Causeway (36834542085).jpg",
     "author": "Lindy Buckley from Nanjing, China",
@@ -528,6 +1358,16 @@
     "via": "p18",
     "width": 3374,
     "height": 2276
+  },
+  "giuseppe-meazza-stadium": {
+    "file": "File:Stadio Meazza 2021 3.jpg",
+    "author": "Prelvini",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Stadio_Meazza_2021_3.jpg",
+    "via": "p18",
+    "width": 4728,
+    "height": 3152
   },
   "glastonbury-festival": {
     "file": "File:Glastonbury Tribute.jpg",
@@ -549,6 +1389,16 @@
     "width": 3264,
     "height": 2448
   },
+  "golden-spike-ceremony": {
+    "file": "File:Woodpile at Golden Spike National Historical Park, Feb 17.jpg",
+    "author": "An Errant Knight",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Woodpile_at_Golden_Spike_National_Historical_Park,_Feb_17.jpg",
+    "via": "search",
+    "width": 2592,
+    "height": 1944
+  },
   "golden-temple": {
     "file": "File:Hamandir Sahib (Golden Temple).jpg",
     "author": "This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with t…",
@@ -560,14 +1410,14 @@
     "height": 3456
   },
   "great-barrier-reef": {
-    "file": "File:Acanthurus lineatus Flynn Reef.jpg",
-    "author": "Toby Hudson",
-    "licence": "CC BY-SA 3.0",
-    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "pageUrl": "https://commons.wikimedia.org/wiki/File:Acanthurus_lineatus_Flynn_Reef.jpg",
-    "via": "search",
-    "width": 2093,
-    "height": 1259
+    "file": "File:Aerial View of Great Barrier Reef (Ank Kumar) 01.jpg",
+    "author": "Ank Kumar",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Great_Barrier_Reef_(Ank_Kumar)_01.jpg",
+    "via": "override",
+    "width": 6000,
+    "height": 4000
   },
   "great-pyramid-of-giza": {
     "file": "File:Kheops-Pyramid.jpg",
@@ -589,6 +1439,16 @@
     "width": 4288,
     "height": 2848
   },
+  "gunpowder-plot": {
+    "file": "File:Houses of Parliament in 2022 (cropped).jpg",
+    "author": "Terry Ott from Washington, DC Metro Area, United States of America",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Houses_of_Parliament_in_2022_(cropped).jpg",
+    "via": "p18",
+    "width": 5616,
+    "height": 2843
+  },
   "gyeongbokgung": {
     "file": "File:Gyeonghoeru (Royal Banquet Hall) at Gyeongbokgung Palace, Seoul.jpg",
     "author": "Frank Schulenburg",
@@ -609,6 +1469,16 @@
     "width": 5514,
     "height": 3681
   },
+  "hagley-oval": {
+    "file": "File:Hagley Oval, Christchurch, New Zealand.jpg",
+    "author": "Michal Klajban",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hagley_Oval,_Christchurch,_New_Zealand.jpg",
+    "via": "p18",
+    "width": 11120,
+    "height": 2339
+  },
   "hallgrimskirkja": {
     "file": "File:Hallgrimskirkja mai 2026.jpg",
     "author": "Steinninn",
@@ -619,6 +1489,16 @@
     "width": 1318,
     "height": 1157
   },
+  "hanoi": {
+    "file": "File:Tháp Rùa - NKS.jpg",
+    "author": "NKSTTSSHNVN",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Th%C3%A1p_R%C3%B9a_-_NKS.jpg",
+    "via": "p18",
+    "width": 4047,
+    "height": 2698
+  },
   "hassan-ii-mosque": {
     "file": "File:Sunshine on mosque Hassan II in Casablanca, Morocco - Flickr - Milamber's portfolio.jpg",
     "author": "Milamber's portfolio",
@@ -628,6 +1508,16 @@
     "via": "p18",
     "width": 3008,
     "height": 2000
+  },
+  "havana": {
+    "file": "File:Cuba libre (6941395159).jpg",
+    "author": "Christopher Michel",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cuba_libre_(6941395159).jpg",
+    "via": "p18",
+    "width": 1280,
+    "height": 853
   },
   "headingley": {
     "file": "File:Headingley Stadium seen from Headingley Mount (21st August 2020).jpg",
@@ -649,6 +1539,16 @@
     "width": 2373,
     "height": 1557
   },
+  "hindenburg-disaster": {
+    "file": "File:2012-08-24 Main entrance of the Lakehurst unit of Joint Base McGuire Dix Lakehurst in New Jersey.jpg",
+    "author": "Famartin",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2012-08-24_Main_entrance_of_the_Lakehurst_unit_of_Joint_Base_McGuire_Dix_Lakehurst_in_New_Jersey.jpg",
+    "via": "p18",
+    "width": 3264,
+    "height": 2129
+  },
   "hollywood-sign": {
     "file": "File:Hollywood Sign (Zuschnitt).jpg",
     "author": "Thomas Wolf, www.foto-tw.de",
@@ -658,6 +1558,56 @@
     "via": "p18",
     "width": 11065,
     "height": 6916
+  },
+  "holmenkollbakken": {
+    "file": "File:19-08-25-Oslo Holmenkollenbakken-RalfR.jpg",
+    "author": "Ralf Roletschek",
+    "licence": "CC BY-SA 1.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/1.0/fi/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:19-08-25-Oslo_Holmenkollenbakken-RalfR.jpg",
+    "via": "p18",
+    "width": 3435,
+    "height": 2626
+  },
+  "hungaroring": {
+    "file": "File:2022 ETCR - RD2 - Hungaroring (52186703505).jpg",
+    "author": "EKSRX",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2022_ETCR_-_RD2_-_Hungaroring_(52186703505).jpg",
+    "via": "p18",
+    "width": 7116,
+    "height": 4746
+  },
+  "imola": {
+    "file": "File:2025 Emilia Romagna Grand Prix 03.jpg",
+    "author": "Jmmuguerza",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2025_Emilia_Romagna_Grand_Prix_03.jpg",
+    "via": "p18",
+    "width": 4608,
+    "height": 3456
+  },
+  "indianapolis-motor-speedway": {
+    "file": "File:2007 Indianapolis 500 - Starting field formation before start.jpg",
+    "author": "The359",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2007_Indianapolis_500_-_Starting_field_formation_before_start.jpg",
+    "via": "p18",
+    "width": 1206,
+    "height": 729
+  },
+  "interlagos": {
+    "file": "File:Autódromo de Interlagos em Dezembro de 2023.jpg",
+    "author": "Boaventuravinicius",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_de_Interlagos_em_Dezembro_de_2023.jpg",
+    "via": "p18",
+    "width": 3060,
+    "height": 2519
   },
   "itsukushima-shrine": {
     "file": "File:Itsukushima Gate.jpg",
@@ -669,6 +1619,46 @@
     "width": 4200,
     "height": 2803
   },
+  "jakarta": {
+    "file": "File:Jakarta old football.jpg",
+    "author": "Jonathan McIntosh",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Jakarta_old_football.jpg",
+    "via": "search",
+    "width": 2560,
+    "height": 1920
+  },
+  "jallianwala-bagh-massacre": {
+    "file": "File:Jallianwala Bagh, Amritsar 01.jpg",
+    "author": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Jallianwala_Bagh,_Amritsar_01.jpg",
+    "via": "search",
+    "width": 4486,
+    "height": 2991
+  },
+  "jeddah-corniche-circuit": {
+    "file": "File:Jeddah Formula E Layout.png",
+    "author": "WL2392",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Jeddah_Formula_E_Layout.png",
+    "via": "search",
+    "width": 5241,
+    "height": 2076
+  },
+  "johan-cruyff-arena": {
+    "file": "File:Arena, Ajax stadion, Amsterdam.JPG",
+    "author": "Alf van Beem",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Arena,_Ajax_stadion,_Amsterdam.JPG",
+    "via": "p18",
+    "width": 4608,
+    "height": 3456
+  },
   "johnny-cash": {
     "file": "File:Old US 79, Kingsland Segment.jpg",
     "author": "Valis55",
@@ -679,6 +1669,96 @@
     "width": 3264,
     "height": 4928
   },
+  "kasarani-stadium": {
+    "file": "File:A few minutes before the match, Kasarani, Nairobi.jpg",
+    "author": "Eriksson1904",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:A_few_minutes_before_the_match,_Kasarani,_Nairobi.jpg",
+    "via": "p18",
+    "width": 1600,
+    "height": 1200
+  },
+  "kathmandu": {
+    "file": "File:Kathmandu Avion 01.JPG",
+    "author": "Royonx",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Kathmandu_Avion_01.JPG",
+    "via": "p18",
+    "width": 1500,
+    "height": 1125
+  },
+  "kensington-oval": {
+    "file": "File:Kensington Oval yes.jpg",
+    "author": "subzi73",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Kensington_Oval_yes.jpg",
+    "via": "p18",
+    "width": 800,
+    "height": 600
+  },
+  "kings-park": {
+    "file": "File:King's Park Stadium, Durban.jpg",
+    "author": "Vauxhall Bridgefoot",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:King%27s_Park_Stadium,_Durban.jpg",
+    "via": "p18",
+    "width": 4288,
+    "height": 2201
+  },
+  "koshien-stadium": {
+    "file": "File:Summer Koshien 2009 Final.jpg",
+    "author": "百楽兎",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Summer_Koshien_2009_Final.jpg",
+    "via": "p18",
+    "width": 1775,
+    "height": 750
+  },
+  "kuala-lumpur": {
+    "file": "File:Kl-skyline-at-night-2022.jpg",
+    "author": "Shahee Ilyas",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Kl-skyline-at-night-2022.jpg",
+    "via": "p18",
+    "width": 4587,
+    "height": 1579
+  },
+  "la-bombonera": {
+    "file": "File:La Bombonera 2.jpg",
+    "author": "Matibro",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:La_Bombonera_2.jpg",
+    "via": "p18",
+    "width": 4000,
+    "height": 3000
+  },
+  "lambeau-field": {
+    "file": "File:Lambeau Field.jpg",
+    "author": "JL1Row",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lambeau_Field.jpg",
+    "via": "p18",
+    "width": 3968,
+    "height": 2232
+  },
+  "landing-at-anzac-cove": {
+    "file": "File:Landing of Australian troops at ANZAC Cove, 25 April 1915 slnsw.jpg",
+    "author": "Published by Brookes",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Landing_of_Australian_troops_at_ANZAC_Cove,_25_April_1915_slnsw.jpg",
+    "via": "search",
+    "width": 4344,
+    "height": 2625
+  },
   "leaning-tower-of-pisa": {
     "file": "File:The Duomo and Tower of Pisa at sunrise.jpg",
     "author": "MHoser",
@@ -688,6 +1768,26 @@
     "via": "search",
     "width": 4600,
     "height": 2878
+  },
+  "lima": {
+    "file": "File:Plaza Mayor de Lima-1.jpg",
+    "author": "JulioKuLu",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Lima-1.jpg",
+    "via": "p18",
+    "width": 5208,
+    "height": 2909
+  },
+  "lincoln-financial-field": {
+    "file": "File:Philly (45).JPG",
+    "author": "The original uploader was Betp at French Wikipedia.",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Philly_(45).JPG",
+    "via": "p18",
+    "width": 2048,
+    "height": 1536
   },
   "lincoln-memorial": {
     "file": "File:Aerial view of Lincoln Memorial - east side EDIT.jpeg",
@@ -719,6 +1819,16 @@
     "width": 2048,
     "height": 1152
   },
+  "lord-s-cricket-ground": {
+    "file": "File:Lords-Cricket-Ground-Pavilion-06-08-2017.jpg",
+    "author": "Yorkspotter",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lords-Cricket-Ground-Pavilion-06-08-2017.jpg",
+    "via": "p18",
+    "width": 1788,
+    "height": 1073
+  },
   "louvre": {
     "file": "File:Cour Napoléon at night - Louvre.jpg",
     "author": "Benh LIEU SONG",
@@ -728,6 +1838,46 @@
     "via": "p18",
     "width": 3048,
     "height": 1209
+  },
+  "lusail-stadium": {
+    "file": "File:Brésil vs Serbie.jpg",
+    "author": "Adnen1985",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Br%C3%A9sil_vs_Serbie.jpg",
+    "via": "p18",
+    "width": 2048,
+    "height": 922
+  },
+  "luther-s-ninety-five-theses": {
+    "file": "File:Wittenberg, Schlosskirche (Juni 2026) 1.jpg",
+    "author": "Romzig",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Wittenberg,_Schlosskirche_(Juni_2026)_1.jpg",
+    "via": "search",
+    "width": 4984,
+    "height": 3323
+  },
+  "luzhniki-stadium": {
+    "file": "File:LuzhnikiStadium.jpg",
+    "author": "Government of Moscow Press centre",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:LuzhnikiStadium.jpg",
+    "via": "p18",
+    "width": 1600,
+    "height": 1080
+  },
+  "m-chinnaswamy-stadium": {
+    "file": "File:Chinnaswamy Stadium during India vs New Zealand Test Match,October 2024 2.jpg",
+    "author": "Raghavan2010",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Chinnaswamy_Stadium_during_India_vs_New_Zealand_Test_Match,October_2024_2.jpg",
+    "via": "p18",
+    "width": 4080,
+    "height": 1884
   },
   "machu-picchu": {
     "file": "File:Machu Picchu, 2023 (012).jpg",
@@ -739,6 +1889,16 @@
     "width": 6960,
     "height": 4640
   },
+  "madison-square-garden": {
+    "file": "File:Madison Square Garden (MSG) - Full (48124330357).jpg",
+    "author": "Ajay Suresh from New York, NY, USA",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Madison_Square_Garden_(MSG)_-_Full_(48124330357).jpg",
+    "via": "p18",
+    "width": 5411,
+    "height": 3044
+  },
   "madrid": {
     "file": "File:Madrid (38624991251).jpg",
     "author": "Dmitry Dzhus from London",
@@ -749,6 +1909,26 @@
     "width": 4608,
     "height": 3456
   },
+  "manila": {
+    "file": "File:Big Manila.jpg",
+    "author": "Mike Gonzalez (TheCoffee)",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Big_Manila.jpg",
+    "via": "p18",
+    "width": 4078,
+    "height": 1094
+  },
+  "maracana-stadium": {
+    "file": "File:Maracana 2022.jpg",
+    "author": "Arne Müseler",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Maracana_2022.jpg",
+    "via": "p18",
+    "width": 6432,
+    "height": 4290
+  },
   "marina-bay-sands": {
     "file": "File:Marina Bay Sands Hotel 3 (31345110894).jpg",
     "author": "Tony Hisgett from Birmingham, UK",
@@ -758,6 +1938,16 @@
     "via": "p18",
     "width": 4536,
     "height": 2816
+  },
+  "marina-bay-street-circuit": {
+    "file": "File:Singapore (SG), Marina Bay Street Circuit, F1 Pit Building -- 2019 -- 4478.jpg",
+    "author": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_Street_Circuit,_F1_Pit_Building_--_2019_--_4478.jpg",
+    "via": "p18",
+    "width": 6720,
+    "height": 4480
   },
   "masjid-al-haram": {
     "file": "File:Khalili Collection Hajj and Arts of Pilgrimage arc.pp 0211.04 CROP.jpg",
@@ -789,6 +1979,16 @@
     "width": 7386,
     "height": 3918
   },
+  "mexico-city": {
+    "file": "File:Sobrevuelos CDMX HJ2A5091 (40386338731).jpg",
+    "author": "Gobierno CDMX",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sobrevuelos_CDMX_HJ2A5091_(40386338731).jpg",
+    "via": "p18",
+    "width": 2500,
+    "height": 1667
+  },
   "milan-cathedral": {
     "file": "File:20110724 Milan Cathedral 5260.jpg",
     "author": "Jakub Hałun",
@@ -809,6 +2009,16 @@
     "width": 3072,
     "height": 2304
   },
+  "mohammed-v-stadium": {
+    "file": "File:Mohammed V stadium.jpg",
+    "author": "DRONE PROD-CINE MAROC",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Mohammed_V_stadium.jpg",
+    "via": "p18",
+    "width": 1686,
+    "height": 948
+  },
   "mont-saint-michel": {
     "file": "File:Mont St Michel 3, Brittany, France - July 2011.jpg",
     "author": "Diliff",
@@ -819,6 +2029,16 @@
     "width": 2811,
     "height": 1993
   },
+  "monza": {
+    "file": "File:1975 Italian GP race start - Niki Lauda & Clay Regazzoni (Ferrari 312T).jpg",
+    "author": "Rainer W. Schlegelmilch",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:1975_Italian_GP_race_start_-_Niki_Lauda_%26_Clay_Regazzoni_(Ferrari_312T).jpg",
+    "via": "p18",
+    "width": 2234,
+    "height": 1398
+  },
   "moscow": {
     "file": "File:Saint Basil's Cathedral and the Red Square.jpg",
     "author": "U.S. Department of State",
@@ -828,6 +2048,16 @@
     "via": "p18",
     "width": 2499,
     "height": 1406
+  },
+  "moses-mabhida-stadium": {
+    "file": "File:Moses Mabhida Stadium, Durban, KwaZulu Natal, South Africa (20519302751).jpg",
+    "author": "South African Tourism from South Africa",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Moses_Mabhida_Stadium,_Durban,_KwaZulu_Natal,_South_Africa_(20519302751).jpg",
+    "via": "search",
+    "width": 4608,
+    "height": 3456
   },
   "mount-fuji": {
     "file": "File:Kodaki fuji frm shojinko refurb.jpg",
@@ -849,6 +2079,16 @@
     "width": 6884,
     "height": 4589
   },
+  "mount-panorama-circuit": {
+    "file": "File:Mount Panorama Pit Straight and Pit Lane 2015.JPG",
+    "author": "Kytabu",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Mount_Panorama_Pit_Straight_and_Pit_Lane_2015.JPG",
+    "via": "p18",
+    "width": 3456,
+    "height": 2304
+  },
   "mount-rushmore": {
     "file": "File:Mount Rushmore detail view (100MP).jpg",
     "author": "Thomas Wolf, www.foto-tw.de",
@@ -858,6 +2098,16 @@
     "via": "p18",
     "width": 12128,
     "height": 8246
+  },
+  "murrayfield-stadium": {
+    "file": "File:Murrayfield Stadium 2005-05-13.jpg",
+    "author": "Photo taken by Vclaw",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Murrayfield_Stadium_2005-05-13.jpg",
+    "via": "p18",
+    "width": 1595,
+    "height": 621
   },
   "nairobi": {
     "file": "File:Nairobi, view from KICC.JPG",
@@ -869,6 +2119,16 @@
     "width": 2800,
     "height": 2100
   },
+  "narendra-modi-stadium": {
+    "file": "File:Narendra Modi Stadium view from the gallery.jpg",
+    "author": "A Cricket Premi",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_Stadium_view_from_the_gallery.jpg",
+    "via": "p18",
+    "width": 3656,
+    "height": 2039
+  },
   "neuschwanstein-castle": {
     "file": "File:Neuschwanstein Castle 2024-02.jpg",
     "author": "Wilfredor",
@@ -878,6 +2138,26 @@
     "via": "p18",
     "width": 15083,
     "height": 10270
+  },
+  "new-delhi": {
+    "file": "File:India Gate Legendary Saga Of Supreme Sacrifice.jpg",
+    "author": "Navonildutta4",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:India_Gate_Legendary_Saga_Of_Supreme_Sacrifice.jpg",
+    "via": "p18",
+    "width": 6000,
+    "height": 4000
+  },
+  "newlands-cricket-ground": {
+    "file": "File:Newlands Cricket Ground.jpg",
+    "author": "EGilham",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Newlands_Cricket_Ground.jpg",
+    "via": "p18",
+    "width": 6000,
+    "height": 4000
   },
   "niagara-falls-horseshoe-falls": {
     "file": "File:Niagara Falls 6 db.jpg",
@@ -899,6 +2179,26 @@
     "width": 19300,
     "height": 3252
   },
+  "nurburgring": {
+    "file": "File:ADAC GT Masters at Nuerburgring.jpg",
+    "author": "Herranderssvensson",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:ADAC_GT_Masters_at_Nuerburgring.jpg",
+    "via": "p18",
+    "width": 2577,
+    "height": 1608
+  },
+  "nuremberg-trials": {
+    "file": "File:Nuremberg Aerial Justizpalast.JPG",
+    "author": "Nicohofmann",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Nuremberg_Aerial_Justizpalast.JPG",
+    "via": "p18",
+    "width": 2920,
+    "height": 1941
+  },
   "oasis": {
     "file": "File:Manchester from the Sky, 2008.jpg",
     "author": "Daniel Nisbet from Manchester, United Kingdom",
@@ -919,6 +2219,16 @@
     "width": 3264,
     "height": 2448
   },
+  "old-course-st-andrews": {
+    "file": "File:R&A Clubhouse, Old Course, Swilcan Burn bridge.jpg",
+    "author": "Optograph",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:R%26A_Clubhouse,_Old_Course,_Swilcan_Burn_bridge.jpg",
+    "via": "search",
+    "width": 4059,
+    "height": 2709
+  },
   "old-trafford": {
     "file": "File:Manchester United Old Trafford.jpg",
     "author": "Arne Müseler",
@@ -928,6 +2238,16 @@
     "via": "p18",
     "width": 4995,
     "height": 3741
+  },
+  "olympiastadion-berlin": {
+    "file": "File:Olympiastadion Berlin 2015.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Olympiastadion_Berlin_2015.jpg",
+    "via": "p18",
+    "width": 7020,
+    "height": 4636
   },
   "oslo": {
     "file": "File:View from siloen.jpg",
@@ -939,6 +2259,26 @@
     "width": 2816,
     "height": 2112
   },
+  "ottawa": {
+    "file": "File:Centre Block, Ottawa, Southeast view 20170422 1.jpg",
+    "author": "DXR",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Centre_Block,_Ottawa,_Southeast_view_20170422_1.jpg",
+    "via": "search",
+    "width": 5358,
+    "height": 4131
+  },
+  "panathenaic-stadium": {
+    "file": "File:GR-athen-panathinaiko-stadion.jpg",
+    "author": "Bgabel",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:GR-athen-panathinaiko-stadion.jpg",
+    "via": "p18",
+    "width": 2259,
+    "height": 653
+  },
   "paris": {
     "file": "File:La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg",
     "author": "Yann Caradec from Paris, France",
@@ -948,6 +2288,36 @@
     "via": "p18",
     "width": 4592,
     "height": 2870
+  },
+  "parken-stadium": {
+    "file": "File:Denmark copenhagen parken stadium.jpg",
+    "author": "Arne Müseler",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Denmark_copenhagen_parken_stadium.jpg",
+    "via": "p18",
+    "width": 6782,
+    "height": 5079
+  },
+  "pebble-beach-golf-links": {
+    "file": "File:Pebble Beach Golf Links, 18th green.jpg",
+    "author": "WilliamFMeyer",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Pebble_Beach_Golf_Links,_18th_green.jpg",
+    "via": "search",
+    "width": 3264,
+    "height": 2448
+  },
+  "perth-stadium": {
+    "file": "File:Perth Stadium opening 210118 gnangarra-12.jpg",
+    "author": "Gnangarra",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5/au/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Perth_Stadium_opening_210118_gnangarra-12.jpg",
+    "via": "p18",
+    "width": 7360,
+    "height": 4912
   },
   "petra-al-khazneh": {
     "file": "File:Al-Kazneh - panoramio.jpg",
@@ -968,6 +2338,16 @@
     "via": "search",
     "width": 8472,
     "height": 5648
+  },
+  "pilgrims-land-at-plymouth": {
+    "file": "File:The landing of the Pilgrims at Plymouth, Mass. Dec. 22nd 1620 LCCN2002707741.tif",
+    "author": "Popular Graphic Arts",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:The_landing_of_the_Pilgrims_at_Plymouth,_Mass._Dec._22nd_1620_LCCN2002707741.tif",
+    "via": "search",
+    "width": 7155,
+    "height": 5430
   },
   "potala-palace": {
     "file": "File:Potala.jpg",
@@ -999,6 +2379,16 @@
     "width": 3456,
     "height": 2304
   },
+  "principality-stadium": {
+    "file": "File:Principality Stadium May 3, 2016.jpg",
+    "author": "Clint Budd from About 15 miles North of Swansea, Wales",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Principality_Stadium_May_3,_2016.jpg",
+    "via": "p18",
+    "width": 2496,
+    "height": 1664
+  },
   "qutb-minar": {
     "file": "File:A Potrait view of Qutub Minar.jpg",
     "author": "IM3847",
@@ -1018,6 +2408,26 @@
     "via": "p18",
     "width": 3328,
     "height": 1872
+  },
+  "rajiv-gandhi-international-cricket-stadium": {
+    "file": "File:Uppal stadium Rajiv Gandhi International Cricket Stadium.jpg",
+    "author": "Phanidharvaranasi",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Uppal_stadium_Rajiv_Gandhi_International_Cricket_Stadium.jpg",
+    "via": "p18",
+    "width": 4032,
+    "height": 3024
+  },
+  "red-bull-ring": {
+    "file": "File:United Autosports ELMS Red Bull Ring 2017-218.jpg",
+    "author": "United Autosports",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:United_Autosports_ELMS_Red_Bull_Ring_2017-218.jpg",
+    "via": "p18",
+    "width": 3600,
+    "height": 2400
   },
   "reykjavik": {
     "file": "File:Reykjavík 5545 (cropped).JPG",
@@ -1039,6 +2449,36 @@
     "width": 5100,
     "height": 3400
   },
+  "riyadh": {
+    "file": "File:Riyadh Skyline.jpg",
+    "author": "B.alotaby",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Riyadh_Skyline.jpg",
+    "via": "p18",
+    "width": 4109,
+    "height": 2311
+  },
+  "rod-laver-arena": {
+    "file": "File:Rod Laver Arena Melbourne Park Australian Open 2023 quarter final dusk.jpg",
+    "author": "Gracchus250",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Rod_Laver_Arena_Melbourne_Park_Australian_Open_2023_quarter_final_dusk.jpg",
+    "via": "search",
+    "width": 4032,
+    "height": 3024
+  },
+  "rogers-centre": {
+    "file": "File:Rogers Centre.jpg",
+    "author": "Fabian Roudra Baroi",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Rogers_Centre.jpg",
+    "via": "p18",
+    "width": 6000,
+    "height": 4000
+  },
   "rome": {
     "file": "File:Rome Skyline (8012016319).jpg",
     "author": "Bert Kaufmann from Roermond, Netherlands",
@@ -1048,6 +2488,36 @@
     "via": "p18",
     "width": 5982,
     "height": 3988
+  },
+  "rose-bowl": {
+    "file": "File:2018.06.17 Over the Rose Bowl, Pasadena, CA USA 0039 (42855669451) (cropped).jpg",
+    "author": "Ted Eytan",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2018.06.17_Over_the_Rose_Bowl,_Pasadena,_CA_USA_0039_(42855669451)_(cropped).jpg",
+    "via": "p18",
+    "width": 2566,
+    "height": 1613
+  },
+  "royal-melbourne-golf-club": {
+    "file": "File:Bubba Watson (6346176707).jpg",
+    "author": "Hone Morihana",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Bubba_Watson_(6346176707).jpg",
+    "via": "search",
+    "width": 4623,
+    "height": 3082
+  },
+  "royal-portrush-golf-club": {
+    "file": "File:Royal Portrush 8th hole.png",
+    "author": "Average Golfer",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Royal_Portrush_8th_hole.png",
+    "via": "p18",
+    "width": 2556,
+    "height": 1178
   },
   "ryman-auditorium": {
     "file": "File:Ryman Auditorium.jpg",
@@ -1059,6 +2529,26 @@
     "width": 3300,
     "height": 2200
   },
+  "ryogoku-kokugikan": {
+    "file": "File:Ryogoku Great Sumo Hall.jpg",
+    "author": "Steve Cadman",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ryogoku_Great_Sumo_Hall.jpg",
+    "via": "p18",
+    "width": 2272,
+    "height": 1704
+  },
+  "sabina-park": {
+    "file": "File:Sabina Park.jpg",
+    "author": "Jamaica1962",
+    "licence": "CC0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sabina_Park.jpg",
+    "via": "p18",
+    "width": 1200,
+    "height": 803
+  },
   "sagrada-familia": {
     "file": "File:SF maig 2026.jpg",
     "author": "Canaan",
@@ -1068,6 +2558,16 @@
     "via": "p18",
     "width": 2588,
     "height": 1786
+  },
+  "santiago": {
+    "file": "File:Santiago de Chile, Desde Cerro San Cristóbal (cropped).jpg",
+    "author": "Omnespsx (D•ES)",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Santiago_de_Chile,_Desde_Cerro_San_Crist%C3%B3bal_(cropped).jpg",
+    "via": "p18",
+    "width": 4068,
+    "height": 2820
   },
   "schonbrunn-palace": {
     "file": "File:Wien - Schloss Schönbrunn.JPG",
@@ -1079,6 +2579,16 @@
     "width": 5650,
     "height": 3860
   },
+  "sealing-of-magna-carta": {
+    "file": "File:RunnymedeMagnacartaisle.jpg",
+    "author": "Wyrdlight",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:RunnymedeMagnacartaisle.jpg",
+    "via": "p18",
+    "width": 1200,
+    "height": 799
+  },
   "seoul": {
     "file": "File:덕수궁의 가을.jpg",
     "author": "라성민",
@@ -1088,6 +2598,46 @@
     "via": "p18",
     "width": 7360,
     "height": 4912
+  },
+  "seoul-olympic-main-stadium": {
+    "file": "File:Seoul Olympic Stadium in 1994.jpg",
+    "author": "Scarlet Sappho",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Olympic_Stadium_in_1994.jpg",
+    "via": "search",
+    "width": 1600,
+    "height": 1067
+  },
+  "sepang-international-circuit": {
+    "file": "File:Sepang tribune.jpg",
+    "author": "Postmortem at Russian Wikipedia",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sepang_tribune.jpg",
+    "via": "p18",
+    "width": 3072,
+    "height": 2048
+  },
+  "shanghai-international-circuit": {
+    "file": "File:Shanghai International Circuit, April 7, 2018 SkySat.jpg",
+    "author": "Planet Labs, Inc.",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Shanghai_International_Circuit,_April_7,_2018_SkySat.jpg",
+    "via": "search",
+    "width": 3454,
+    "height": 2591
+  },
+  "sharjah-cricket-association-stadium": {
+    "file": "File:SharjahCricket.JPG",
+    "author": "The original uploader was PaddyBriggs at English Wikipedia.",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:SharjahCricket.JPG",
+    "via": "p18",
+    "width": 1795,
+    "height": 1024
   },
   "sheikh-zayed-grand-mosque": {
     "file": "File:Sheikh Zayed Mosque Silhouette.jpg",
@@ -1109,6 +2659,16 @@
     "width": 4623,
     "height": 3000
   },
+  "siege-of-masada": {
+    "file": "File:Israel Aerial Ropeway Masada BW 1.jpg",
+    "author": "Berthold Werner",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Israel_Aerial_Ropeway_Masada_BW_1.jpg",
+    "via": "search",
+    "width": 3872,
+    "height": 2592
+  },
   "sigiriya": {
     "file": "File:Sigiriya lion gate 04.JPG",
     "author": "Cherubino",
@@ -1118,6 +2678,86 @@
     "via": "p18",
     "width": 2592,
     "height": 1944
+  },
+  "signal-iduna-park": {
+    "file": "File:Signal iduna park stadium dortmund 6.jpg",
+    "author": "Arne Müseler / www.arne-mueseler.com",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_6.jpg",
+    "via": "p18",
+    "width": 4133,
+    "height": 2755
+  },
+  "signing-of-the-declaration-of-independence": {
+    "file": "File:Exterior of the Independence Hall, Aug 2019.jpg",
+    "author": "Mys 721tx",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Independence_Hall,_Aug_2019.jpg",
+    "via": "p18",
+    "width": 5568,
+    "height": 3712
+  },
+  "signing-of-the-treaty-of-tordesillas": {
+    "file": "File:Tordesillas - 001 (27995194208).jpg",
+    "author": "Luis Rogelio HM",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Tordesillas_-_001_(27995194208).jpg",
+    "via": "p18",
+    "width": 4288,
+    "height": 2848
+  },
+  "signing-of-the-treaty-of-versailles": {
+    "file": "File:Chateau Versailles Galerie des Glaces.jpg",
+    "author": "Myrabella",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg",
+    "via": "p18",
+    "width": 3892,
+    "height": 2584
+  },
+  "signing-of-the-treaty-of-waitangi": {
+    "file": "File:00 1563 Waitangi Treaty Grounds, National Reserve (NZ).jpg",
+    "author": "W. Bulach",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:00_1563_Waitangi_Treaty_Grounds,_National_Reserve_(NZ).jpg",
+    "via": "p18",
+    "width": 3150,
+    "height": 2100
+  },
+  "silverstone-circuit": {
+    "file": "File:McLaren MP4-16A 2015 McLaren MP4-16A shakedown (21219267118).jpg",
+    "author": "United Autosports",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:McLaren_MP4-16A_2015_McLaren_MP4-16A_shakedown_(21219267118).jpg",
+    "via": "p18",
+    "width": 5184,
+    "height": 3456
+  },
+  "sinking-of-the-titanic": {
+    "file": "File:Titanic wreck bow.jpg",
+    "author": "Courtesy of NOAA/Institute for Exploration/University of Rhode Island (NOAA/IFE/URI).",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Titanic_wreck_bow.jpg",
+    "via": "p18",
+    "width": 1480,
+    "height": 1036
+  },
+  "sky-stadium": {
+    "file": "File:Wellington Westpac Stadium in 2010.jpg",
+    "author": "Alexander T. Carroll, cropped by Blackcat",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Wellington_Westpac_Stadium_in_2010.jpg",
+    "via": "p18",
+    "width": 2700,
+    "height": 1800
   },
   "sky-tower": {
     "file": "File:View from Sky Tower Akl.jpg",
@@ -1129,6 +2769,26 @@
     "width": 4996,
     "height": 1300
   },
+  "soweto-uprising": {
+    "file": "File:Soweto-003.jpg",
+    "author": "[https://www.flickr.com/people/32811308@N00 Fiver L�cker] from Wellington, New Zealand",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Soweto-003.jpg",
+    "via": "p18",
+    "width": 3488,
+    "height": 1961
+  },
+  "spa-francochamps-circuit": {
+    "file": "File:2022 4 Hours of Spa-Francorchamps - Circuit.jpg",
+    "author": "United Autosports",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2022_4_Hours_of_Spa-Francorchamps_-_Circuit.jpg",
+    "via": "p18",
+    "width": 3600,
+    "height": 2400
+  },
   "space-needle": {
     "file": "File:Seattle from Space Needle June 2018 003.jpg",
     "author": "King of Hearts",
@@ -1138,6 +2798,16 @@
     "via": "search",
     "width": 5760,
     "height": 3840
+  },
+  "sputnik-1-launch": {
+    "file": "File:Soyuz expedition 19 launch pad.jpg",
+    "author": "Bill Ingalls",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Soyuz_expedition_19_launch_pad.jpg",
+    "via": "p18",
+    "width": 3000,
+    "height": 1965
   },
   "st-basil-s-cathedral": {
     "file": "File:Moscow - 2025 - Daytime view of St. Basil's Cathedral from Vasilyevsky Spusk.jpg",
@@ -1149,6 +2819,16 @@
     "width": 6266,
     "height": 5504
   },
+  "st-james-park": {
+    "file": "File:Newcastle st-james-park stadium.jpg",
+    "author": "Arne Müseler",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Newcastle_st-james-park_stadium.jpg",
+    "via": "p18",
+    "width": 4306,
+    "height": 3225
+  },
   "st-peter-s-basilica": {
     "file": "File:Basilica di San Pietro in Vaticano September 2015-1a.jpg",
     "author": "Alvesgaspar",
@@ -1158,6 +2838,46 @@
     "via": "p18",
     "width": 13066,
     "height": 6823
+  },
+  "stade-de-france": {
+    "file": "File:StadeFranceNationsLeague2018.jpg",
+    "author": "Darthvadrouw",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:StadeFranceNationsLeague2018.jpg",
+    "via": "p18",
+    "width": 7156,
+    "height": 3894
+  },
+  "stade-roland-garros": {
+    "file": "File:Stade Roland Garros, Paris (Ank Kumar) 05.jpg",
+    "author": "Ank Kumar",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Stade_Roland_Garros,_Paris_(Ank_Kumar)_05.jpg",
+    "via": "search",
+    "width": 6000,
+    "height": 4000
+  },
+  "stade-velodrome": {
+    "file": "File:Stade Vélodrome closeup.jpg",
+    "author": "Bernard Ddd",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Stade_V%C3%A9lodrome_closeup.jpg",
+    "via": "p18",
+    "width": 5347,
+    "height": 3565
+  },
+  "stadio-olimpico": {
+    "file": "File:Stadio Olimpico 2024.jpg",
+    "author": "Messapi, cropped by Blackcat",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2024.jpg",
+    "via": "p18",
+    "width": 3384,
+    "height": 1712
   },
   "statue-of-liberty": {
     "file": "File:Statue of Liberty and a sightseeing boat, Liberty Island, New York.jpg",
@@ -1199,6 +2919,16 @@
     "width": 5869,
     "height": 3913
   },
+  "storming-of-the-winter-palace": {
+    "file": "File:Winter Palace Panorama 3.jpg",
+    "author": "Florstein (Telegram:WikiPhoto.Space)",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Winter_Palace_Panorama_3.jpg",
+    "via": "p18",
+    "width": 5000,
+    "height": 3000
+  },
   "sugarloaf-mountain": {
     "file": "File:Vista do Morro Dona Marta.jpg",
     "author": "Ccarelo",
@@ -1218,6 +2948,26 @@
     "via": "override",
     "width": 3648,
     "height": 2736
+  },
+  "surrender-at-appomattox": {
+    "file": "File:Appomattox Court House Historical Park.jpg",
+    "author": "Doug Coldwell",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Appomattox_Court_House_Historical_Park.jpg",
+    "via": "p18",
+    "width": 1632,
+    "height": 1224
+  },
+  "suzuka-circuit": {
+    "file": "File:Suzukacircuit main-straight.jpg",
+    "author": "Wata0929",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Suzukacircuit_main-straight.jpg",
+    "via": "p18",
+    "width": 3264,
+    "height": 1836
   },
   "sydney-cricket-ground": {
     "file": "File:Sydney Cricket Ground (24509044622).jpg",
@@ -1329,6 +3079,16 @@
     "width": 2625,
     "height": 2253
   },
+  "tiananmen-square-protests": {
+    "file": "File:Tian'anmen from the square (20200825114150).jpg",
+    "author": "N509FZ",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Tian%27anmen_from_the_square_(20200825114150).jpg",
+    "via": "p18",
+    "width": 6621,
+    "height": 4414
+  },
   "tokyo": {
     "file": "File:Skyscrapers of Shinjuku 2009 January (revised).jpg",
     "author": "Morio",
@@ -1338,6 +3098,16 @@
     "via": "p18",
     "width": 3400,
     "height": 1858
+  },
+  "tokyo-dome": {
+    "file": "File:Tokyo dome.JPG",
+    "author": "Carpkazu at Japanese Wikipedia",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_dome.JPG",
+    "via": "p18",
+    "width": 1419,
+    "height": 1107
   },
   "tokyo-tower": {
     "file": "File:Tokyo Tower, Minato City.jpg",
@@ -1359,6 +3129,16 @@
     "width": 4828,
     "height": 2716
   },
+  "trent-bridge": {
+    "file": "File:Trent Bridge MMB 01 England vs New Zealand.jpg",
+    "author": "Mattbuck",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Trent_Bridge_MMB_01_England_vs_New_Zealand.jpg",
+    "via": "p18",
+    "width": 2085,
+    "height": 1295
+  },
   "trevi-fountain": {
     "file": "File:Trevi Fountain - Roma.jpg",
     "author": "NikonZ7II",
@@ -1368,6 +3148,36 @@
     "via": "p18",
     "width": 8734,
     "height": 4738
+  },
+  "trinity-nuclear-test": {
+    "file": "File:Trinity Test Fireball 16ms.jpg",
+    "author": "Berlyn Brixner / Los Alamos National Laboratory",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Trinity_Test_Fireball_16ms.jpg",
+    "via": "p18",
+    "width": 1483,
+    "height": 1000
+  },
+  "twickenham-stadium": {
+    "file": "File:Twickenham Stadium aerial view 2014.jpg",
+    "author": "brewbooks from near Seattle, USA; cropped by Blackcat",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Twickenham_Stadium_aerial_view_2014.jpg",
+    "via": "p18",
+    "width": 2987,
+    "height": 1991
+  },
+  "ulaanbaatar": {
+    "file": "File:UB downtown.jpg",
+    "author": "Zazaa Mongolia",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:UB_downtown.jpg",
+    "via": "p18",
+    "width": 1800,
+    "height": 1200
   },
   "uluru": {
     "file": "File:Sunset at Uluru on July 30, 2005.jpg",
@@ -1398,6 +3208,36 @@
     "via": "p18",
     "width": 5184,
     "height": 3456
+  },
+  "villa-park": {
+    "file": "File:Birmingham aston villa park stadium.jpg",
+    "author": "Arne Müseler",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Birmingham_aston_villa_park_stadium.jpg",
+    "via": "p18",
+    "width": 4631,
+    "height": 3468
+  },
+  "wankdorf-stadium": {
+    "file": "File:Wankdorf Radweg.JPG",
+    "author": "Ch-info.ch",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Wankdorf_Radweg.JPG",
+    "via": "search",
+    "width": 3008,
+    "height": 2000
+  },
+  "wankhede-stadium": {
+    "file": "File:Wankhede ICC WCF.jpg",
+    "author": "G patkar",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Wankhede_ICC_WCF.jpg",
+    "via": "p18",
+    "width": 2048,
+    "height": 1536
   },
   "warsaw": {
     "file": "File:Castle Square (22346p).jpg",
@@ -1439,6 +3279,26 @@
     "width": 13939,
     "height": 1788
   },
+  "wembley-stadium": {
+    "file": "File:London Wembley.jpg",
+    "author": "Arne Müseler",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:London_Wembley.jpg",
+    "via": "p18",
+    "width": 4756,
+    "height": 3562
+  },
+  "wimbledon-all-england-club": {
+    "file": "File:Centre court 2006.JPG",
+    "author": "Clavecin",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Centre_court_2006.JPG",
+    "via": "p18",
+    "width": 2016,
+    "height": 1512
+  },
   "woodstock-1969": {
     "file": "File:BethelWoods.jpg",
     "author": "JMerc27",
@@ -1449,6 +3309,26 @@
     "width": 8987,
     "height": 1757
   },
+  "wright-brothers-first-flight": {
+    "file": "File:Memorial from Flight Path, Wright Brothers National Memorial, Kill Devil Hills, North Carolina (14443959961).jpg",
+    "author": "Ken Lund from Reno, Nevada, USA",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Memorial_from_Flight_Path,_Wright_Brothers_National_Memorial,_Kill_Devil_Hills,_North_Carolina_(14443959961).jpg",
+    "via": "search",
+    "width": 4000,
+    "height": 3000
+  },
+  "wrigley-field": {
+    "file": "File:Wrigley Field 2018 - 42195054760.jpg",
+    "author": "Ryan Dickey",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Wrigley_Field_2018_-_42195054760.jpg",
+    "via": "p18",
+    "width": 7607,
+    "height": 3500
+  },
   "yalta-conference": {
     "file": "File:Livadia - Palace 180798b.jpg",
     "author": "Віктор Полянко",
@@ -1458,5 +3338,25 @@
     "via": "override",
     "width": 3505,
     "height": 2353
+  },
+  "yankee-stadium": {
+    "file": "File:Yankee Stadium upper deck 2010.jpg",
+    "author": "Matt Boulton",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_upper_deck_2010.jpg",
+    "via": "p18",
+    "width": 2154,
+    "height": 1616
+  },
+  "yas-marina-circuit": {
+    "file": "File:YasMarina1.jpeg",
+    "author": "Pi3.124",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:YasMarina1.jpeg",
+    "via": "p18",
+    "width": 2592,
+    "height": 1458
   }
 }
