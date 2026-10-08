@@ -15,7 +15,7 @@ export const DAILY_LIVES = 3;
  * Endless runs are generated up front as one fixed chain of this length so that
  * every round is guaranteed to exist. Reaching the end counts as clearing the run.
  */
-export const ENDLESS_MAX_ROUNDS = 20;
+export const ENDLESS_MAX_ROUNDS = 10;
 
 export const SCORING = {
   correct: 100,

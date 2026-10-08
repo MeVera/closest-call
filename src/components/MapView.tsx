@@ -33,7 +33,10 @@ interface Box {
   w: number;
   h: number;
 }
-const overlaps = (a: Box, b: Box) => a.x < b.x + b.w && b.x < a.x + a.w && a.y < b.y + b.h && b.y < a.y + a.h;
+/** Boxes count as overlapping when closer than LABEL_GAP, so labels never touch. */
+const LABEL_GAP = 8;
+const overlaps = (a: Box, b: Box) =>
+  a.x < b.x + b.w + LABEL_GAP && b.x < a.x + a.w + LABEL_GAP && a.y < b.y + b.h + LABEL_GAP && b.y < a.y + a.h + LABEL_GAP;
 
 type Side = 'above' | 'below' | 'left' | 'right';
 
@@ -143,14 +146,20 @@ export function MapView({ round, unit, picked }: Props) {
   }, [anchor, options, distances, W, H]);
 
   // Label layout: options first (away from the anchor), then the anchor (away from both).
-  const textW = (s: string, size = FONT) => s.length * size * 0.6 + 6;
+  const textW = (s: string, size = FONT) => s.length * size * 0.62 + 8;
   const [ax, ay] = view.a;
   const dots: Box[] = [[ax, ay], ...view.opts].map(([x, y]) => ({ x: x - 10, y: y - 10, w: 20, h: 20 }));
   const taken: Box[] = [...dots];
   const optLabels = view.opts.map(([x, y], i) => {
     const o = options[i];
     const w = Math.max(textW(`✓ ${o.name}`), textW(formatDistance(distances[i], unit)));
-    const b = placeLabel(x, y, w, LINE * 2, sidesAway(x, y, ax, ay), taken, W, H);
+    // Option labels prefer to sit above or below their dot. When the points lie in a
+    // near-horizontal line, split them: the first option above, the second below.
+    const away = sidesAway(x, y, ax, ay);
+    const horizontal = away.filter((sd) => sd === 'left' || sd === 'right');
+    const flat = Math.abs(y - ay) < 40;
+    const vertical: Side[] = flat ? (i === 0 ? ['above', 'below'] : ['below', 'above']) : y < ay ? ['above', 'below'] : ['below', 'above'];
+    const b = placeLabel(x, y, w, LINE * 2, [...vertical, ...horizontal], taken, W, H);
     taken.push(b);
     return b;
   });

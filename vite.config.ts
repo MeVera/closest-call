@@ -6,6 +6,8 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   base: './',
   plugins: [react()],
+  // The bundle includes every place (about 500 items with credits); ~145 KB gzipped is expected.
+  build: { chunkSizeWarningLimit: 800 },
   test: {
     include: ['tests/**/*.test.ts'],
     testTimeout: 120_000,

@@ -42,11 +42,18 @@ export const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 let lastRequest = 0;
 /** fetch with the project User-Agent, a minimum gap between requests, and retries on 429/5xx. */
 export async function politeFetch(url: string, minGapMs = 1000): Promise<Response> {
-  for (let attempt = 0; attempt < 4; attempt++) {
+  for (let attempt = 0; attempt < 7; attempt++) {
     const wait = lastRequest + minGapMs - Date.now();
     if (wait > 0) await sleep(wait);
     lastRequest = Date.now();
-    const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, 'Api-User-Agent': USER_AGENT } });
+    let res: Response;
+    try {
+      res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, 'Api-User-Agent': USER_AGENT }, signal: AbortSignal.timeout(60_000) });
+    } catch (e) {
+      console.warn(`  network error (${(e as Error).message}), retrying`);
+      await sleep(5000 * (attempt + 1));
+      continue;
+    }
     if (res.status !== 429 && res.status < 500) return res;
     const retryAfter = Number(res.headers.get('retry-after')) || 5 * (attempt + 1);
     console.warn(`  ${res.status} from ${new URL(url).host}, retrying in ${retryAfter}s`);
@@ -56,9 +63,18 @@ export async function politeFetch(url: string, minGapMs = 1000): Promise<Respons
 }
 
 export async function fetchJson<T>(url: string, minGapMs?: number): Promise<T> {
-  const res = await politeFetch(url, minGapMs);
-  if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
-  return (await res.json()) as T;
+  for (let attempt = 0; ; attempt++) {
+    const res = await politeFetch(url, minGapMs);
+    if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+    try {
+      return (await res.json()) as T;
+    } catch (e) {
+      // The body stream can be cut off on large responses; retry a couple of times.
+      if (attempt >= 2) throw e;
+      console.warn(`  body read failed (${(e as Error).message}), retrying`);
+      await sleep(3000);
+    }
+  }
 }
 
 export function parseCoordRef(ref: string): { source: 'wikidata'; id: string } | { source: 'osm'; type: string; id: string } {

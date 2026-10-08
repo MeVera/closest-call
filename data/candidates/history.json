@@ -1,0 +1,675 @@
+[
+ {
+  "title": "Assassination of John F. Kennedy",
+  "place": "Dallas, United States",
+  "kind": "event",
+  "coord": "enwiki:Dealey Plaza",
+  "photoRef": "enwiki:Dealey Plaza"
+ },
+ {
+  "title": "Assassination of Abraham Lincoln",
+  "place": "Washington, D.C., United States",
+  "kind": "event",
+  "coord": "enwiki:Ford's Theatre",
+  "photoRef": "enwiki:Ford's Theatre"
+ },
+ {
+  "title": "Assassination of Archduke Franz Ferdinand",
+  "place": "Sarajevo, Bosnia and Herzegovina",
+  "kind": "event",
+  "coord": "enwiki:Latin Bridge",
+  "photoRef": "enwiki:Latin Bridge"
+ },
+ {
+  "title": "Assassination of Martin Luther King Jr.",
+  "place": "Memphis, United States",
+  "kind": "event",
+  "coord": "enwiki:Lorraine Motel",
+  "photoRef": "enwiki:Lorraine Motel"
+ },
+ {
+  "title": "Assassination of Julius Caesar",
+  "place": "Rome, Italy",
+  "kind": "event",
+  "coord": "enwiki:Largo di Torre Argentina",
+  "photoRef": "enwiki:Largo di Torre Argentina"
+ },
+ {
+  "title": "Attack on Pearl Harbor",
+  "place": "Oahu, United States",
+  "kind": "event",
+  "coord": "enwiki:USS Arizona Memorial",
+  "photoRef": "enwiki:USS Arizona Memorial"
+ },
+ {
+  "title": "Atomic bombing of Hiroshima",
+  "place": "Hiroshima, Japan",
+  "kind": "event",
+  "coord": "enwiki:Hiroshima Peace Memorial",
+  "photoRef": "enwiki:Hiroshima Peace Memorial",
+  "name": "Atomic bombing of Hiroshima"
+ },
+ {
+  "title": "Apollo 11",
+  "place": "Cape Canaveral, United States",
+  "kind": "event",
+  "coord": "enwiki:Kennedy Space Center Launch Complex 39A",
+  "photoRef": "enwiki:Kennedy Space Center Launch Complex 39A",
+  "name": "Apollo 11 launch"
+ },
+ {
+  "title": "Sputnik 1",
+  "place": "Baikonur, Kazakhstan",
+  "kind": "event",
+  "coord": "enwiki:Gagarin's Start",
+  "photoRef": "enwiki:Gagarin's Start",
+  "name": "Sputnik 1 launch"
+ },
+ {
+  "title": "Wright brothers",
+  "place": "Kill Devil Hills, United States",
+  "kind": "event",
+  "coord": "enwiki:Wright Brothers National Memorial",
+  "photoRef": "enwiki:Wright Brothers National Memorial",
+  "name": "Wright brothers' first flight"
+ },
+ {
+  "title": "United States Declaration of Independence",
+  "place": "Philadelphia, United States",
+  "kind": "event",
+  "coord": "enwiki:Independence Hall",
+  "photoRef": "enwiki:Independence Hall",
+  "name": "Signing of the Declaration of Independence"
+ },
+ {
+  "title": "Battle of Gettysburg",
+  "place": "Gettysburg, United States",
+  "kind": "event",
+  "coord": "enwiki:Gettysburg National Military Park",
+  "photoRef": "enwiki:Gettysburg National Military Park"
+ },
+ {
+  "title": "Battle of the Little Bighorn",
+  "place": "Montana, United States",
+  "kind": "event",
+  "coord": "enwiki:Little Bighorn Battlefield National Monument",
+  "photoRef": "enwiki:Little Bighorn Battlefield National Monument"
+ },
+ {
+  "title": "Battle of the Alamo",
+  "place": "San Antonio, United States",
+  "kind": "event",
+  "coord": "enwiki:The Alamo",
+  "photoRef": "enwiki:The Alamo"
+ },
+ {
+  "title": "Boston Tea Party",
+  "place": "Boston, United States",
+  "kind": "event"
+ },
+ {
+  "title": "Treaty of Versailles",
+  "place": "Versailles, France",
+  "kind": "event",
+  "coord": "enwiki:Hall of Mirrors",
+  "photoRef": "enwiki:Hall of Mirrors",
+  "name": "Signing of the Treaty of Versailles"
+ },
+ {
+  "title": "Magna Carta",
+  "place": "Runnymede, England",
+  "kind": "event",
+  "coord": "enwiki:Runnymede",
+  "photoRef": "enwiki:Runnymede",
+  "name": "Sealing of Magna Carta"
+ },
+ {
+  "title": "Battle of Agincourt",
+  "place": "Azincourt, France",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Thermopylae",
+  "place": "Thermopylae, Greece",
+  "kind": "event",
+  "coord": "enwiki:Thermopylae",
+  "photoRef": "enwiki:Thermopylae"
+ },
+ {
+  "title": "Battle of Marathon",
+  "place": "Marathon, Greece",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Austerlitz",
+  "place": "Slavkov u Brna, Czech Republic",
+  "kind": "event"
+ },
+ {
+  "title": "Landing at Anzac Cove",
+  "place": "Gallipoli, Turkey",
+  "kind": "event",
+  "coord": "enwiki:Anzac Cove",
+  "photoRef": "enwiki:Anzac Cove"
+ },
+ {
+  "title": "Battle of Culloden",
+  "place": "Inverness, Scotland",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Bannockburn",
+  "place": "Stirling, Scotland",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of the Boyne",
+  "place": "Drogheda, Ireland",
+  "kind": "event"
+ },
+ {
+  "title": "Eruption of Mount Vesuvius in 79 AD",
+  "place": "Pompeii, Italy",
+  "kind": "event",
+  "coord": "enwiki:Pompeii",
+  "photoRef": "enwiki:Pompeii",
+  "name": "Destruction of Pompeii"
+ },
+ {
+  "title": "Chernobyl disaster",
+  "place": "Pripyat, Ukraine",
+  "kind": "event",
+  "coord": "enwiki:Chernobyl Nuclear Power Plant",
+  "photoRef": "enwiki:Chernobyl Nuclear Power Plant"
+ },
+ {
+  "title": "Titanic",
+  "place": "North Atlantic Ocean",
+  "kind": "event",
+  "coord": "enwiki:Wreck of the Titanic",
+  "photoRef": "enwiki:Wreck of the Titanic",
+  "name": "Sinking of the Titanic"
+ },
+ {
+  "title": "1989 Tiananmen Square protests and massacre",
+  "place": "Beijing, China",
+  "kind": "event",
+  "coord": "enwiki:Tiananmen Square",
+  "photoRef": "enwiki:Tiananmen Square",
+  "name": "Tiananmen Square protests"
+ },
+ {
+  "title": "Soweto uprising",
+  "place": "Johannesburg, South Africa",
+  "kind": "event"
+ },
+ {
+  "title": "Treaty of Waitangi",
+  "place": "Waitangi, New Zealand",
+  "kind": "event",
+  "coord": "enwiki:Waitangi Treaty Grounds",
+  "photoRef": "enwiki:Waitangi Treaty Grounds",
+  "name": "Signing of the Treaty of Waitangi"
+ },
+ {
+  "title": "Eureka Rebellion",
+  "place": "Ballarat, Australia",
+  "kind": "event",
+  "name": "Eureka Stockade"
+ },
+ {
+  "title": "First Fleet",
+  "place": "Sydney, Australia",
+  "kind": "event",
+  "coord": "enwiki:Sydney Cove",
+  "photoRef": "enwiki:Sydney Cove",
+  "name": "First Fleet arrives at Sydney Cove"
+ },
+ {
+  "title": "KV62",
+  "place": "Luxor, Egypt",
+  "kind": "event",
+  "coord": "enwiki:KV62",
+  "photoRef": "enwiki:KV62",
+  "name": "Discovery of Tutankhamun's tomb"
+ },
+ {
+  "title": "October Revolution",
+  "place": "Saint Petersburg, Russia",
+  "kind": "event",
+  "coord": "enwiki:Winter Palace",
+  "photoRef": "enwiki:Winter Palace",
+  "name": "Storming of the Winter Palace"
+ },
+ {
+  "title": "Bay of Pigs Invasion",
+  "place": "Playa Girón, Cuba",
+  "kind": "event",
+  "coord": "enwiki:Playa Girón",
+  "photoRef": "enwiki:Playa Girón"
+ },
+ {
+  "title": "Battle of Isandlwana",
+  "place": "KwaZulu-Natal, South Africa",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Adwa",
+  "place": "Adwa, Ethiopia",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Dien Bien Phu",
+  "place": "Điện Biên Phủ, Vietnam",
+  "kind": "event"
+ },
+ {
+  "title": "Fall of Saigon",
+  "place": "Ho Chi Minh City, Vietnam",
+  "kind": "event",
+  "coord": "enwiki:Independence Palace",
+  "photoRef": "enwiki:Independence Palace"
+ },
+ {
+  "title": "Salt March",
+  "place": "Dandi, India",
+  "kind": "event",
+  "coord": "enwiki:Dandi, Gujarat",
+  "photoRef": "enwiki:Dandi, Gujarat",
+  "name": "End of the Salt March"
+ },
+ {
+  "title": "Jallianwala Bagh massacre",
+  "place": "Amritsar, India",
+  "kind": "event",
+  "coord": "enwiki:Jallianwala Bagh",
+  "photoRef": "enwiki:Jallianwala Bagh"
+ },
+ {
+  "title": "Treaty of Tordesillas",
+  "place": "Tordesillas, Spain",
+  "kind": "event",
+  "coord": "enwiki:Tordesillas",
+  "photoRef": "enwiki:Tordesillas",
+  "name": "Signing of the Treaty of Tordesillas"
+ },
+ {
+  "title": "First Council of Nicaea",
+  "place": "İznik, Turkey",
+  "kind": "event",
+  "coord": "enwiki:İznik",
+  "photoRef": "enwiki:İznik"
+ },
+ {
+  "title": "Ninety-five Theses",
+  "place": "Wittenberg, Germany",
+  "kind": "event",
+  "coord": "enwiki:All Saints' Church, Wittenberg",
+  "photoRef": "enwiki:All Saints' Church, Wittenberg",
+  "name": "Luther's Ninety-five Theses"
+ },
+ {
+  "title": "Peace of Westphalia",
+  "place": "Münster, Germany",
+  "kind": "event",
+  "coord": "enwiki:Historic City Hall of Münster",
+  "photoRef": "enwiki:Historic City Hall of Münster",
+  "name": "Peace of Westphalia"
+ },
+ {
+  "title": "Nuremberg trials",
+  "place": "Nuremberg, Germany",
+  "kind": "event",
+  "coord": "enwiki:Palace of Justice (Nuremberg)",
+  "photoRef": "enwiki:Palace of Justice (Nuremberg)"
+ },
+ {
+  "title": "Hindenburg disaster",
+  "place": "Lakehurst, United States",
+  "kind": "event",
+  "coord": "enwiki:Naval Air Engineering Station Lakehurst",
+  "photoRef": "enwiki:Naval Air Engineering Station Lakehurst"
+ },
+ {
+  "title": "Gunpowder Plot",
+  "place": "London, England",
+  "kind": "event",
+  "coord": "enwiki:Palace of Westminster",
+  "photoRef": "enwiki:Palace of Westminster"
+ },
+ {
+  "title": "Execution of Charles I",
+  "place": "London, England",
+  "kind": "event",
+  "coord": "enwiki:Banqueting House, Whitehall",
+  "photoRef": "enwiki:Banqueting House, Whitehall"
+ },
+ {
+  "title": "Plymouth Rock",
+  "place": "Plymouth, United States",
+  "kind": "event",
+  "coord": "enwiki:Plymouth Rock",
+  "photoRef": "enwiki:Plymouth Rock",
+  "name": "Pilgrims land at Plymouth"
+ },
+ {
+  "title": "Battle of Appomattox Court House",
+  "place": "Appomattox, United States",
+  "kind": "event",
+  "coord": "enwiki:Appomattox Court House National Historical Park",
+  "photoRef": "enwiki:Appomattox Court House National Historical Park",
+  "name": "Surrender at Appomattox"
+ },
+ {
+  "title": "Battle of Bosworth Field",
+  "place": "Leicestershire, England",
+  "kind": "event"
+ },
+ {
+  "title": "Trinity (nuclear test)",
+  "place": "New Mexico, United States",
+  "kind": "event",
+  "coord": "enwiki:Trinity Site",
+  "photoRef": "enwiki:Trinity Site",
+  "name": "Trinity nuclear test"
+ },
+ {
+  "title": "Signal Hill, St. John's",
+  "place": "St. John's, Canada",
+  "kind": "event",
+  "coord": "enwiki:Signal Hill, St. John's",
+  "photoRef": "enwiki:Signal Hill, St. John's",
+  "name": "First transatlantic radio signal received"
+ },
+ {
+  "title": "Sutter's Mill",
+  "place": "Coloma, United States",
+  "kind": "event",
+  "coord": "enwiki:Sutter's Mill",
+  "photoRef": "enwiki:Sutter's Mill",
+  "name": "California Gold Rush begins"
+ },
+ {
+  "title": "Golden spike",
+  "place": "Promontory, United States",
+  "kind": "event",
+  "coord": "enwiki:Golden Spike National Historical Park",
+  "photoRef": "enwiki:Golden Spike National Historical Park",
+  "name": "Golden Spike ceremony"
+ },
+ {
+  "title": "Siege of Masada",
+  "place": "Masada, Israel",
+  "kind": "event",
+  "coord": "enwiki:Masada",
+  "photoRef": "enwiki:Masada"
+ },
+ {
+  "title": "1883 eruption of Krakatoa",
+  "place": "Krakatoa, Indonesia",
+  "kind": "event",
+  "coord": "enwiki:Krakatoa",
+  "photoRef": "enwiki:Krakatoa"
+ },
+ {
+  "title": "Tunguska event",
+  "place": "Krasnoyarsk Krai, Russia",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Plassey",
+  "place": "Palashi, India",
+  "kind": "event"
+ },
+ {
+  "title": "First Battle of Panipat",
+  "place": "Panipat, India",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Sekigahara",
+  "place": "Sekigahara, Japan",
+  "kind": "event"
+ },
+ {
+  "title": "Coronation of Charlemagne",
+  "place": "Rome, Italy",
+  "kind": "event",
+  "coord": "enwiki:Old St. Peter's Basilica",
+  "photoRef": "enwiki:Old St. Peter's Basilica",
+  "name": "Coronation of Charlemagne"
+ },
+ {
+  "title": "Battle of Hattin",
+  "place": "Hattin, Israel",
+  "kind": "event",
+  "coord": "enwiki:Horns of Hattin",
+  "photoRef": "enwiki:Horns of Hattin"
+ },
+ {
+  "title": "Battle of Cannae",
+  "place": "Cannae, Italy",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of the Teutoburg Forest",
+  "place": "Kalkriese, Germany",
+  "kind": "event",
+  "coord": "enwiki:Kalkriese",
+  "photoRef": "enwiki:Kalkriese"
+ },
+ {
+  "title": "Battle of Grunwald",
+  "place": "Grunwald, Poland",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Vienna",
+  "place": "Vienna, Austria",
+  "kind": "event",
+  "coord": "enwiki:Kahlenberg",
+  "photoRef": "enwiki:Kahlenberg"
+ },
+ {
+  "title": "Battle of Borodino",
+  "place": "Borodino, Russia",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Mohács",
+  "place": "Mohács, Hungary",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Kosovo",
+  "place": "Pristina, Kosovo",
+  "kind": "event",
+  "coord": "enwiki:Gazimestan",
+  "photoRef": "enwiki:Gazimestan"
+ },
+ {
+  "title": "Battle of Bunker Hill",
+  "place": "Boston, United States",
+  "kind": "event",
+  "coord": "enwiki:Bunker Hill Monument",
+  "photoRef": "enwiki:Bunker Hill Monument"
+ },
+ {
+  "title": "Siege of Yorktown",
+  "place": "Yorktown, United States",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of New Orleans",
+  "place": "Chalmette, United States",
+  "kind": "event",
+  "coord": "enwiki:Chalmette Battlefield",
+  "photoRef": "enwiki:Chalmette Battlefield"
+ },
+ {
+  "title": "Battle of San Jacinto",
+  "place": "La Porte, United States",
+  "kind": "event",
+  "coord": "enwiki:San Jacinto Battleground State Historic Site",
+  "photoRef": "enwiki:San Jacinto Battleground State Historic Site"
+ },
+ {
+  "title": "Battle of Puebla",
+  "place": "Puebla, Mexico",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Ayacucho",
+  "place": "Ayacucho, Peru",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Boyacá",
+  "place": "Boyacá, Colombia",
+  "kind": "event"
+ },
+ {
+  "title": "Treaty of Rome",
+  "place": "Rome, Italy",
+  "kind": "event",
+  "coord": "enwiki:Palazzo dei Conservatori",
+  "photoRef": "enwiki:Palazzo dei Conservatori",
+  "name": "Signing of the Treaty of Rome"
+ },
+ {
+  "title": "Operation Deadstick",
+  "place": "Bénouville, France",
+  "kind": "event",
+  "coord": "enwiki:Pegasus Bridge",
+  "photoRef": "enwiki:Pegasus Bridge",
+  "name": "Capture of Pegasus Bridge"
+ },
+ {
+  "title": "Liberation of Auschwitz",
+  "place": "Oświęcim, Poland",
+  "kind": "event",
+  "coord": "enwiki:Auschwitz concentration camp",
+  "photoRef": "enwiki:Auschwitz concentration camp"
+ },
+ {
+  "title": "Battle of Rorke's Drift",
+  "place": "KwaZulu-Natal, South Africa",
+  "kind": "event",
+  "coord": "enwiki:Rorke's Drift",
+  "photoRef": "enwiki:Rorke's Drift"
+ },
+ {
+  "title": "Battle of Trafalgar",
+  "place": "Cape Trafalgar, Spain",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Lexington",
+  "place": "Lexington, United States",
+  "kind": "event",
+  "coord": "enwiki:Lexington Battle Green",
+  "photoRef": "enwiki:Lexington Battle Green"
+ },
+ {
+  "title": "Proclamation of the German Empire",
+  "place": "Versailles, France",
+  "kind": "event",
+  "coord": "enwiki:Hall of Mirrors",
+  "photoRef": "enwiki:Hall of Mirrors",
+  "name": "Proclamation of the German Empire"
+ },
+ {
+  "title": "Coronation of Napoleon",
+  "place": "Paris, France",
+  "kind": "event",
+  "coord": "enwiki:Notre-Dame de Paris",
+  "photoRef": "enwiki:Notre-Dame de Paris"
+ },
+ {
+  "title": "Signing of the Treaty of Paris (1783)",
+  "place": "Paris, France",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Stamford Bridge",
+  "place": "Stamford Bridge, England",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Lindisfarne",
+  "place": "Lindisfarne, England",
+  "kind": "event",
+  "coord": "enwiki:Lindisfarne",
+  "photoRef": "enwiki:Lindisfarne",
+  "name": "Viking raid on Lindisfarne"
+ },
+ {
+  "title": "Siege of Orléans",
+  "place": "Orléans, France",
+  "kind": "event"
+ },
+ {
+  "title": "Execution of Joan of Arc",
+  "place": "Rouen, France",
+  "kind": "event",
+  "coord": "enwiki:Place du Vieux-Marché",
+  "photoRef": "enwiki:Place du Vieux-Marché",
+  "name": "Execution of Joan of Arc"
+ },
+ {
+  "title": "Battle of Blood River",
+  "place": "KwaZulu-Natal, South Africa",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Long Tan",
+  "place": "Long Tân, Vietnam",
+  "kind": "event"
+ },
+ {
+  "title": "Kokoda Track campaign",
+  "place": "Kokoda, Papua New Guinea",
+  "kind": "event",
+  "coord": "enwiki:Kokoda",
+  "photoRef": "enwiki:Kokoda",
+  "name": "Kokoda Track campaign"
+ },
+ {
+  "title": "Battle of Isurava",
+  "place": "Isurava, Papua New Guinea",
+  "kind": "event"
+ },
+ {
+  "title": "Bombing of Darwin",
+  "place": "Darwin, Australia",
+  "kind": "event"
+ },
+ {
+  "title": "Sinking of the Rainbow Warrior",
+  "place": "Auckland, New Zealand",
+  "kind": "event"
+ },
+ {
+  "title": "Battle of Wounded Knee",
+  "place": "South Dakota, United States",
+  "kind": "event",
+  "coord": "enwiki:Wounded Knee Massacre",
+  "photoRef": "enwiki:Wounded Knee Massacre",
+  "name": "Wounded Knee Massacre"
+ },
+ {
+  "title": "Battle of Quebec (1759)",
+  "place": "Quebec City, Canada",
+  "kind": "event",
+  "coord": "enwiki:Plains of Abraham",
+  "photoRef": "enwiki:Plains of Abraham",
+  "name": "Battle of the Plains of Abraham"
+ },
+ {
+  "title": "Battle of Vimy Ridge",
+  "place": "Vimy, France",
+  "kind": "event",
+  "coord": "enwiki:Canadian National Vimy Memorial",
+  "photoRef": "enwiki:Canadian National Vimy Memorial"
+ }
+]

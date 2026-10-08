@@ -22,20 +22,20 @@ test.afterEach(async ({ page }) => {
 });
 
 test('home, archive and credits', async ({ page }, info) => {
-  await page.goto('/?demo#/');
+  await page.goto('/#/');
   await expect(page.getByRole('heading', { name: /closer/i })).toBeVisible();
   await noHorizontalScroll(page);
   await shot(page, info.project.name, '01-home');
-  await page.goto('/?demo#/archive');
+  await page.goto('/#/archive');
   await noHorizontalScroll(page);
   await shot(page, info.project.name, '07-archive');
-  await page.goto('/?demo#/credits');
+  await page.goto('/#/credits');
   await noHorizontalScroll(page);
   await shot(page, info.project.name, '08-credits');
 });
 
 test('daily: choose, reveal, end', async ({ page }, info) => {
-  await page.goto('/?demo#/daily/music');
+  await page.goto('/#/daily/music');
   await expect(page.getByText('Round 1 of 10')).toBeVisible();
   await noHorizontalScroll(page);
   await shot(page, info.project.name, '02-choose');
@@ -63,7 +63,7 @@ test('daily: choose, reveal, end', async ({ page }, info) => {
 });
 
 test('endless: choose and end', async ({ page }, info) => {
-  await page.goto('/?demo#/endless/history');
+  await page.goto('/#/endless/history');
   await shot(page, info.project.name, '05-endless-choose');
   for (let i = 0; i < 50; i++) {
     const next = page.getByRole('button', { name: /Next round|See results/ });
@@ -77,10 +77,4 @@ test('endless: choose and end', async ({ page }, info) => {
   await expect(page.getByRole('button', { name: 'Play again' })).toBeVisible();
   await noHorizontalScroll(page);
   await shot(page, info.project.name, '06-endless-end');
-});
-
-test('a theme without enough places explains itself', async ({ page }, info) => {
-  await page.goto('/#/daily/sport');
-  await expect(page.getByRole('heading', { name: /isn't ready yet/ })).toBeVisible();
-  await shot(page, info.project.name, '09-not-ready');
 });

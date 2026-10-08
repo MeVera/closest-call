@@ -19,8 +19,8 @@ const round5 = (x: number) => Math.round(x * 1e5) / 1e5;
 
 async function wikidataCoords(ids: string[]): Promise<Map<string, { lat: number; lon: number }>> {
   const out = new Map<string, { lat: number; lon: number }>();
-  for (let i = 0; i < ids.length; i += 50) {
-    const batch = ids.slice(i, i + 50);
+  for (let i = 0; i < ids.length; i += 15) {
+    const batch = ids.slice(i, i + 15);
     const url =
       'https://www.wikidata.org/w/api.php?' +
       new URLSearchParams({ action: 'wbgetentities', ids: batch.join('|'), props: 'claims', format: 'json' });

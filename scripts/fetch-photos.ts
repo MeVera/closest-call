@@ -3,6 +3,7 @@
 //   npm run fetch:photos                 # every item without a photo
 //   npm run fetch:photos -- --only abba  # one item (refetches it)
 //   npm run fetch:photos -- --force      # refetch everything
+//   npm run fetch:photos -- --theme music # one theme
 //
 // Order of preference: data/photo-overrides.json, then Wikidata P18 of the photo entity
 // (photoRef, else the coordRef entity, else wikidataId), then a Commons search.
@@ -27,6 +28,9 @@ const ABSOLUTE_MIN_WIDTH = 800;
 /** Filenames that suggest the image is not a photo of the place. */
 const DENY_FILENAME =
   /logo|poster|album|cover|portrait|signature|\bmap\b|locator|flag|coat[_ ]of[_ ]arms|\bseal\b|diagram|plan\b|ticket|stamp|banknote|tapestry|painting|engraving|lithograph|drawing|\bNARA\b|\.svg$|\.gif$/i;
+/** Commons categories (pipe-separated) that mark a file as artwork, a map or a picture of people. */
+const DENY_CATEGORY =
+  /paintings|engravings|lithographs|drawings|illustrations|prints\b|maps\b|portraits|people of|logos|badges|posters|diagrams|dioramas|panoramas \(art|battle scenes|in art\b|byobu|tapestr/i;
 let verbose = false;
 const ALLOWED_MIME = new Set(['image/jpeg', 'image/png', 'image/webp', 'image/tiff']);
 
@@ -73,7 +77,7 @@ async function imageInfos(titles: string[]): Promise<Map<string, ImageInfo>> {
       prop: 'imageinfo',
       iiprop: 'url|size|mime|extmetadata',
       iiurlwidth: String(THUMB_WIDTH),
-      iiextmetadatafilter: 'LicenseShortName|License|LicenseUrl|Artist|Credit|UsageTerms|NonFree|Copyrighted',
+      iiextmetadatafilter: 'LicenseShortName|License|LicenseUrl|Artist|Credit|UsageTerms|NonFree|Copyrighted|Categories',
     });
   const json = await fetchJson<{ query?: { normalized?: { from: string; to: string }[]; pages: { title: string; missing?: boolean; imageinfo?: ImageInfo[] }[] } }>(url);
   for (const p of json.query?.pages ?? []) if (!p.missing && p.imageinfo?.[0]) out.set(p.title, p.imageinfo[0]);
@@ -140,6 +144,8 @@ function judge(c: Candidate, ignoreFilenameRules = false): Judged {
   const m = (k: string) => meta[k]?.value ?? '';
   if (!ALLOWED_MIME.has(info.mime)) return { ok: false, reason: `mime ${info.mime}` };
   if (!ignoreFilenameRules && DENY_FILENAME.test(c.title)) return { ok: false, reason: 'filename suggests not a place photo' };
+  // Commons categories reveal artwork, maps and portraits that filenames do not.
+  if (!ignoreFilenameRules && DENY_CATEGORY.test(m('Categories'))) return { ok: false, reason: 'categories suggest artwork, map or people' };
   if (m('NonFree').toLowerCase() === 'true') return { ok: false, reason: 'marked non-free' };
   const licence = classifyLicence(m('LicenseShortName'), m('License'));
   if (!licence) return { ok: false, reason: `licence not accepted ("${m('LicenseShortName') || 'none'}")` };
@@ -241,6 +247,8 @@ async function main() {
   verbose = args.includes('--verbose');
   const oi = args.indexOf('--only');
   const only = oi >= 0 ? new Set(args[oi + 1].split(',')) : null;
+  const ti = args.indexOf('--theme');
+  const themes = ti >= 0 ? THEMES.filter((t) => args[ti + 1].split(',').includes(t)) : THEMES;
 
   fs.mkdirSync(PHOTOS_DIR, { recursive: true });
   const overridesFile = path.join(DATA_DIR, 'photo-overrides.json');
@@ -251,7 +259,7 @@ async function main() {
   let fetched = 0;
   let skipped = 0;
 
-  for (const theme of THEMES) {
+  for (const theme of themes) {
     for (const item of loadTheme(theme)) {
       if (only && !only.has(item.id)) continue;
       const dest = path.join(PHOTOS_DIR, `${item.id}.webp`);

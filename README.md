@@ -15,14 +15,15 @@ Static site: Vite + React + TypeScript, no backend. The name and every tunable n
 | `npm test` | Run the Vitest unit tests |
 | `npm run typecheck` | TypeScript only |
 | `npm run validate:data` | Validate all data, photos and credits, and simulate 400 days plus 500 Endless runs per theme. Exits 1 on any problem. Dev-only flags: `-- --skip-photos`, `-- --skip-generation` |
+| `npm run resolve -- <theme>` | Turn `data/candidates/<theme>.json` (English Wikipedia titles plus place and kind) into data items. Everything checkable comes from Wikidata: the item, its canonical point (its own coordinates, a named site, an artist's birthplace or a band's formation city), the country, whether a capital really is a national capital, and the History year. It rejects disputed origins and points that don't exist, appends new items, and skips ones already present. `-- --dry` reports only |
 | `npm run sync:coords` | Fill `lat`, `lon` and `coordSource` for every item from its `coordRef` (Wikidata P625 or OpenStreetMap). `-- --check` reports drift without writing; `-- --theme music` limits it to one theme |
 | `npm run fetch:photos` | Fetch, licence-check and convert photos from Wikimedia Commons, write credits and the contact sheet |
 | `npm run contact-sheet` | Rebuild `photo-review/contact-sheet.html` only |
-| `npm run screenshots` | Playwright: plays through every screen at 390×844 and 1280×800, in light and dark mode. It checks for console errors and horizontal scroll, and writes `screenshots/<project>/*.png` (git-ignored). The first time, run `npx playwright install chromium` |
+| `npm run screenshots` | Playwright: plays through every screen with the real data at 390×844 and 1280×800, in light and dark mode. It checks for console errors and horizontal scroll, and writes `screenshots/<project>/*.png` (git-ignored). The first time, run `npx playwright install chromium` |
 
-### Playing before the data is complete
+### Demo mode
 
-A daily needs at least 21 places per theme, and an Endless run needs 41. Until the pools are expanded, production builds show a "not ready yet" message for each theme. On the dev server, add `?demo` to pad every theme with synthetic filler points, so the whole game can be played and tested:
+Every theme now has enough real places to play. On the dev server, `?demo` still pads each theme with synthetic filler points, which is useful for testing generation. If a theme ever has fewer than 21 places, production builds show a "not ready yet" message for it instead of a game:
 
 ```
 http://localhost:5173/?demo#/daily/music
@@ -86,7 +87,25 @@ The app uses hash routes, so it works on any static host with no rewrite rules:
   Every access is wrapped in try/catch, so the game still works without storage.
 - **Midnight.** A daily keeps the date it started with, so a run that crosses midnight finishes the same puzzle.
 
+## Adding places
+
+1. Add entries to `data/candidates/<theme>.json`, for example `{"title": "Eiffel Tower", "place": "Paris, France", "kind": "landmark"}`. Optional fields:
+   - `name`, for a friendlier display name.
+   - `hint`.
+   - `coord`: `"enwiki:<site title>"` pins an event to a specific site.
+   - `photoRef`: the entity whose photo to use.
+   - `fact` and `factSource`, both required for Music.
+2. Run `npm run resolve -- <theme>`, then `npm run sync:coords -- --theme <theme>`.
+3. Run `npm run fetch:photos -- --theme <theme>`, review `photo-review/contact-sheet.html`, and pin any bad picks in `data/photo-overrides.json`.
+4. Run `npm run validate:data`.
+
+Run these network scripts **one at a time**. Running several in parallel makes Wikimedia throttle the connection.
+
 ## Decisions and defaults
+
+- **Endless length.** Endless is capped at 10 rounds (`ENDLESS_MAX_ROUNDS`), so it uses the same ratio bands as the daily. The band rule for round 11 and later is still in place for the day the cap is raised.
+- **Great Barrier Reef.** It is included at your request, using Wikidata's single cited point (-16.4, 145.8, off Cairns). The reef is about 2,300 km long, so distances to it are approximate. Remove it from `data/geography.json` if rounds near it feel unfair.
+- **The Berlin Wall.** It appears twice. In History it is "Fall of the Berlin Wall" at the Brandenburg Gate. In Geography it is "Berlin Wall (East Side Gallery)", the longest surviving section.
 
 Where the brief left a choice open, these are the defaults:
 
@@ -130,3 +149,44 @@ Seed items pinned after manual review:
 | Johnny Cash | Old US 79, Kingsland | The only real photo in Commons' Kingsland, Arkansas category; it's portrait |
 | Dolly Parton | Emert's Cove covered bridge, Pittman Center | The P18 is too small |
 | Sun Studio | Sun Studio facade | The search found an interior with tourists |
+
+## Data status
+
+| Theme | Places | Notes |
+| --- | --- | --- |
+| Sport | 120 | Stadiums, circuits, courses and racecourses on six continents |
+| Music | 134 | Studios, venues, festivals and artists. Every one has a fact sourced from its Wikipedia article |
+| Geography | 139 | 87 world-famous landmarks and 52 national capitals |
+| History | 101 | Events pinned to a named site (palace, battlefield, launch pad) |
+
+Every theme passes the generation check: 400 days of dailies and 500 Endless runs, with no failures.
+
+### Places left out
+
+These were left out because a rule could not be met, not because they were forgotten:
+
+| Place | Why it was left out |
+| --- | --- |
+| Peace of Westphalia, Joan of Arc's execution, Treaty of Paris (1783), Lindisfarne, Siege of Orléans | No exact site with coordinates on Wikidata |
+| Battle of Tours | The location is disputed |
+| Kokoda Track campaign | Spread over a wide area. The Battle of Isurava covers it instead |
+| Celia Cruz | Birthplace disputed (two different municipalities) |
+| Studio One | No site coordinates |
+| Grand Ole Opry House, Reading and Leeds, Concertgebouw | Their Wikipedia titles point to the show, two sites, or a disambiguation page |
+| Cheltenham Racecourse, Royal Melbourne Golf Club, Coachella, Bob Marley Museum, Umm Kulthum | No openly licensed photo of the place itself on Commons (only people, diagrams or maps) |
+
+### Photo review
+
+Every photo was reviewed on a contact sheet, and about 60 automatic picks were replaced through `data/photo-overrides.json`:
+
+- **People:** for example, Montreux festival performers or golfers at Augusta.
+- **Artwork:** battle paintings, for example.
+- **Maps and diagrams.**
+- **Logos and badges:** a team logo for the Bell Centre, a campaign badge for the Rainbow Warrior.
+- **Wrong place:** a Leeds cinema for Headingley, a Kingsland in Georgia instead of Arkansas.
+
+`fetch-photos` now also rejects files whose Commons categories mark them as paintings, engravings, maps, portraits and so on.
+
+Bands from the same city get different city photos, so London does not repeat across the Rolling Stones, Queen and Led Zeppelin.
+
+Where a site has no good modern photo, the History item shows its monument or memorial. Examples are the Mohyla míru at Austerlitz, the obelisk at Ayacucho, and Kabuli Bagh mosque at Panipat.
